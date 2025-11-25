@@ -1,0 +1,921 @@
+# Translation of YITH WooCommerce Recently Viewed Products in Greek
+# This file is distributed under the same license as the YITH WooCommerce Recently Viewed Products package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Recently Viewed Products\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"recently-viewed-products.premium\n"
+"POT-Creation-Date: 2024-03-12 17:14:24+00:00\n"
+"PO-Revision-Date: 2020-12-23 16:14:56+0000\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/class.yith-wrvp-admin-premium.php:141
+msgid "Create Shortcode"
+msgstr "Δημιουργία Μικροκώδικα"
+
+#: includes/class.yith-wrvp-admin-premium.php:142
+msgid "Email Settings"
+msgstr "Ρυθμίσεις Email"
+
+#: includes/class.yith-wrvp-admin-premium.php:207
+msgid "Hard Crop?"
+msgstr "Σκληρή Περικοπή;"
+
+#: includes/class.yith-wrvp-admin-premium.php:310
+msgid "Type an email address to send a test email"
+msgstr "Εισάγετε μια διεύθυνση email για αποστολή email δοκιμής"
+
+#: includes/class.yith-wrvp-admin-premium.php:311
+msgid "Send email"
+msgstr "Αποστολή email"
+
+#: includes/class.yith-wrvp-admin.php:146
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/class.yith-wrvp-admin.php:150
+msgid "Premium Version"
+msgstr "Premium Έκδοση"
+
+#: includes/class.yith-wrvp-frontend-premium.php:611
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: includes/class.yith-wrvp-frontend-premium.php:888
+#: plugin-options/shortcodes-data.php:126
+msgid "Most Viewed Products"
+msgstr "Πιο Προβαλλόμενα Προϊόντα"
+
+#: includes/class.yith-wrvp-mail-handler.php:451
+msgid "You have been unsubscribed from our mailing list successfully."
+msgstr "Έχετε απεγγραφεί επιτυχώς από τη λίστα αποστολής μας."
+
+#: includes/class.yith-wrvp-mail.php:37
+msgid "YITH Recently Viewed Products Email"
+msgstr "YITH Recently Viewed Products Email"
+
+#: includes/class.yith-wrvp-mail.php:41
+msgid "{blogname}"
+msgstr "{blogname}"
+
+#: includes/class.yith-wrvp-mail.php:42
+msgid "You may be interested in these products."
+msgstr "Μπορεί να σας ενδιαφέρουν αυτά τα προϊόντα."
+
+#: includes/class.yith-wrvp-mail.php:43 plugin-options/email-options.php:241
+msgid ""
+"According to your research, you may be interested in the following products. "
+"Moreover, purchasing one of these products will entitle you to receive a "
+"discount with the following coupon {coupon_code}{products_list}"
+msgstr ""
+"Σύμφωνα με την αναζήτησή σας, μπορεί να σας ενδιαφέρουν τα ακόλουθα "
+"προϊόντα. Ακόμη, αγοράζοντας ένα από αυτά τα προϊόντα θα σας δώσει το "
+"δικαίωμα να λάβετε έκπτωση με το ακόλουθο κουπόνι {coupon_code}"
+"{products_list}"
+
+#: includes/class.yith-wrvp-mail.php:663
+msgid "Logo Image"
+msgstr "Εικόνα Λογότυπου"
+
+#: includes/class.yith-wrvp-privacy-dpa.php:38
+msgid "While you visit our site, we’ll track:"
+msgstr "Κατά την επίσκεψή σας στη σελίδα μας, θα καταγράφουμε:"
+
+#: includes/class.yith-wrvp-privacy-dpa.php:40
+msgid "- Products viewed and store products ID as customer info."
+msgstr ""
+"- Προβαλλόμενα προϊόντα και ID προϊόντων καταστήματος ως στοιχεία πελάτη."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:42
+msgid ""
+"Email address will be used to send promotional emails based on this "
+"information."
+msgstr ""
+"Η διεύθυνση email θα χρησιμοποιηθεί για την αποστολή προωθητικών email βάσει "
+"αυτής της πληροφορίας."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:43
+msgid ""
+"If the site is visited with a guest user account, the plugin uses a cookie "
+"to store this information. No email address will be stored in this case."
+msgstr ""
+"Αν γίνεται επίσκεψη ιστότοπου με λογαριασμό χρήστη επισκέπτη, το πρόσθετο "
+"χρησιμοποιεί cookie για να αποθηκεύσει την πληροφορία. Δεν θα αποθηκευτεί "
+"διεύθυνση email σε αυτή την περίπτωση."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:44
+msgid ""
+"Note: you may want to further detail your cookie policy, and link to that "
+"section from here."
+msgstr ""
+"Σημείωση: ίσως θέλετε να αναφέρετε λεπτομερώς την πολιτική cookie σας και να "
+"συνδέσετε την ενότητα εδώ."
+
+#: includes/class.yith-wrvp.php:268
+msgid "Recently Viewed Products"
+msgstr "Recently Viewed Products"
+
+#: includes/class.yith-wrvp.php:308 includes/class.yith-wrvp.php:344
+#: includes/class.yith-wrvp.php:370
+#: includes/widgets/class.yith-wrvp-widget.php:52
+msgid "YITH Recently Viewed Products"
+msgstr "YITH Recently Viewed Products"
+
+#: includes/class.yith-wrvp.php:348
+msgid "Recently Viewed Products List"
+msgstr "Λίστα Πρόσφατα Προβαλλόμενων Προϊόντων"
+
+#: includes/class.yith-wrvp.php:400
+msgid "Removed recently viewed products list for customer"
+msgstr "Αφαιρέθηκε λίστα πρόσφατα προβαλλόμενων προϊόντων για πελάτη"
+
+#: includes/tinymce/tinymce-plugin-langs.php:20
+msgid "Customer product list"
+msgstr "Λίστα προϊόντος πελάτη"
+
+#: includes/tinymce/tinymce-plugin-langs.php:21
+msgid "Custom product list"
+msgstr "Λίστα προσαρμοσμένου προϊόντος"
+
+#: includes/tinymce/tinymce-plugin-langs.php:22
+#: plugin-options/email-options.php:142
+msgid "Coupon code"
+msgstr "Κωδικός κουπονιού"
+
+#: includes/tinymce/tinymce-plugin-langs.php:23
+msgid "Coupon expire"
+msgstr "Λήξη κουπονιού"
+
+#: includes/widgets/class.yith-wrvp-widget.php:29
+msgid "The widget shows the list of products added in the compare table."
+msgstr ""
+"Η μικροεφαρμογή εμφανίζει τη λίστα των προϊόντων που προστέθηκαν στον πίνακα "
+"σύγκρισης."
+
+#: includes/widgets/class.yith-wrvp-widget.php:32
+msgid "YITH WooCommerce Recently Viewed Products Widget"
+msgstr "YITH WooCommerce Recently Viewed Products Μικροεφαρμογή"
+
+#: includes/widgets/class.yith-wrvp-widget.php:226
+#: plugin-options/shortcodes-data.php:23
+msgid "You may be interested in"
+msgstr "Μπορεί να σας ενδιαφέρει"
+
+#: includes/widgets/class.yith-wrvp-widget.php:237
+msgid "Title"
+msgstr "Τίτλος"
+
+#: includes/widgets/class.yith-wrvp-widget.php:244
+#: plugin-options/email-options.php:50
+msgid "Number of products"
+msgstr "Αριθμός προϊόντων"
+
+#: includes/widgets/class.yith-wrvp-widget.php:251
+msgid "Order by"
+msgstr "Ταξινόμηση κατα"
+
+#: includes/widgets/class.yith-wrvp-widget.php:253
+msgid "Viewed Order"
+msgstr "Παραγγελία που Προβλήθηκε"
+
+#: includes/widgets/class.yith-wrvp-widget.php:254
+#: plugin-options/email-options.php:76 plugin-options/general-options.php:97
+msgid "Random"
+msgstr "Τυχαία"
+
+#: includes/widgets/class.yith-wrvp-widget.php:255
+#: plugin-options/email-options.php:79 plugin-options/general-options.php:100
+msgid "Newest"
+msgstr "Τα πιο καινούρια"
+
+#: includes/widgets/class.yith-wrvp-widget.php:256
+#: plugin-options/email-options.php:78 plugin-options/general-options.php:99
+msgid "Sales"
+msgstr "Προσφορές"
+
+#: includes/widgets/class.yith-wrvp-widget.php:257
+#: plugin-options/email-options.php:80 plugin-options/general-options.php:101
+msgid "Price: High to Low"
+msgstr "Τιμή: Υψηλή προς Χαμηλή"
+
+#: includes/widgets/class.yith-wrvp-widget.php:258
+#: plugin-options/email-options.php:81 plugin-options/general-options.php:102
+msgid "Price: Low to High"
+msgstr "Τιμή: Χαμηλή προς Υψηλή"
+
+#: includes/widgets/class.yith-wrvp-widget.php:264
+msgid "Products to show"
+msgstr "Προϊόντα προς εμφάνιση"
+
+#: includes/widgets/class.yith-wrvp-widget.php:266
+#: plugin-options/email-options.php:64 plugin-options/general-options.php:32
+msgid "Only viewed products"
+msgstr "Μόνο προβαλλόμενα προϊόντα"
+
+#: includes/widgets/class.yith-wrvp-widget.php:267
+msgid "Include similar products"
+msgstr "Συμπεριλάβετε σχετικά προϊόντα"
+
+#: init.php:50
+msgid ""
+"YITH WooCommerce Recently Viewed Products Premium is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"Το YITH WooCommerce Recently Viewed Products Premium είναι ενεργοποιημένο "
+"αλλά αναποτελεσματικό. Για σωστή λειτουργία απαιτείται WooCommerce."
+
+#: plugin-options/email-options.php:26
+msgid "E-mail settings"
+msgstr "Ρυθμίσεις e-mail"
+
+#: plugin-options/email-options.php:33
+msgid "Send email notifications"
+msgstr "Αποστολή ειδοποιήσεων email"
+
+#: plugin-options/email-options.php:34
+msgid ""
+"Select whether to send notification emails to your users about their "
+"recently viewed products."
+msgstr ""
+"Επιλέξτε αν θέλετε να στέλνετε email ειδοποίησης στους χρήστες σας για τα "
+"πρόσφατα προβαλλόμενα προϊόντα τους."
+
+#: plugin-options/email-options.php:41
+msgid "Schedule email"
+msgstr "Προγραμματισμός email"
+
+#: plugin-options/email-options.php:42
+msgid ""
+"Set how many days after their last login the system should send the email to "
+"users."
+msgstr ""
+"Ορίστε πόσες μέρες μετά την τελευταία σύνδεση θα πρέπει το σύστημα να "
+"στέλνει το email στους χρήστες."
+
+#: plugin-options/email-options.php:51
+msgid "Choose how many of the recently viewed products to show in the email."
+msgstr ""
+"Επιλέξτε πόσα από τα πρόσφατα προβαλλόμενα προϊόντα να εμφανίζονται στο "
+"email."
+
+#: plugin-options/email-options.php:59 plugin-options/general-options.php:27
+msgid "Select which products to show"
+msgstr "Επιλέξτε ποια προϊόντα να εμφανίζονται"
+
+#: plugin-options/email-options.php:60
+msgid "Choose whether to show only viewed products or also similar products."
+msgstr ""
+"Επιλέξτε αν θέλετε να εμφανίζετε μόνο προβαλλόμενα προϊόντα ή και σχετικά "
+"αντικείμενα."
+
+#: plugin-options/email-options.php:65 plugin-options/general-options.php:33
+msgid "Viewed products and similar items"
+msgstr "Προβαλλόμενα προϊόντα και σχετικά αντικείμενα"
+
+#: plugin-options/email-options.php:71 plugin-options/general-options.php:92
+msgid "Order products by"
+msgstr "Ταξινόμηση προϊόντων κατα"
+
+#: plugin-options/email-options.php:72 plugin-options/general-options.php:93
+msgid "Choose in which order the products should be shown."
+msgstr "Επιλέξτε σε ποια σειρά να εμφανίζονται τα προϊόντα."
+
+#: plugin-options/email-options.php:77 plugin-options/general-options.php:98
+msgid "Latest viewed"
+msgstr "Προβλήθηκαν τελευταία"
+
+#: plugin-options/email-options.php:87 plugin-options/general-options.php:132
+msgid "Show only products from the most viewed category"
+msgstr "Εμφάνιση προϊόντων μόνο από την πιο προβαλλόμενη κατηγορία"
+
+#: plugin-options/email-options.php:88
+msgid "Enable to only show products from the most-viewed category by the user."
+msgstr ""
+"Ενεργοποίηση εμφάνισης μόνο των προϊόντων της πιο προβαλλόμενης κατηγορίας "
+"από τον χρήστη."
+
+#: plugin-options/email-options.php:95
+msgid "Add also custom products"
+msgstr "Προσθήκη και προσαρμοσμένων προϊόντων"
+
+#: plugin-options/email-options.php:96
+msgid "Enable to select additional products to promote in the email."
+msgstr "Ενεργοποιήστε την επιλογή επιπλέον προϊόντων προς προώθηση στο email."
+
+#: plugin-options/email-options.php:103
+msgid "Select custom products"
+msgstr "Επιλογή προσαρμοσμένων προϊόντων"
+
+#: plugin-options/email-options.php:104
+msgid "Choose the products to promote in the email."
+msgstr "Επιλέξτε τα προϊόντα που θέλετε να προωθήσετε στο email."
+
+#: plugin-options/email-options.php:118
+msgid "Add a coupon"
+msgstr "Προσθήκη κουπονιού"
+
+#: plugin-options/email-options.php:119
+msgid "Enable to add a coupon in the email."
+msgstr "Ενεργοποίηση προσθήκης κουπονιού στο email."
+
+#: plugin-options/email-options.php:126
+msgid "Coupon type"
+msgstr "Τύπος κουπονιού"
+
+#: plugin-options/email-options.php:127
+msgid ""
+"Choose to use an existing coupon or to create automatically a coupon for the "
+"products added in the email."
+msgstr ""
+"Επιλέξτε να χρησιμοποιήσετε ένα υπάρχον κουπόνι ή να δημιουργήσετε αυτόματα "
+"ένα κουπόνι για τα προϊόντα που προστέθηκαν στο email."
+
+#: plugin-options/email-options.php:131
+msgid "Use an existing coupon"
+msgstr "Χρησιμοποιήστε ένα υπάρχον κουπόνι"
+
+#: plugin-options/email-options.php:132
+msgid "Create a coupon"
+msgstr "Δημιουργία κουπονιού"
+
+#: plugin-options/email-options.php:143
+msgid "Type the coupon code to use in the email."
+msgstr "Εισάγετε τον κωδικό κουπονιού που θα χρησιμοποιηθεί στο email."
+
+#: plugin-options/email-options.php:155
+msgid "Coupon amount"
+msgstr "Ποσό κουπονιού"
+
+#: plugin-options/email-options.php:156
+msgid "The coupon amount (Product % Discount)."
+msgstr "Το ποσό κουπονιού (Προϊόν % Έκπτωση)."
+
+#: plugin-options/email-options.php:170
+msgid "Coupon expiration date"
+msgstr "Ημερομηνία λήξης κουπονιού"
+
+#: plugin-options/email-options.php:171
+msgid ""
+"Set the number of days before the coupon expires, that is sent with the "
+"email."
+msgstr ""
+"Ορίστε τον αριθμό ημερών πριν την λήξη του κουπονιού που στέλνεται με το "
+"email."
+
+#: plugin-options/email-options.php:186
+msgid "Email customization"
+msgstr "Προσαρμογή email"
+
+#: plugin-options/email-options.php:193
+msgid "Logo image"
+msgstr "Εικόνα λογότυπου"
+
+#: plugin-options/email-options.php:194
+msgid ""
+"Upload logo image for email header. Use <code>{logo_image}</code> "
+"placeholder in the header to show it."
+msgstr ""
+"Ανέβασμα εικόνας λογοτύπου για την επικεφαλίδα email. Χρησιμοποιήστε το "
+"placeholder <code>{logo_image}</code> στην επικεφαλίδα για να το εμφανίσετε."
+
+#: plugin-options/email-options.php:201
+msgid "Email heading"
+msgstr "Επικεφαλίδα email"
+
+#: plugin-options/email-options.php:202
+msgid ""
+"Enter a text for the email heading or use one of the available placeholder "
+"<code>{site_title}, {site_address}, {site_url}</code>"
+msgstr ""
+"Εισάγετε κείμενο για την επικεφαλίδα email ή χρησιμοποιήστε ένα από τα "
+"διαθέσιμα placeholder <code>{site_title}, {site_address}, {site_url}</code>"
+
+#: plugin-options/email-options.php:212
+msgid "Email subject"
+msgstr "Θέμα email"
+
+#: plugin-options/email-options.php:213
+msgid ""
+"Enter a text for the email subject or use one of the available placeholder "
+"<code>{site_title}, {site_address}, {site_url}</code>. <br>Use the "
+"placeholder <code>{first_product_title}</code> to show the name of the first "
+"product of the list as subject."
+msgstr ""
+"Εισάγετε κείμενο για το θέμα email ή χρησιμοποιήστε ένα από τα διαθέσιμα "
+"placeholder <code>{site_title}, {site_address}, {site_url}</code>. "
+"<br>Χρησιμοποιήστε το placeholder <code>{first_product_title}</code> για να "
+"εμφανίσετε το όνομα του πρώτου προϊόντος της λίστας ως θέμα."
+
+#: plugin-options/email-options.php:216 plugin-options/email-options.php:218
+msgid "Are you still looking for these products?"
+msgstr "Ψάχνετε ακόμη αυτά τα προϊόντα;"
+
+#: plugin-options/email-options.php:223
+msgid "Email format"
+msgstr "Mορφή email"
+
+#: plugin-options/email-options.php:224
+msgid "Choose which type of email to send."
+msgstr "Επιλέξτε ποιος τύπος email να στέλνεται."
+
+#: plugin-options/email-options.php:230
+msgid "Plain"
+msgstr "Απλό"
+
+#: plugin-options/email-options.php:231
+msgid "HTML"
+msgstr "HTML"
+
+#: plugin-options/email-options.php:232
+msgid "Multipart"
+msgstr "Με πολλαπλά μέρη"
+
+#: plugin-options/email-options.php:237
+msgid "Email content"
+msgstr "Περιεχόμενο email"
+
+#: plugin-options/email-options.php:245
+msgid "Thumbnail Size"
+msgstr "Μέγεθος Μικρογραφίας"
+
+#. translators: %s is the string "regenerate your thumbnails", with the link to
+#. the free plugin to regenerate thumbnails.
+#: plugin-options/email-options.php:247
+msgid ""
+"Set product image size (in px). After changing this option, you may need to "
+"%s."
+msgstr ""
+"Ορίστε μέγεθος εικόνας προϊόντος (σε px). Μετά την αλλαγή αυτής της "
+"επιλογής, μπορεί να χρειαστεί να %s."
+
+#: plugin-options/email-options.php:247
+msgid "regenerate your thumbnails"
+msgstr "επαναδημιουργία μικρογραφιών"
+
+#: plugin-options/email-options.php:257
+msgid "Enable Mandrill"
+msgstr "Ενεργοποίηση Mandrill"
+
+#: plugin-options/email-options.php:264
+msgid "Mandrill API KEY"
+msgstr "ΚΛΕΙΔΙ API Mandrill"
+
+#: plugin-options/email-options.php:265
+msgid "Insert your Mandrill API KEY"
+msgstr "Εισαγωγή του ΚΛΕΙΔΙΟΥ API Mandrill"
+
+#: plugin-options/email-options.php:277
+msgid "Add Google Analytics to email links"
+msgstr "Προσθήκη Google Analytics σε συνδέσμους email"
+
+#: plugin-options/email-options.php:285
+msgid "Campaign Source"
+msgstr "Πηγή Καμπάνιας"
+
+#: plugin-options/email-options.php:288
+msgid "Referrer: google, citysearch, newsletter4"
+msgstr "Παραπομπή: google, citysearch, newsletter4"
+
+#: plugin-options/email-options.php:298
+msgid "Campaign Medium"
+msgstr "Μέσο Καμπάνιας"
+
+#: plugin-options/email-options.php:301
+msgid "Marketing medium: cpc, banner, email"
+msgstr "Μέσο μάρκετινγκ: cpc, μπάνερ, email"
+
+#: plugin-options/email-options.php:311
+msgid "Campaign Term"
+msgstr "Όρος Καμπάνιας"
+
+#: plugin-options/email-options.php:313
+msgid ""
+"Identify the paid keywords. Enter values separated by commas, for example: "
+"term1, term2"
+msgstr ""
+"Προσδιορίστε τις πληρωμένες λέξεις-κλειδιά. Εισάγετε αξίες διαχωρισμένες με "
+"κόμματα, για παράδειγμα: όρος1, όρος2"
+
+#: plugin-options/email-options.php:315
+msgid "Insert a term&hellip;"
+msgstr "Εισάγετε έναν όρο&hellip;"
+
+#: plugin-options/email-options.php:324
+msgid "Campaign Content"
+msgstr "Περιεχόμενο Καμπάνιας"
+
+#: plugin-options/email-options.php:327
+msgid "Use to differentiate ads"
+msgstr "Χρησιμοποιήστε το για να διαφοροποιήσετε τις διαφημίσεις"
+
+#: plugin-options/email-options.php:337
+msgid "Campaign Name"
+msgstr "Όνομα Καμπάνιας"
+
+#: plugin-options/email-options.php:340
+msgid "Product, promo code, or slogan"
+msgstr "Προϊόν, προωθητικός κωδικός, ή σλόγκαν"
+
+#: plugin-options/email-options.php:350
+msgid "Send a test email to:"
+msgstr "Στείλτε δοκιμή email σε:"
+
+#: plugin-options/email-options.php:352
+msgid ""
+"Use this option to send a test of this email and check if everything is okay."
+msgstr ""
+"Χρησιμοποιήστε αυτή την επιλογή για να στείλετε δοκιμή αυτού του email και "
+"να ελέγξετε αν όλα λειτουργούν σωστά."
+
+#: plugin-options/general-options.php:18
+msgid "Set cookie time"
+msgstr "Ορισμός χρόνου cookie"
+
+#: plugin-options/general-options.php:19
+msgid ""
+"Set the duration (days) of the cookie that tracks the user's viewed products."
+msgstr ""
+"Ορίστε την διάρκεια (ημέρες) για το cookie που καταγράφει τα προβαλλόμενα "
+"προϊόντα του χρήστη."
+
+#: plugin-options/general-options.php:28
+msgid "Choose whether to only show viewed products or also similar items."
+msgstr ""
+"Επιλέξτε αν θέλετε να εμφανίζετε μόνο προβαλλόμενα προϊόντα ή και σχετικά "
+"αντικείμενα."
+
+#: plugin-options/general-options.php:39
+msgid "Get similar products by"
+msgstr "Εμφάνιση σχετικών προϊόντων ανά"
+
+#: plugin-options/general-options.php:40
+msgid "Choose to get similar products by categories, tags or both"
+msgstr ""
+"Επιλέξτε να εμφανίζονται σχετικά προϊόντα ανά κατηγορίες, ετικέτες ή και τα "
+"δυο"
+
+#: plugin-options/general-options.php:44
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: plugin-options/general-options.php:45
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: plugin-options/general-options.php:46
+msgid "Both"
+msgstr "Και τα δυο"
+
+#: plugin-options/general-options.php:57
+msgid "Set how many products to show"
+msgstr "Ορίστε πόσα προϊόντα να εμφανίζετε"
+
+#: plugin-options/general-options.php:58
+msgid ""
+"Choose how many products to show and how many of them to show in each row."
+msgstr ""
+"Επιλέξτε πόσα προϊόντα να εμφανίζονται και πόσα από αυτά να εμφανίζονται σε "
+"κάθε σειρά."
+
+#: plugin-options/general-options.php:64
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: plugin-options/general-options.php:73
+msgid "products and show"
+msgstr "προϊόντων και εμφάνιση"
+
+#: plugin-options/general-options.php:82
+msgid "products for each row"
+msgstr "προϊόντων για κάθε σειρά"
+
+#: plugin-options/general-options.php:107
+msgid "Set which products to hide"
+msgstr "Ορίστε προϊόντα προς απόκρυψη"
+
+#: plugin-options/general-options.php:108
+msgid "Hide out-of-stock products"
+msgstr "Απόκρυψη προϊόντων εκτός αποθέματος"
+
+#: plugin-options/general-options.php:117
+msgid "Hide free products"
+msgstr "Απόκρυψη δωρεάν προϊόντων"
+
+#: plugin-options/general-options.php:125
+msgid "Hide products already bought by the customer"
+msgstr "Απόκρυψη προϊόντων που ο πελάτης έχει ήδη αγοράσει"
+
+#: plugin-options/general-options.php:133
+msgid "Enable to show only products of the most viewed category by the user."
+msgstr ""
+"Ενεργοποίηση εμφάνισης μόνο των προϊόντων της πιο προβαλλόμενης κατηγορίας "
+"από τον χρήστη."
+
+#: plugin-options/general-options.php:140
+msgid "Enable products slider"
+msgstr "Ενεργοποίηση ολισθητή προϊόντων"
+
+#: plugin-options/general-options.php:141
+msgid "Choose if you want to show a slider of products."
+msgstr "Επιλέξτε αν θέλετε να εμφανίζεται ολισθητής προϊόντων."
+
+#: plugin-options/general-options.php:148
+msgid "Enable products slider autoplay"
+msgstr "Ενεργοποίηση αυτόματης αναπαραγωγής ολισθητή προϊόντων"
+
+#: plugin-options/general-options.php:149
+msgid "Choose whether to enable autoplay for sliders."
+msgstr ""
+"Επιλέξτε αν θέλετε να ενεργοποιήσετε την αυτόματη αναπαραγωγή για τους "
+"ολισθητές."
+
+#: plugin-options/general-options.php:161
+msgid "Show dot indicators"
+msgstr "Εμφάνιση δεικτών κουκκίδας"
+
+#: plugin-options/general-options.php:162
+msgid "Choose whether to show dot indicators for sliders."
+msgstr "Επιλέξτε αν θέλετε να εμφανίσετε δείκτες κουκκίδας για τους ολισθητές."
+
+#: plugin-options/general-options.php:174
+msgid "Show shortcode in all product pages"
+msgstr "Εμφάνιση κειμένου υποκατάστασης σε όλες τις σελίδες προϊόντος"
+
+#: plugin-options/general-options.php:175
+msgid "Enable to automatically show the shortcode in all product pages"
+msgstr ""
+"Ενεργοποιήστε την αυτόματη εμφάνιση του κειμένου υποκατάστασης σε όλες τις "
+"σελίδες προϊόντος"
+
+#: plugin-options/general-options.php:192
+msgid "Text for no product found"
+msgstr "Δεν βρέθηκε κείμενο για κάποιο προϊόν"
+
+#: plugin-options/general-options.php:195
+msgid ""
+"Set which text to show in the Recently Viewed Products page when no product "
+"has been found."
+msgstr ""
+"Εισάγετε ποιο κείμενο να εμφανίζετε στη σελίδα Πρόσφατα Προβαλλόμενων "
+"Προϊόντων όταν δεν έχει βρεθεί κανένα προϊόν."
+
+#: plugin-options/general-options.php:196
+msgid "You have not viewed any product yet."
+msgstr "Δεν έχει γίνει προβολή κάποιου προϊόντος ακόμη."
+
+#: plugin-options/general-options.php:200
+msgid "Section title"
+msgstr "Τίτλος ενότητας"
+
+#: plugin-options/general-options.php:201
+msgid "Enter a title for the viewed product section"
+msgstr ""
+"Εισάγετε ένα τίτλο για την ενότητα με τα πρόσφατα προβαλλόμενα προϊόντα"
+
+#: plugin-options/general-options.php:204
+msgid "Recently viewed products"
+msgstr "Πρόσφατα προβαλλόμενα προϊόντα"
+
+#: plugin-options/general-options.php:208
+msgid "Text for \"View All\" link"
+msgstr "Κείμενο για σύνδεσμο “Προβολή Όλων”"
+
+#: plugin-options/general-options.php:209
+msgid "Enter a custom text for the \"View all\" link."
+msgstr "Εισάγετε προσαρμοσμένο κείμενο για τον σύνδεσμο “Προβολή όλων”."
+
+#: plugin-options/general-options.php:212
+msgid "View all >"
+msgstr "Προβολή όλων >"
+
+#: plugin-options/shortcodes-data.php:28
+msgid "View All"
+msgstr "Προβολή Όλων"
+
+#: templates/admin/email-tab.php:21
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: templates/admin/shortcode-tab.php:18
+msgid "Build your own shortcode"
+msgstr "Δημιουργήστε τον δικό σας μικροκώδικα"
+
+#: templates/admin/shortcode-tab.php:35
+msgid "Copy and paste this shortcode in your page"
+msgstr "Αντιγραφή και επικόλληση αυτού του μικροκώδικα στη σελίδα σας"
+
+#: templates/email/ywrvp-mail-custom-products-list.php:58
+#: templates/email/ywrvp-mail-products-list.php:57
+msgid "View Details"
+msgstr "Εμφάνιση Λεπτομερειών"
+
+#: templates/email/ywrvp-mail-custom-products-list.php:62
+#: templates/email/ywrvp-mail-products-list.php:61
+msgid "Add to wishlist"
+msgstr "Προσθήκη στη λίστα επιθυμιών"
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Recently Viewed Products</strong></code> "
+"lets you offer a quick summary to your users about what they have recently "
+"seen and what they could be interested in. It helps your customers find "
+"products of interest and turn them into sales. <a href=\"https://yithemes."
+"com/\" target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""
+"Το <code><strong>YITH WooCommerce Recently Viewed Products</strong></code> "
+"σας επιτρέπει να προσφέρετε στους χρήστες σας μια σύντομη σύνοψη σχετικά με "
+"το τι έχουν δει πρόσφατα και τι μπορεί να τους ενδιαφέρει. Βοηθάει τους "
+"πελάτες σας να βρουν προϊόντα που τους αφορούν οδηγώντας τους στις αγορές. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Βρείτε περισσότερα "
+"πρόσθετα για το ηλεκτρονικό σας κατάστημα στο <strong>YITH</strong></a>."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:23
+msgctxt "Privacy Policy Content"
+msgid "YITH Woocommerce Recently Viewed Products Premium"
+msgstr "YITH Woocommerce Recently Viewed Products Premium"
+
+#: includes/class.yith-wrvp.php:267
+msgctxt "page_slug"
+msgid "recently-viewed-products"
+msgstr "recently-viewed-products"
+
+#: plugin-options/general-options.php:11
+msgctxt "Admin section title"
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: plugin-options/general-options.php:185
+msgctxt "Admin section title"
+msgid "Texts and Labels"
+msgstr "Κείμενα και Επιγραφές"
+
+#: plugin-options/shortcode-options.php:20
+msgctxt "Shortcode section title"
+msgid "Recently Viewed Products"
+msgstr "Πρόσφατα Προβαλλόμενα Προϊόντα"
+
+#: plugin-options/shortcode-options.php:23
+msgctxt "Shortcode section title"
+msgid "Most Viewed Products"
+msgstr "Πιο Προβαλλόμενα Προϊόντα"
+
+#: plugin-options/shortcodes-data.php:16
+msgctxt "[gutenberg]: block name"
+msgid "Recently Viewed Products"
+msgstr "Πρόσφατα Προβαλλόμενα Προϊόντα"
+
+#: plugin-options/shortcodes-data.php:119
+msgctxt "[gutenberg]: block name"
+msgid "Most Viewed Products"
+msgstr "Πιο Προβαλλόμενα Προϊόντα"
+
+#: plugin-options/shortcodes-data.php:17 plugin-options/shortcodes-data.php:120
+msgctxt "[gutenberg]: block description"
+msgid "With this block you can do something...."
+msgstr "Με αυτό το πλαίσιο μπορείτε να κάνετε κάτι…."
+
+#: plugin-options/shortcodes-data.php:51 plugin-options/shortcodes-data.php:130
+msgctxt "[gutenberg]: block description"
+msgid "Set how many products to show in plugin section (set -1 to display all)"
+msgstr ""
+"Ορίστε πόσα προϊόντα να εμφανίζονται στην ενότητα πρόσθετου (ορίστε -1 για "
+"να εμφανίζονται όλα)"
+
+#: plugin-options/shortcodes-data.php:57 plugin-options/shortcodes-data.php:136
+msgctxt "[gutenberg]: block description"
+msgid "Set how many products to show per row"
+msgstr "Ορίστε πόσα προϊόντα να εμφανίζονται ανά σειρά"
+
+#: plugin-options/shortcodes-data.php:22 plugin-options/shortcodes-data.php:125
+msgctxt "[gutenberg]: attributes description"
+msgid "The section title"
+msgstr "Ο τίτλος ενότητας"
+
+#: plugin-options/shortcodes-data.php:27
+msgctxt "[gutenberg]: attribute description"
+msgid "The \"View All\" link text"
+msgstr "Το κείμενο συνδέσμου “Προβολή Όλων”"
+
+#: plugin-options/shortcodes-data.php:32
+msgctxt "[gutenberg]: attribute description"
+msgid "Select which products to show"
+msgstr "Επιλέξτε ποια προϊόντα να εμφανίζονται"
+
+#: plugin-options/shortcodes-data.php:41
+msgctxt "[gutenberg]: attribute description"
+msgid "If you choose to show similar products select how to get them"
+msgstr ""
+"Αν επιλέξετε να εμφανίσετε σχετικά προϊόντα επιλέξτε πώς να τα αποκτήσετε"
+
+#: plugin-options/shortcodes-data.php:63
+msgctxt "[gutenberg]: attribute description"
+msgid "Choose in which order the products should be shown"
+msgstr "Επιλέξτε σε ποια σειρά να εμφανίζονται τα προϊόντα"
+
+#: plugin-options/shortcodes-data.php:34
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Only viewed products"
+msgstr "Μόνο προβαλλόμενα προϊόντα"
+
+#: plugin-options/shortcodes-data.php:35
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Viewed products and similar items"
+msgstr "Προβαλλόμενα προϊόντα και σχετικά αντικείμενα"
+
+#: plugin-options/shortcodes-data.php:43
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By categories"
+msgstr "Κατα κατηγορίες"
+
+#: plugin-options/shortcodes-data.php:44
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By tags"
+msgstr "Κατα ετικέτες"
+
+#: plugin-options/shortcodes-data.php:45
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By both categories and tags"
+msgstr "Κατα κατηγορίες και ετικέτες"
+
+#: plugin-options/shortcodes-data.php:65
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Random"
+msgstr "Τυχαία"
+
+#: plugin-options/shortcodes-data.php:66
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Latest viewed"
+msgstr "Προβλήθηκαν τελευταία"
+
+#: plugin-options/shortcodes-data.php:67
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Sales"
+msgstr "Προσφορές"
+
+#: plugin-options/shortcodes-data.php:68
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Newest"
+msgstr "Τα πιο καινούρια"
+
+#: plugin-options/shortcodes-data.php:69
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Price: High to Low"
+msgstr "Τιμή: Υψηλή προς Χαμηλή"
+
+#: plugin-options/shortcodes-data.php:70
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Price: Low to High"
+msgstr "Τιμή: Χαμηλή προς Υψηλή"
+
+#: plugin-options/shortcodes-data.php:78 plugin-options/shortcodes-data.php:93
+#: plugin-options/shortcodes-data.php:102
+#: plugin-options/shortcodes-data.php:111
+#: plugin-options/shortcodes-data.php:150
+#: plugin-options/shortcodes-data.php:159
+#: plugin-options/shortcodes-data.php:168
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Yes"
+msgstr "Ναι"
+
+#: plugin-options/shortcodes-data.php:79 plugin-options/shortcodes-data.php:94
+#: plugin-options/shortcodes-data.php:103
+#: plugin-options/shortcodes-data.php:112
+#: plugin-options/shortcodes-data.php:151
+#: plugin-options/shortcodes-data.php:160
+#: plugin-options/shortcodes-data.php:169
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "No"
+msgstr "Όχι"
+
+#: plugin-options/shortcodes-data.php:76
+msgctxt "[gutenberg]: Option title"
+msgid "Show only the most viewed category"
+msgstr "Εμφάνιση μόνο της πιο προβαλλόμενης κατηγορίας"
+
+#: plugin-options/shortcodes-data.php:85 plugin-options/shortcodes-data.php:142
+msgctxt "[gutenberg]: Option title"
+msgid "Select the categories to show"
+msgstr "Επιλέξτε τις κατηγορίες προς εμφάνιση"
+
+#: plugin-options/shortcodes-data.php:91 plugin-options/shortcodes-data.php:148
+msgctxt "[gutenberg]: Option title"
+msgid "Enable slider"
+msgstr "Ενεργοποίηση ολισθητή"
+
+#: plugin-options/shortcodes-data.php:100
+#: plugin-options/shortcodes-data.php:157
+msgctxt "[gutenberg]: Option title"
+msgid "Enable slider autoplay"
+msgstr "Ενεργοποίηση αυτόματης αναπαραγωγής ολισθητή"
+
+#: plugin-options/shortcodes-data.php:109
+#: plugin-options/shortcodes-data.php:166
+msgctxt "[gutenberg]: Option title"
+msgid "Show dot indicators"
+msgstr "Εμφάνιση δεικτών κουκκίδας"

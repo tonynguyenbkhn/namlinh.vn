@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('lapilli-ui-components', 'lapilli-ui-styles', 'react', 'wp-api-fetch', 'wp-components', 'wp-data', 'wp-element', 'wp-i18n', 'wp-polyfill', 'ywcas-block-settings', 'ywcas-blocks-data-store', 'ywcas-blocks-registry'), 'version' => 'ae5fc03270b7ac80485a');

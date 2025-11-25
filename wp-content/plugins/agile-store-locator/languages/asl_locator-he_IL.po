@@ -1,0 +1,3468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile Store Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-26 07:53+0000\n"
+"PO-Revision-Date: 2024-07-26 09:49+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: agile-store-locator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Version: 2.5.2; wp-5.9.3\n"
+
+#: includes/admin/attribute.php:123
+msgid " added successfully"
+msgstr " נוסף בהצלחה"
+
+#: includes/vendors/wpbakery/store-cards.php:138
+#, fuzzy
+msgid "10"
+msgstr "14"
+
+#: admin/partials/shortcode-popup-html.php:69
+msgid "12 Hours"
+msgstr "12 שעות"
+
+#: admin/partials/ui-customizer-fields.php:37
+msgid "13"
+msgstr "13"
+
+#: admin/partials/shortcode-popup-html.php:72
+msgid "24 Hours"
+msgstr "24 שעות"
+
+#: includes/admin/store.php:1071
+msgid "<p><a href=\"%verification_url%\" target=\"_blank\">Approve Store</a> to adding it in listing.</p>"
+msgstr "<p style=\";text-align:right;direction:rtl\">אשר <a href=\"%verification_url%\" target=\"_blank\">לחנות</a> להוסיף אותה לרישום.</p>"
+
+#: includes/frontend/request.php:594
+#: includes/frontend/request.php:733
+msgid "A new lead is requesting details about the store: "
+msgstr "מוביל חדש מבקש פרטים על החנות:"
+
+#: includes/plugin.php:337
+msgid "A Store Locator"
+msgstr "מאתר חנות"
+
+#: includes/model/label.php:156
+msgid "Accept"
+msgstr "לְקַבֵּל"
+
+#: includes/vendors/elementor/store-locator.php:177
+msgid "Accordion (Categories)"
+msgstr ""
+
+#: includes/vendors/elementor/store-locator.php:176
+msgid "Accordion (States, Cities, Countries)"
+msgstr ""
+
+#: admin/partials/categories.php:61
+#: admin/partials/markers.php:55
+#: admin/partials/manage_store.php:152
+#: admin/partials/manage-cards.php:70
+#: admin/partials/attribute.php:92
+#: admin/partials/logos.php:57
+msgid "Action"
+msgstr "פעולה"
+
+#: admin/partials/manage_leads.php:6
+#: admin/partials/categories.php:6
+#: admin/partials/manage_store.php:11
+#: admin/partials/add_store.php:23
+#: admin/partials/manage-cards.php:30
+#: admin/partials/edit_store.php:26
+#: admin/partials/attribute.php:6
+#: admin/partials/logos.php:6
+msgid "Add"
+msgstr "לְהוֹסִיף"
+
+#: admin/partials/categories.php:197
+msgid "Add Category"
+msgstr "הוסף קטגוריה"
+
+#: includes/store-type.php:39
+#: admin/partials/attribute.php:71
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/categories.php:152
+msgid "Add New Category"
+msgstr "הוסף קטגוריה חדשה"
+
+#: includes/store-type.php:40
+#: includes/plugin.php:339
+msgid "Add New Store"
+msgstr "הוסף חנות חדשה"
+
+#: admin/partials/add_store.php:515
+msgid "Add Store"
+msgstr "הוסף חנות"
+
+#: includes/admin/manager.php:852
+msgid "Add Store Locator Shortcode"
+msgstr "הוסף קוד קצר לאיתור חנות"
+
+#: admin/partials/dashboard.php:96
+msgid "Add the API Key"
+msgstr "הוסף את מפתח ה-API"
+
+#: admin/partials/dashboard.php:89
+msgid "Add the shortcode"
+msgstr "הוסף את הקוד הקצר"
+
+#: admin/partials/dashboard.php:91
+msgid "Add the shortcode <b>[ASL_STORELOCATOR]</b> on the new page or whichever page you’d like to display it."
+msgstr "הוסף את הקוד הקצר <b>[ASL_STORELOCATOR]</b> בדף החדש או בכל דף שתרצה להציג אותו."
+
+#: admin/partials/dashboard.php:103
+msgid "Add your Stores"
+msgstr "הוסף את החנויות שלך"
+
+#: includes/model/label.php:179
+msgid "Additional Data"
+msgstr "מידע נוסף"
+
+#: admin/partials/add_store.php:58
+#: admin/partials/add_store.php:59
+#: admin/partials/edit_store.php:70
+#: admin/partials/edit_store.php:71
+#: includes/model/label.php:180
+msgid "Additional Description"
+msgstr "תיאור נוסף"
+
+#: includes/model/label.php:137
+msgid "Additional Details"
+msgstr "פרטים נוספים"
+
+#: includes/vendors/wpbakery/store-detail.php:84
+msgid "Address"
+msgstr ""
+
+#: includes/vendors/elementor/store-detail.php:149
+msgid "address"
+msgstr ""
+
+#: includes/model/label.php:174
+msgid "ADDRESS LOCATION"
+msgstr "מיקום הכתובת"
+
+#: includes/admin/store.php:1070
+msgid "Address: "
+msgstr "כתובת:"
+
+#: includes/admin/setting.php:1035
+msgid "Administrator permissions are required."
+msgstr ""
+
+#: admin/partials/dashboard.php:61
+msgid "Advanced"
+msgstr "מִתקַדֵם"
+
+#: includes/vendors/elementor/store-cards.php:138
+msgid "Agile Cards"
+msgstr ""
+
+#: includes/vendors/elementor/store-detail.php:116
+msgid "Agile Search Grid"
+msgstr ""
+
+#: includes/vendors/elementor/search-widget.php:113
+msgid "Agile Search Widget"
+msgstr ""
+
+#. Name of the plugin
+#: admin/partials/dashboard.php:55
+#: includes/model/label.php:48
+msgid "Agile Store Locator"
+msgstr "איתור חנויות זריז"
+
+#. Description of the plugin
+#, fuzzy
+msgid "Agile Store Locator (Pro Version 4.10.11) is a Premium Store Finder Plugin designed to offer you immediate access to all the best stores in your local area. It enables you to find the very best stores and their location thanks to the power of Google Maps."
+msgstr "Agile Store Locator (Pro Version 4.7.18) הוא תוסף פרימיום ל-Finder Store שנועד להציע לך גישה מיידית לכל החנויות הטובות ביותר באזור שלך. זה מאפשר לך למצוא את החנויות הטובות ביותר ואת מיקומן הודות לכוחה של מפות Google."
+
+#: admin/partials/dashboard.php:299
+msgid "Agile Store Locator Features"
+msgstr "תכונות של איתור חנויות זריזות"
+
+#: includes/vendors/elementor/store-locator.php:122
+msgid "Agile Store Locator Shortcode"
+msgstr ""
+
+#: includes/plugin.php:359
+#: admin/partials/ui-customizer.php:8
+msgid "Agile Store Locator UI Customizer"
+msgstr "התאמה אישית של ממשק המשתמש של איתור החנות"
+
+#. Author of the plugin
+msgid "AGILELOGIX"
+msgstr "AGILELOGIX"
+
+#: admin/partials/edit_store.php:48
+msgid "alert link"
+msgstr "קישור התראה"
+
+#: admin/partials/edit_store.php:48
+msgid "Alert!"
+msgstr "עֵרָנִי!"
+
+#: admin/partials/dashboard.php:82
+msgid "Alert! Google API KEY is missing, the Map search, geocoding and direction will not work without it, Please add Google API KEY first."
+msgstr "עֵרָנִי! מפתח Google API חסר, החיפוש במפה, הקידוד הגיאוגרפי והכיוון לא יעבדו בלעדיו, הוסף תחילה את מפתח ה-API של Google."
+
+#: admin/partials/dashboard.php:235
+#: includes/model/label.php:49
+msgid "ALL"
+msgstr "את כל"
+
+#: includes/model/label.php:93
+msgid "All Additional"
+msgstr ""
+
+#: includes/model/label.php:94
+msgid "All Additional 2"
+msgstr ""
+
+#: includes/model/label.php:91
+msgid "All Brands"
+msgstr "כל המותגים"
+
+#: includes/model/label.php:69
+msgid "All Categories"
+msgstr "כל הקטגוריות"
+
+#: includes/model/label.php:84
+msgid "All Cities"
+msgstr "כל הערים"
+
+#: includes/model/label.php:82
+msgid "All Countries"
+msgstr "כל המדינות"
+
+#: includes/model/label.php:70
+msgid "All Options"
+msgstr ""
+
+#: includes/model/label.php:67
+msgid "All selected"
+msgstr "כולם נבחרו"
+
+#: includes/model/label.php:92
+msgid "All Specialities"
+msgstr "כל ההתמחויות"
+
+#: includes/model/label.php:83
+msgid "All States"
+msgstr "כל המדינות"
+
+#: includes/admin/store.php:54
+msgid "All Stores are deleted"
+msgstr "כל החנויות נמחקות"
+
+#: includes/vendors/borlabs.php:77
+msgid "Always unblock Store Locator"
+msgstr ""
+
+#: includes/model/label.php:223
+msgid "AM"
+msgstr ""
+
+#: admin/partials/dashboard.php:168
+msgid "Analytics"
+msgstr "ניתוח"
+
+#: includes/vendors/wpbakery/store-cards.php:173
+msgid "Apply the city filter to the grid"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-cards.php:182
+msgid "Apply the state filter to the grid"
+msgstr ""
+
+#: includes/admin/store.php:374
+msgid "Approve"
+msgstr "לְאַשֵׁר"
+
+#: includes/admin/store.php:374
+msgid "Approving..."
+msgstr "מאשר..."
+
+#: includes/model/label.php:190
+#, fuzzy
+msgid "Are you ready to Experience the Difference? Just fill out the form below and one of our helpful representatives will find your nearest dealer and get you in contact!"
+msgstr "האם אתה מוכן לחוות את ההבדל? פשוט מלא את הטופס למטה ואחד מנציגי Bintelli המועילים שלנו ימצא את הסוחר הקרוב שלך וייצור איתך קשר!"
+
+#: includes/admin/manager.php:221
+msgid "Are you sure to delete all stores of all languages?"
+msgstr "האם אתה בטוח שתמחק את כל החנויות של כל השפות?"
+
+#: includes/admin/manager.php:201
+msgid "Are you sure to remove Template from the theme root directory?"
+msgstr "האם אתה בטוח להסיר את התבנית מספריית השורש של ערכת הנושא?"
+
+#: includes/admin/manager.php:194
+msgid "Are you sure you want to "
+msgstr "אתה בטוח שאתה רוצה"
+
+#: admin/partials/asl-wc-ads.php:9
+msgid "Are you using WooCommerce? Great, try our WooCommerce extension that is compatible with this free version of the Agile Store Locator."
+msgstr ""
+
+#: includes/plugin.php:358
+msgid "ASL Settings"
+msgstr "הגדרות ASL"
+
+#: includes/admin/asset.php:91
+msgid "Assets Backup Successfully, Download the Zip File."
+msgstr "גיבוי נכסים בהצלחה, הורד את קובץ ה-Zip."
+
+#: includes/admin/asset.php:127
+msgid "Assets Imported Successfully."
+msgstr "נכסים יובאו בהצלחה."
+
+#: includes/model/label.php:121
+msgid "Attribute"
+msgstr ""
+
+#: includes/model/label.php:124
+msgid "Attributes"
+msgstr ""
+
+#: admin/partials/manage-cards.php:334
+#: admin/partials/manage-cards.php:384
+#: includes/frontend/app.php:1317
+msgid "Average Rating"
+msgstr ""
+
+#: admin/partials/import_store.php:108
+msgid "Avoid Duplication"
+msgstr "הימנע שכפול"
+
+#: includes/model/label.php:152
+msgid "Back"
+msgstr "חזור"
+
+#: includes/model/label.php:58
+msgid "Back to List"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:9
+msgid "Back to Settings"
+msgstr "חזרה להגדרות"
+
+#: includes/model/label.php:113
+msgid "Back to stores"
+msgstr "חזרה לחנויות"
+
+#: includes/vendors/wpbakery/search-widget.php:89
+msgid "Background color"
+msgstr ""
+
+#: includes/admin/manager.php:199
+msgid "Backup"
+msgstr "גיבוי"
+
+#: includes/admin/manager.php:198
+msgid "Backup of templates is not need if you haven't customize the template via plugin editor, are you sure to backup Template into theme root directory?"
+msgstr "אין צורך בגיבוי של תבניות אם לא התאמת אישית את התבנית באמצעות עורך הפלאגין, האם אתה בטוח שגיבוי את התבנית לספריית השורש של ערכת הנושא?"
+
+#: admin/partials/dashboard.php:423
+#: admin/partials/dashboard.php:445
+#: includes/admin/manager.php:197
+msgid "Backup Template"
+msgstr "תבנית גיבוי"
+
+#: admin/partials/dashboard.php:381
+msgid "Basic System Info"
+msgstr "מידע מערכת בסיסי"
+
+#: admin/partials/edit_store.php:48
+msgid "Best check yourself "
+msgstr "הכי טוב תבדוק את עצמך"
+
+#: admin/partials/customize_map.php:151
+msgid "Bike Layer"
+msgstr "שכבת אופניים"
+
+#: admin/partials/customize_map.php:13
+msgid "Border"
+msgstr "גבול"
+
+#: includes/vendors/wpbakery/store-locator.php:103
+#: includes/vendors/elementor/store-locator.php:191
+msgid "Boundary Box"
+msgstr ""
+
+#: includes/model/label.php:119
+msgid "Brand"
+msgstr "מותג"
+
+#: includes/model/label.php:122
+#: includes/model/label.php:172
+msgid "Brands"
+msgstr ""
+
+#: includes/vendors/wpbakery/search-widget.php:98
+msgid "Button color"
+msgstr ""
+
+#: admin/partials/categories.php:198
+#: admin/partials/markers.php:119
+#: admin/partials/manage-cards.php:427
+#: admin/partials/logos.php:123
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+#: admin/partials/manage-cards.php:292
+msgid "Card Preview"
+msgstr ""
+
+#: includes/admin/setting.php:442
+msgid "Cards Template Updated"
+msgstr ""
+
+#: admin/partials/dashboard.php:134
+#: admin/partials/manage_store.php:142
+#: admin/partials/manage_store.php:167
+#: includes/model/label.php:114
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: includes/admin/category.php:152
+msgid "Categories deleted successfully."
+msgstr "הקטגוריות נמחקו בהצלחה."
+
+#: admin/partials/add_store.php:175
+#: admin/partials/edit_store.php:191
+#: includes/model/label.php:227
+msgid "Category"
+msgstr "קטגוריה"
+
+#: includes/admin/category.php:85
+msgid "Category added successfully"
+msgstr "הקטגוריה נוספה בהצלחה"
+
+#: includes/admin/category.php:152
+msgid "Category deleted successfully."
+msgstr "הקטגוריה נמחקה בהצלחה."
+
+#: admin/partials/categories.php:55
+#: admin/partials/categories.php:94
+msgid "Category ID"
+msgstr "מזהה קטגוריה"
+
+#: includes/admin/category.php:211
+msgid "Category updated successfully."
+msgstr "הקטגוריה עודכנה בהצלחה."
+
+#: admin/partials/categories.php:111
+#: admin/partials/markers.php:93
+#: admin/partials/manage_store.php:64
+#: admin/partials/logos.php:96
+msgid "Change"
+msgstr "שינוי"
+
+#: admin/partials/add_store.php:142
+#: admin/partials/edit_store.php:157
+msgid "Change Coordinates"
+msgstr "שנה קואורדינטות"
+
+#: includes/vendors/wpbakery/search-widget.php:92
+msgid "Choose Background color"
+msgstr ""
+
+#: includes/vendors/wpbakery/search-widget.php:101
+msgid "Choose Button color"
+msgstr ""
+
+#: admin/partials/manage-cards.php:182
+msgid "Choose Card Layout"
+msgstr ""
+
+#: admin/partials/manage-cards.php:192
+msgid "Choose Fields"
+msgstr ""
+
+#: admin/partials/manage-cards.php:446
+#: includes/model/label.php:161
+msgid "Cities"
+msgstr "ערים"
+
+#: admin/partials/manage_store.php:160
+#: admin/partials/add_store.php:104
+#: admin/partials/edit_store.php:119
+#: includes/admin/store.php:1201
+#: includes/admin/manager.php:758
+#: includes/model/label.php:81
+#: includes/vendors/wpbakery/store-detail.php:85
+msgid "City"
+msgstr "עִיר"
+
+#: includes/vendors/elementor/store-detail.php:150
+msgid "city"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-cards.php:170
+msgid "City Filter"
+msgstr ""
+
+#: includes/model/label.php:57
+msgid "Clear"
+msgstr ""
+
+#: admin/partials/customize_map.php:20
+msgid "Clear All"
+msgstr "נקה הכל"
+
+#: admin/partials/categories.php:138
+#: admin/partials/markers.php:169
+#: admin/partials/manage_store.php:217
+#: admin/partials/add_store.php:567
+#: admin/partials/add_store.php:617
+#: admin/partials/edit_store.php:635
+#: admin/partials/edit_store.php:683
+#: admin/partials/shortcode-popup-html.php:83
+#: admin/partials/logos.php:170
+#: includes/admin/manager.php:231
+#: includes/model/label.php:139
+msgid "Close"
+msgstr "סגור"
+
+#: admin/partials/add_store.php:273
+#: admin/partials/add_store.php:307
+#: admin/partials/add_store.php:340
+#: admin/partials/add_store.php:373
+#: admin/partials/add_store.php:407
+#: admin/partials/add_store.php:440
+#: admin/partials/add_store.php:474
+#: admin/partials/edit_store.php:308
+#: admin/partials/edit_store.php:346
+#: admin/partials/edit_store.php:383
+#: admin/partials/edit_store.php:420
+#: admin/partials/edit_store.php:458
+#: admin/partials/edit_store.php:495
+#: admin/partials/edit_store.php:533
+#: includes/model/label.php:138
+msgid "Closed"
+msgstr "סָגוּר"
+
+#: admin/partials/ui-customizer-fields.php:17
+msgid "Colors"
+msgstr "צבעים"
+
+#: admin/partials/manage_store.php:193
+msgid "Columns Visiblity"
+msgstr "ניראות עמודות"
+
+#: includes/model/label.php:167
+msgid "Company"
+msgstr "חֶברָה"
+
+#: includes/admin/setting.php:1054
+msgid "Config exported successfully"
+msgstr ""
+
+#: includes/admin/setting.php:1029
+msgid "Config has been imported successfully"
+msgstr ""
+
+#: includes/admin/setting.php:1018
+msgid "Configuration Import"
+msgstr ""
+
+#: includes/admin/store.php:1106
+msgid "Congratulations! your registered store has been approved and is live now!."
+msgstr ""
+
+#: includes/model/label.php:214
+msgid "Contact Form"
+msgstr "טופס יצירת קשר"
+
+#: includes/model/label.php:140
+msgid "Contact Store Form"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-detail.php:61
+#: includes/vendors/wpbakery/store-cards.php:129
+#: includes/vendors/wpbakery/store-locator.php:61
+#: includes/vendors/wpbakery/search-widget.php:60
+msgid "content"
+msgstr ""
+
+#: admin/partials/import_store.php:114
+msgid "Coordinates"
+msgstr "קואורדינטות"
+
+#: includes/admin/setting.php:1055
+msgid "Copied successfully"
+msgstr ""
+
+#: includes/admin/manager.php:232
+msgid "Copy"
+msgstr ""
+
+#: admin/partials/add_store.php:244
+#: admin/partials/edit_store.php:276
+msgid "Copy/Paste Monday Timing"
+msgstr "העתק/הדבק תזמון יום שני"
+
+#: admin/partials/manage-cards.php:448
+msgid "Countries"
+msgstr ""
+
+#: admin/partials/manage_store.php:161
+#: admin/partials/add_store.php:119
+#: admin/partials/edit_store.php:134
+#: includes/model/label.php:79
+#: includes/vendors/wpbakery/store-detail.php:87
+msgid "Country"
+msgstr "מדינה"
+
+#: includes/vendors/elementor/store-detail.php:152
+msgid "country"
+msgstr ""
+
+#: admin/partials/dashboard.php:343
+msgid "Create a lead form page that can be used to get the contact information of potential customers easily."
+msgstr "צור דף טופס לידים שניתן להשתמש בו כדי לקבל את פרטי הקשר של לקוחות פוטנציאליים בקלות."
+
+#: admin/partials/asl-faq.php:93
+msgid "Create a support ticket by emailing us at "
+msgstr ""
+
+#: includes/plugin.php:339
+msgid "Create New Store"
+msgstr "צור חנות חדשה"
+
+#: admin/partials/add_store.php:38
+msgid "Create Store"
+msgstr "צור חנות"
+
+#: admin/partials/categories.php:60
+#: admin/partials/manage_store.php:145
+#: admin/partials/manage_store.php:170
+#: admin/partials/attribute.php:91
+msgid "Created On"
+msgstr "נוצר ב"
+
+#: admin/partials/dashboard.php:407
+msgid "CSV Upload Permissions"
+msgstr "הרשאות העלאת CSV"
+
+#: admin/partials/import_store.php:85
+msgid "Current build works with CSV with comma as the delimiter. Please contact us at support@agilelogix.com for support."
+msgstr "המבנה הנוכחי עובד עם CSV עם פסיק כמפריד. אנא צור איתנו קשר בכתובת support@agilelogix.com לתמיכה."
+
+#: includes/model/label.php:73
+#: public/partials/template-frontend-2.php:65
+#: public/partials/template-frontend-2.php:171
+#: public/partials/template-frontend-list-2.php:10
+#: public/partials/template-frontend-list-2.php:22
+#: public/partials/template-frontend-list.php:11
+#: public/partials/template-frontend-list.php:25
+#: public/partials/template-frontend-1.php:48
+#: public/partials/template-frontend-3.php:27
+#: public/partials/template-frontend-3.php:31
+#: public/partials/template-frontend-4.php:26
+#: public/partials/template-frontend-4.php:39
+#: public/partials/template-frontend-0.php:52
+#: public/partials/template-frontend-0.php:175
+msgid "Current Location"
+msgstr "מיקום נוכחי"
+
+#: includes/model/label.php:110
+msgid "Current+Location"
+msgstr "נוכחי+מיקום"
+
+#: includes/plugin.php:354
+#: admin/partials/customize_map.php:5
+msgid "Customize Map"
+msgstr "התאמה אישית של מפה"
+
+#: admin/partials/manage_store.php:86
+msgid "Customize Store Locator"
+msgstr ""
+
+#: includes/plugin.php:338
+msgid "Dashboard"
+msgstr "לוּחַ מַחווָנִים"
+
+#: admin/partials/manage-cards.php:252
+msgid "Data Filters"
+msgstr ""
+
+#: admin/partials/import_store.php:137
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+#: admin/partials/manage_leads.php:77
+msgid "Dated"
+msgstr "מְיוּשָׁן"
+
+#: includes/admin/store.php:480
+msgid "Default Lat & Default Lng values are invalid!"
+msgstr "ערכי ברירת המחדל של אורך רוחב וברירת מחדל אינם חוקיים!"
+
+#: includes/admin/setting.php:477
+msgid "Default template is loaded"
+msgstr "תבנית ברירת המחדל נטענת"
+
+#: admin/partials/customize_map.php:19
+#: admin/partials/customize_map.php:118
+#: admin/partials/manage-cards.php:94
+#: admin/partials/manage-cards.php:479
+#: admin/partials/import_store.php:140
+#: admin/partials/import_store.php:166
+msgid "Delete"
+msgstr "לִמְחוֹק"
+
+#: includes/admin/manager.php:224
+msgid "DELETE ALL"
+msgstr "מחק הכל"
+
+#: includes/admin/manager.php:219
+msgid "DELETE ALL STORES"
+msgstr "מחק את כל החנויות"
+
+#: admin/partials/import_store.php:100
+msgid "Delete All Stores"
+msgstr "מחק את כל החנויות"
+
+#: includes/admin/manager.php:193
+msgid "Delete Categories"
+msgstr "מחק קטגוריות"
+
+#: includes/admin/manager.php:192
+msgid "Delete Category"
+msgstr "מחק קטגוריה"
+
+#: includes/admin/manager.php:195
+msgid "Delete it!"
+msgstr "למחוק את זה!"
+
+#: includes/admin/manager.php:205
+msgid "Delete Logo"
+msgstr "מחק לוגו"
+
+#: includes/admin/manager.php:203
+msgid "Delete Marker"
+msgstr "מחק מרקר"
+
+#: includes/admin/manager.php:204
+msgid "Delete Markers"
+msgstr "מחק סמנים"
+
+#: admin/partials/manage_leads.php:53
+#: admin/partials/categories.php:34
+#: admin/partials/markers.php:35
+#: admin/partials/manage_store.php:75
+#: admin/partials/attribute.php:63
+#: admin/partials/logos.php:34
+msgid "Delete Selected"
+msgstr "מחק את הנבחר"
+
+#: includes/admin/manager.php:206
+msgid "Delete Selected Logos"
+msgstr "מחק סמלי לוגו נבחרים"
+
+#: includes/admin/manager.php:209
+msgid "Delete Store"
+msgstr "מחק את החנות"
+
+#: includes/admin/manager.php:210
+msgid "Delete Stores"
+msgstr "מחק חנויות"
+
+#: admin/partials/dashboard.php:424
+msgid "Delete Template"
+msgstr "מחק תבנית"
+
+#: includes/admin/attribute.php:94
+msgid "deleted successfully"
+msgstr "נמחק בהצלחה"
+
+#: admin/partials/import_store.php:100
+msgid "Deleting..."
+msgstr "מוחק..."
+
+#: admin/partials/add_store.php:215
+#: admin/partials/edit_store.php:242
+msgid "Descending Order for the list, higher number on top."
+msgstr "סדר יורד לרשימה, מספר גבוה יותר בראש."
+
+#: admin/partials/add_store.php:53
+#: admin/partials/edit_store.php:65
+#: includes/admin/store.php:1171
+#: includes/admin/manager.php:758
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/model/label.php:187
+msgid "Destination missing or invalid"
+msgstr "יעד חסר או לא חוקי"
+
+#: includes/model/label.php:87
+#: public/partials/asl-card-01.php:58
+msgid "Direction"
+msgstr "כיוון"
+
+#: includes/model/label.php:88
+msgid "Directions"
+msgstr "כיוונים"
+
+#: admin/partials/categories.php:30
+msgid "Directory is not writable, Category Image Upload will Fail, Make directory writable."
+msgstr "ספרייה לא ניתנת לכתיבה, העלאת תמונה של קטגוריה תיכשל, הפוך את הספרייה לניתנת לכתיבה."
+
+#: admin/partials/import_store.php:57
+msgid "Directory is not writable, Excel Import will Fail, Make directory writable."
+msgstr "הספרייה אינה ניתנת לכתיבה, ייבוא Excel ייכשל, הפוך את הספרייה לניתנת לכתיבה."
+
+#: admin/partials/logos.php:30
+msgid "Directory is not writable, Logo Image upload will fail, make directory writable."
+msgstr ""
+
+#: admin/partials/markers.php:30
+#: admin/partials/manage-cards.php:54
+#, fuzzy
+msgid "Directory is not writable, marker image upload will fail, make directory writable."
+msgstr "הספרייה אינה ניתנת לכתיבה, העלאת תמונת מרקר תיכשל, הפוך את הספרייה לניתנת לכתיבה."
+
+#: admin/partials/shortcode-popup-html.php:46
+msgid "Disable"
+msgstr "השבת"
+
+#: admin/partials/manage_store.php:136
+#: admin/partials/manage_store.php:166
+#: admin/partials/add_store.php:230
+#: admin/partials/edit_store.php:259
+#: includes/admin/store.php:894
+msgid "Disabled"
+msgstr "נָכֶה"
+
+#: admin/partials/dashboard.php:77
+msgid "Discover how the Agile Store Locator Plugin works and explore the 3 most vital steps to use the plugin."
+msgstr "גלה כיצד פועל הפלאגין Agile Store Locator וחקור את 3 השלבים החיוניים ביותר לשימוש בתוסף."
+
+#: includes/vendors/wpbakery/store-detail.php:79
+#: includes/vendors/elementor/store-detail.php:144
+msgid "Display Option"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-detail.php:55
+msgid "Display store detail"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-locator.php:55
+msgid "Display store locator widget"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-cards.php:123
+msgid "Display stores in grid"
+msgstr ""
+
+#: includes/vendors/wpbakery/search-widget.php:54
+msgid "Display stores search widget"
+msgstr ""
+
+#: admin/partials/dashboard.php:365
+msgid "Display Where to Buy Locations to Millions"
+msgstr "הצג היכן לקנות מיקומים למיליונים"
+
+#: includes/model/label.php:115
+msgid "Distance"
+msgstr "מֶרְחָק"
+
+#: includes/vendors/wpbakery/store-locator.php:98
+#: includes/vendors/elementor/store-locator.php:185
+msgid "Distance Control"
+msgstr ""
+
+#: includes/model/label.php:116
+msgid "Distance Range"
+msgstr "טווח מרחק"
+
+#: admin/partials/shortcode-popup-html.php:55
+msgid "Distance Unit"
+msgstr "יחידת מרחק"
+
+#: includes/admin/manager.php:956
+msgid "Docs"
+msgstr "מסמכים"
+
+#: admin/partials/import_store.php:164
+msgid "Download"
+msgstr "הורד"
+
+#: includes/vendors/wpbakery/store-locator.php:102
+#: includes/vendors/elementor/store-locator.php:190
+msgid "Dropdown"
+msgstr ""
+
+#: includes/model/label.php:51
+msgid "Due to the GDPR, we need your consent to load data from Google, more information in our privacy policy."
+msgstr "בשל ה-GDPR, אנו זקוקים להסכמתך לטעינת נתונים מ-Google, מידע נוסף במדיניות הפרטיות שלנו."
+
+#: includes/admin/manager.php:196
+msgid "Duplicate it!"
+msgstr "שכפל אותו!"
+
+#: includes/admin/import-export.php:867
+msgid "Duplicate rows skipped: "
+msgstr "שורות כפולות דילגו:"
+
+#: includes/admin/manager.php:211
+msgid "Duplicate Selected Store"
+msgstr "שכפל חנות נבחרת"
+
+#: includes/admin/store.php:533
+msgid "Duplicate stores removed"
+msgstr "חנויות כפולות הוסרו"
+
+#: admin/partials/manage_leads.php:37
+msgid "Duration Selection"
+msgstr "בחירת משך הזמן"
+
+#: admin/partials/dashboard.php:370
+msgid "Easily Personalize Your Store Locator"
+msgstr "התאם אישית בקלות את מאתר החנות שלך"
+
+#: admin/partials/manage_leads.php:14
+#: admin/partials/categories.php:14
+#: admin/partials/manage-cards.php:38
+#: admin/partials/manage-cards.php:97
+#: admin/partials/manage-cards.php:482
+#: admin/partials/import_store.php:26
+#: admin/partials/attribute.php:14
+#: admin/partials/logos.php:14
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+#: includes/plugin.php:362
+#: admin/partials/edit_store.php:41
+msgid "Edit Store"
+msgstr "ערוך חנות"
+
+#: admin/partials/manage_store.php:163
+#: admin/partials/add_store.php:95
+#: admin/partials/edit_store.php:110
+#: admin/partials/import_store.php:111
+#: includes/admin/store.php:1186
+#: includes/model/label.php:106
+#: includes/model/label.php:194
+msgid "Email"
+msgstr "אימייל"
+
+#: includes/model/lead.php:67
+#: includes/frontend/request.php:596
+#: includes/frontend/request.php:735
+msgid "Email Address: "
+msgstr "כתובת דוא\"ל:"
+
+#: includes/admin/store.php:894
+msgid "Enabled"
+msgstr "מופעל"
+
+#: admin/partials/add_store.php:262
+#: admin/partials/add_store.php:296
+#: admin/partials/add_store.php:329
+#: admin/partials/add_store.php:362
+#: admin/partials/add_store.php:396
+#: admin/partials/add_store.php:429
+#: admin/partials/add_store.php:463
+#: admin/partials/edit_store.php:296
+#: admin/partials/edit_store.php:334
+#: admin/partials/edit_store.php:371
+#: admin/partials/edit_store.php:408
+#: admin/partials/edit_store.php:446
+#: admin/partials/edit_store.php:483
+#: admin/partials/edit_store.php:521
+#: includes/admin/manager.php:217
+msgid "End Time"
+msgstr "שעת סיום"
+
+#: admin/partials/dashboard.php:363
+msgid "Enjoy Attractive Store Locator Layouts With Unlimited Features."
+msgstr "תהנה מפריסות איתור חנויות אטרקטיביות עם תכונות בלתי מוגבלות."
+
+#: includes/model/label.php:53
+msgid "Enter a Location"
+msgstr "הזן מיקום"
+
+#: includes/model/label.php:171
+msgid "Enter correct email address"
+msgstr "הזן כתובת אימייל נכונה"
+
+#: admin/partials/add_store.php:54
+#: admin/partials/edit_store.php:66
+msgid "Enter Description"
+msgstr ""
+
+#: includes/admin/manager.php:225
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: includes/model/label.php:155
+msgid "Enter your address"
+msgstr "הזן את כתובתך"
+
+#: includes/model/label.php:219
+msgid "Enter your email"
+msgstr "הכנס את האימייל שלך"
+
+#: includes/model/label.php:217
+msgid "Enter your name"
+msgstr "הזן את שמך"
+
+#: includes/admin/license.php:198
+msgid "Error in validation! Contact us at support@agilelogix.com with purchase code and number: "
+msgstr ""
+
+#: includes/admin/google-map.php:59
+msgid "Error Occured saving Map."
+msgstr "אירעה שגיאה בשמירת המפה."
+
+#: includes/admin/manager.php:223
+msgid "Error Occured, Please try Again."
+msgstr "אירעה שגיאה, אנא נסה שוב."
+
+#: includes/admin/store.php:939
+msgid "Error occurred while approving the records"
+msgstr "אירעה שגיאה בעת אישור הרשומות"
+
+#: includes/admin/store.php:906
+msgid "Error occurred while Changing Status"
+msgstr "אירעה שגיאה בעת שינוי הסטטוס"
+
+#: includes/admin/lead.php:69
+#: includes/admin/lead.php:75
+#: includes/admin/attribute.php:84
+#: includes/admin/attribute.php:90
+#: includes/admin/category.php:142
+#: includes/admin/category.php:148
+#: includes/admin/marker.php:114
+#: includes/admin/marker.php:120
+#: includes/admin/logo.php:143
+#: includes/admin/logo.php:149
+msgid "Error occurred while deleting record"
+msgstr "אירעה שגיאה בעת מחיקת הרשומה"
+
+#: includes/admin/lead.php:351
+#: includes/admin/category.php:241
+#: includes/admin/marker.php:331
+#: includes/admin/logo.php:244
+msgid "Error occurred while geting record"
+msgstr "אירעה שגיאה בעת קבלת תיעוד"
+
+#: includes/admin/store.php:873
+#: includes/admin/attribute.php:128
+#: includes/admin/attribute.php:163
+#: includes/admin/category.php:91
+#: includes/admin/marker.php:60
+msgid "Error occurred while saving record"
+msgstr "אירעה שגיאה במהלך שמירת הרשומה"
+
+#: includes/admin/store.php:601
+#: includes/admin/store.php:700
+msgid "Error occurred while saving Store"
+msgstr "אירעה שגיאה בעת שמירת החנות"
+
+#: includes/admin/marker.php:63
+msgid "Error occurred while uploading image."
+msgstr "אירעה שגיאה בעת העלאת התמונה."
+
+#: includes/admin/branch.php:271
+msgid "Error! assigned store is already a parent store."
+msgstr ""
+
+#: includes/admin/setting.php:217
+msgid "Error! Default Lat & Lng are invalid values, please try to swap them."
+msgstr "שְׁגִיאָה! ברירת המחדל של אורך ורוחב הם ערכים לא חוקיים, אנא נסה להחליף אותם."
+
+#: includes/helper.php:2013
+msgid "Error! fail to delete the file."
+msgstr "שְׁגִיאָה! לא מצליחים למחוק את הקובץ."
+
+#: includes/helper.php:1014
+#: includes/helper.php:1048
+msgid "Error! fail to move the file, check permisions."
+msgstr "שְׁגִיאָה! נכשל בהעברת הקובץ, בדוק הרשאות."
+
+#: includes/frontend/request.php:642
+msgid "Error! fail to send your email to the store."
+msgstr "שְׁגִיאָה! לא לשלוח את האימייל שלך לחנות."
+
+#: includes/admin/category.php:77
+#: includes/admin/category.php:203
+#: includes/admin/marker.php:172
+#: includes/admin/logo.php:72
+#: includes/admin/logo.php:207
+msgid "Error! Failed to upload the image."
+msgstr "שְׁגִיאָה! העלאת התמונה נכשלה."
+
+#: includes/admin/store.php:998
+msgid "Error! Failed to validate for the coordinates by the Google API, validate the Server API key."
+msgstr "שְׁגִיאָה! נכשל אימות הקואורדינטות על ידי Google API, אמת את מפתח ה-API של השרת."
+
+#: includes/frontend/request.php:527
+#: includes/frontend/request.php:678
+msgid "Error! Invalid contact details."
+msgstr "שְׁגִיאָה! פרטי קשר לא חוקיים."
+
+#: includes/frontend/request.php:672
+msgid "Error! Invalid contact request."
+msgstr "שְׁגִיאָה! בקשת קשר לא חוקית."
+
+#: includes/frontend/request.php:512
+msgid "Error! Invalid lead contact request."
+msgstr "שְׁגִיאָה! בקשה לא חוקית ליצירת קשר עם מוביל."
+
+#: includes/frontend/request.php:816
+msgid "Error! Invalid parameters provided."
+msgstr "שְׁגִיאָה! סופקו פרמטרים לא חוקיים."
+
+#: includes/frontend/request.php:804
+msgid "Error! Invalid register request."
+msgstr "שְׁגִיאָה! בקשת רישום לא חוקית."
+
+#: includes/frontend/request.php:959
+msgid "Error! Invalid Store data provided."
+msgstr "שְׁגִיאָה! נתוני חנות לא חוקיים סופקו."
+
+#: includes/admin/setting.php:294
+msgid "Error! Lang is not defined."
+msgstr "שְׁגִיאָה! לאנג לא מוגדר."
+
+#: includes/admin/logo.php:43
+msgid "Error! logo name is required."
+msgstr "שְׁגִיאָה! נדרש שם לוגו."
+
+#: includes/admin/ajax-handler.php:204
+msgid "Error! method not exist!"
+msgstr "שְׁגִיאָה! השיטה לא קיימת!"
+
+#: includes/admin/ajax-handler.php:178
+msgid "Error! path is forbidden."
+msgstr ""
+
+#: includes/frontend/request.php:533
+#: includes/frontend/request.php:684
+msgid "Error! Please fill up the stores parameters."
+msgstr "שְׁגִיאָה! נא למלא את הפרמטרים של החנויות."
+
+#: includes/admin/ajax-handler.php:190
+msgid "Error! request verification fail."
+msgstr ""
+
+#: includes/admin/ajax-handler.php:226
+msgid "Error! route not found."
+msgstr "שְׁגִיאָה! המסלול לא נמצא."
+
+#: includes/admin/manager.php:229
+msgid "Error! Search and Map will not work due to missing API Key"
+msgstr ""
+
+#: includes/frontend/request.php:647
+#: includes/frontend/request.php:774
+msgid "Error! Sorry there are no close store to your region."
+msgstr "שְׁגִיאָה! מצטער שאין חנות קרובה לאזור שלך."
+
+#: includes/admin/store.php:960
+msgid "Error! Store not found."
+msgstr "שְׁגִיאָה! החנות לא נמצאה."
+
+#: includes/helper.php:1038
+msgid "Error! Template file doesn't exist."
+msgstr "שְׁגִיאָה! קובץ התבנית לא קיים."
+
+#: includes/helper.php:1000
+#: includes/helper.php:1029
+msgid "Error! Template file is not valid."
+msgstr "שְׁגִיאָה! קובץ התבנית אינו חוקי."
+
+#: includes/admin/base.php:364
+msgid "Error! unkown file is uploaded."
+msgstr "שְׁגִיאָה! קובץ לא ידוע מועלה."
+
+#: includes/admin/store.php:829
+#, fuzzy
+msgid "Error! update id not found."
+msgstr "שְׁגִיאָה! מזהה העדכון לא נמצא."
+
+#: includes/admin/import-export.php:883
+msgid "Error! Wrong coordinates, invalid stores: "
+msgstr "שְׁגִיאָה! קואורדינטות שגויות, חנויות לא חוקיות:"
+
+#: includes/admin/asset.php:135
+msgid "Error, file not moved, check permission."
+msgstr "שגיאה, הקובץ לא הועבר, בדוק הרשאה."
+
+#: admin/partials/manage-cards.php:120
+#: admin/partials/manage-cards.php:137
+msgid "Example Widget"
+msgstr ""
+
+#: includes/admin/license.php:120
+msgid "Expired"
+msgstr ""
+
+#: admin/partials/import_store.php:94
+msgid "Export All"
+msgstr "ייצא הכל"
+
+#: admin/partials/dashboard.php:199
+msgid "Export Analytics"
+msgstr "ייצוא אנליטיקס"
+
+#: includes/admin/manager.php:237
+msgid "Export Configuration"
+msgstr ""
+
+#: admin/partials/manage_leads.php:44
+msgid "Export Dealers"
+msgstr "סוחרי יצוא"
+
+#: admin/partials/manage_leads.php:41
+msgid "Export Leads"
+msgstr "ייצוא לידים"
+
+#: admin/partials/import_store.php:126
+msgid "Export with Logo Images Path"
+msgstr "ייצוא עם נתיב תמונות לוגו"
+
+#: admin/partials/import_store.php:122
+msgid "Export with Store IDs (IDs are required for update)"
+msgstr "ייצוא עם מזהי חנות (מזהים נדרשים לעדכון)"
+
+#: admin/partials/asl-faq.php:180
+msgid "Extension for WooCommerce"
+msgstr ""
+
+#: admin/partials/dashboard.php:411
+msgid "Extension Installed"
+msgstr "הותקנה מותקנת"
+
+#: includes/admin/asset.php:95
+msgid "Failed to Create the Backup"
+msgstr "יצירת הגיבוי נכשלה"
+
+#: includes/admin/setting.php:1032
+msgid "Failed to import configuration, contact support for help."
+msgstr ""
+
+#: includes/admin/asset.php:130
+msgid "Failed to Imported Assets."
+msgstr "נכסים מיובאים נכשלו."
+
+#: admin/partials/asl-faq.php:87
+msgid "FAQ & Help"
+msgstr ""
+
+#: admin/partials/add_store.php:69
+#: admin/partials/edit_store.php:81
+#: includes/admin/store.php:1181
+#: includes/model/label.php:102
+#: includes/model/label.php:104
+msgid "Fax"
+msgstr "פַקס"
+
+#: admin/partials/import_store.php:76
+msgid "Fetch Coordinates"
+msgstr "אחזר קואורדינטות"
+
+#: admin/partials/import_store.php:78
+msgid "Fetch Missing Coordinates"
+msgstr "אחזר קואורדינטות חסרות"
+
+#: admin/partials/import_store.php:78
+msgid "Fetching Coordinates..."
+msgstr "מביא קואורדינטות..."
+
+#: includes/admin/setting.php:983
+msgid "Fields has been updated successfully."
+msgstr "שדות עודכנו בהצלחה."
+
+#: admin/partials/import_store.php:199
+msgid "File"
+msgstr "קוֹבֶץ"
+
+#: includes/helper.php:2010
+msgid "File deleted successfully."
+msgstr "הקובץ נמחק בהצלחה."
+
+#: admin/partials/import_store.php:136
+msgid "File Name"
+msgstr "שם קובץ"
+
+#: admin/partials/categories.php:121
+#: admin/partials/categories.php:178
+#: admin/partials/customize_map.php:88
+#: admin/partials/markers.php:103
+#: admin/partials/markers.php:150
+#: admin/partials/add_store.php:600
+#: admin/partials/edit_store.php:667
+#: admin/partials/import_store.php:203
+msgid "File Path..."
+msgstr "נתיב קובץ..."
+
+#: includes/model/label.php:165
+msgid "Fill up the form of your Store to register it for the approval by the administrator and it will list down in the Store Locator listing."
+msgstr "מלא את הטופס של החנות שלך כדי לרשום אותו לאישור המנהל והוא יופיע למטה ברשימת מאתר החנות."
+
+#: includes/vendors/elementor/store-cards.php:225
+msgid "Filter by City"
+msgstr ""
+
+#: includes/vendors/elementor/store-cards.php:235
+msgid "Filter by State"
+msgstr ""
+
+#: includes/model/label.php:189
+msgid "Find a Dealer"
+msgstr "למצוא סוחר"
+
+#: includes/model/label.php:154
+msgid "Find A Store"
+msgstr "למצוא חנות"
+
+#: admin/partials/ui-customizer-fields.php:18
+msgid "Font Size"
+msgstr "גודל גופן"
+
+#: includes/helper.php:1166
+#: includes/model/label.php:149
+msgid "Fri"
+msgstr "שישי"
+
+#: admin/partials/add_store.php:387
+#: admin/partials/edit_store.php:434
+msgid "Friday"
+msgstr "יוֹם שִׁישִׁי"
+
+#: includes/model/label.php:204
+msgid "From"
+msgstr "מ"
+
+#: includes/model/label.php:192
+msgid "Full Name"
+msgstr "שם מלא"
+
+#: includes/model/lead.php:66
+#: includes/frontend/request.php:595
+#: includes/frontend/request.php:734
+msgid "Full Name: "
+msgstr "שם מלא:"
+
+#: admin/partials/markers.php:34
+msgid "Generate Tool"
+msgstr "צור כלי"
+
+#: admin/partials/dashboard.php:98
+msgid "Generate your Google Maps API key so  Map related features can work."
+msgstr "צור את מפתח ה-API של מפות Google כדי שתכונות הקשורות למפה יוכלו לעבוד."
+
+#: admin/partials/shortcode-popup-html.php:43
+msgid "Geo-Location Dialog"
+msgstr "שיח מיקום גיאוגרפי"
+
+#: admin/partials/shortcode-popup-html.php:47
+msgid "Geo-location Modal"
+msgstr "מיקום גיאוגרפי מודאלי"
+
+#: includes/admin/manager.php:190
+msgid "Geocode was not Successful:"
+msgstr "קוד גיאוגרפי לא הצליח:"
+
+#: admin/partials/shortcode-popup-html.php:36
+#: includes/vendors/wpbakery/store-locator.php:81
+#: includes/vendors/elementor/store-locator.php:163
+msgid "Geocoding on Enter key (Google Geocoding API)"
+msgstr "קידוד גיאוגרפי על מקש Enter (Google Geocoding API)"
+
+#: admin/partials/shortcode-popup-html.php:50
+msgid "GeoJS IP Service (Free API)"
+msgstr "שירות IP GeoJS (API בחינם)"
+
+#: admin/partials/shortcode-popup-html.php:49
+msgid "Geolocation On Load"
+msgstr "מיקום גיאוגרפי בטעינה"
+
+#: admin/partials/manage-cards.php:353
+#: admin/partials/manage-cards.php:408
+msgid "Get Direction"
+msgstr ""
+
+#: includes/model/label.php:207
+msgid "GET DIRECTIONS"
+msgstr "לקבל הוראות"
+
+#: admin/partials/dashboard.php:218
+#: admin/partials/dashboard.php:372
+msgid "Get Pro Version Now !"
+msgstr "קבל גרסת פרו עכשיו!"
+
+#: includes/model/label.php:203
+msgid "Get Your Directions"
+msgstr "קבל את ההנחיות שלך"
+
+#: admin/partials/dashboard.php:396
+msgid "Google API Key"
+msgstr "מפתח Google API"
+
+#: includes/admin/manager.php:622
+msgid "Google API Key is Missing"
+msgstr "מפתח API של Google חסר"
+
+#: includes/vendors/borlabs.php:75
+msgid "Google Maps has been blocked.<br>Click on <strong>Load Store Locator</strong> to unblock Google Maps library.<br> further details about the <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\" rel=\"nofollow\">Google Maps Privacy Policy</a> . "
+msgstr "Google Maps נחסם.<br> לחץ על <strong>Load Store Locator</strong> כדי לבטל את החסימה של ספריית מפות Google.<br> פרטים נוספים על <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\" rel=\"nofollow\">מדיניות הפרטיות של מפות Google</a> ."
+
+#: admin/partials/add_store.php:87
+#: admin/partials/edit_store.php:102
+msgid "Google Place ID"
+msgstr ""
+
+#: admin/partials/add_store.php:502
+#: admin/partials/edit_store.php:571
+msgid "Google Placed ID"
+msgstr ""
+
+#: includes/admin/import-export.php:148
+msgid "Google Server API Key is Missing."
+msgstr "מפתח API של שרת Google חסר."
+
+#: includes/admin/store.php:978
+msgid "Google Server API key is missing."
+msgstr "מפתח API של שרת Google חסר."
+
+#: admin/partials/dashboard.php:396
+msgid "Green sign mean the Google API key is added in the plugin, doesn't mean you have configured it properly in Google Cloud Console."
+msgstr "סימן ירוק אומר שמפתח ה-API של Google נוסף בתוסף, לא אומר שהגדרת אותו כראוי ב-Google Cloud Console."
+
+#: admin/partials/import_store.php:89
+msgid "Guide article: "
+msgstr "מאמר מדריך:"
+
+#: includes/vendors/elementor/store-locator.php:200
+msgid "Head Title"
+msgstr ""
+
+#: admin/partials/manage-cards.php:227
+msgid "Heading&nbsp;Tag"
+msgstr ""
+
+#: admin/partials/manage_store.php:201
+msgid "Hidden Columns"
+msgstr "עמודות נסתרות"
+
+#: includes/vendors/elementor/store-cards.php:181
+#: includes/vendors/elementor/store-cards.php:193
+#: includes/vendors/elementor/store-cards.php:205
+#: includes/vendors/elementor/store-cards.php:216
+#: includes/vendors/elementor/search-widget.php:134
+msgid "Hide"
+msgstr ""
+
+#: includes/model/label.php:108
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#: admin/partials/manage_store.php:101
+msgid "Hide Pending Stores"
+msgstr "הסתר חנויות ממתינות"
+
+#: admin/partials/dashboard.php:76
+msgid "How it works?"
+msgstr "איך זה עובד?"
+
+#: admin/partials/customize_map.php:98
+msgid "How to use KML files?"
+msgstr "כיצד להשתמש בקבצי KML?"
+
+#: includes/admin/setting.php:393
+msgid "HTML added in TextEditor"
+msgstr "HTML נוסף ב- TextEditor"
+
+#. URI of the plugin
+msgid "https://agilestorelocator.com"
+msgstr "https://agilestorelocator.com"
+
+#. Author URI of the plugin
+msgid "https://agilestorelocator.com/"
+msgstr "https://agilestorelocator.com/"
+
+#: includes/model/label.php:182
+msgid "I agree to terms and conditions and all the provided information is correct"
+msgstr "אני מסכים לתנאים וההגבלות וכל המידע שסופק נכון"
+
+#: admin/partials/categories.php:59
+#: admin/partials/categories.php:174
+#: admin/partials/markers.php:54
+#: admin/partials/markers.php:99
+#: admin/partials/markers.php:146
+#: admin/partials/add_store.php:596
+#: admin/partials/edit_store.php:663
+msgid "Icon"
+msgstr "סמל"
+
+#: admin/partials/manage_leads.php:71
+#: admin/partials/attribute.php:88
+msgid "ID"
+msgstr "תְעוּדַת זֶהוּת"
+
+#: admin/partials/categories.php:117
+#: admin/partials/logos.php:56
+msgid "Image"
+msgstr "תמונה"
+
+#: admin/partials/import_store.php:139
+#: admin/partials/import_store.php:165
+#: includes/admin/manager.php:233
+msgid "Import"
+msgstr "יְבוּא"
+
+#: includes/admin/manager.php:234
+msgid "Import Configuration & Settings"
+msgstr ""
+
+#: admin/partials/import_store.php:48
+msgid "Import Stores"
+msgstr "חנויות ייבוא"
+
+#: admin/partials/import_store.php:89
+msgid "Import Stores Using Excel/CSV"
+msgstr "ייבוא חנויות באמצעות Excel/CSV"
+
+#: includes/plugin.php:357
+msgid "Import/Export Stores"
+msgstr "חנויות ייבוא/ייצוא"
+
+#: admin/partials/import_store.php:84
+msgid "Imported CSV Files"
+msgstr "קבצי CSV מיובאים"
+
+#: admin/partials/import_store.php:165
+msgid "Importing..."
+msgstr "מייבא..."
+
+#: includes/model/label.php:135
+msgid "In"
+msgstr "ב"
+
+#: admin/partials/shortcode-popup-html.php:84
+msgid "Insert Shortcode"
+msgstr "הכנס קוד קצר"
+
+#: includes/admin/manager.php:222
+msgid "Invalid File, Accepts JPG, PNG, GIF or SVG."
+msgstr "קובץ לא חוקי, מקבל JPG, PNG, GIF או SVG."
+
+#: includes/admin/setting.php:158
+msgid "Invalid value for country restriction. Only ISO 3166-1 alpha-2 country codes are supported."
+msgstr ""
+
+#: admin/partials/import_store.php:117
+msgid "It may slow import process for a large CSV file with 5k+ rows."
+msgstr "זה עשוי להאט את תהליך הייבוא של קובץ CSV גדול עם 5k+ שורות."
+
+#: admin/partials/dashboard.php:400
+msgid "JSON Cache"
+msgstr "מטמון JSON"
+
+#: admin/partials/shortcode-popup-html.php:58
+msgid "KM"
+msgstr "KM"
+
+#: includes/model/label.php:100
+msgid "Km"
+msgstr "ק\"מ"
+
+#: includes/admin/google-map.php:103
+msgid "KML File uploaded successfully."
+msgstr "קובץ KML הועלה בהצלחה."
+
+#: admin/partials/customize_map.php:81
+msgid "KML Files"
+msgstr "קבצי KML"
+
+#: includes/admin/label.php:72
+msgid "label has been updated"
+msgstr ""
+
+#: admin/partials/labels.php:10
+msgid "Labels"
+msgstr ""
+
+#: admin/partials/labels.php:24
+msgid "Labels section can be used to change the labels of the frontend of the store locator widgets, enable the switch above to activate. (since ver. 4.8.28, Beta version)"
+msgstr ""
+
+#: includes/admin/manager.php:758
+msgid "Lang"
+msgstr ""
+
+#: admin/partials/manage_store.php:156
+msgid "Lat"
+msgstr "La T"
+
+#: includes/vendors/elementor/store-detail.php:154
+msgid "lat"
+msgstr ""
+
+#: admin/partials/add_store.php:134
+#: admin/partials/edit_store.php:149
+#: includes/model/label.php:177
+#: includes/vendors/wpbakery/store-detail.php:89
+msgid "Latitude"
+msgstr "קו רוחב"
+
+#: admin/partials/manage-cards.php:120
+#: admin/partials/manage-cards.php:137
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/dashboard.php:342
+msgid "Lead Contact Form"
+msgstr "טופס יצירת קשר עם מוביל"
+
+#: includes/admin/lead.php:79
+msgid "Lead deleted successfully."
+msgstr "הליד נמחק בהצלחה."
+
+#: admin/partials/manage_leads.php:74
+msgid "Lead Email"
+msgstr "דוא\"ל לידים"
+
+#: admin/partials/manage_leads.php:72
+msgid "Lead Name"
+msgstr "שם מוביל"
+
+#: admin/partials/manage_leads.php:73
+msgid "Lead Phone"
+msgstr "טלפון מוביל"
+
+#: includes/admin/lead.php:105
+msgid "Lead Updated Successfully."
+msgstr "הליד עודכן בהצלחה."
+
+#: includes/admin/lead.php:79
+msgid "Leads deleted successfully."
+msgstr "הלידים נמחקו בהצלחה."
+
+#: includes/plugin.php:360
+msgid "Leads Manager"
+msgstr "מנהל לידים"
+
+#: includes/admin/setting.php:78
+msgid "Level has been changed."
+msgstr "הרמה שונתה."
+
+#: admin/partials/manage-cards.php:450
+msgid "Limit"
+msgstr ""
+
+#: includes/model/label.php:89
+msgid "Link to Google Maps"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-locator.php:91
+#: includes/vendors/elementor/store-locator.php:175
+msgid "List Format"
+msgstr ""
+
+#: admin/partials/manage_store.php:157
+msgid "Lng"
+msgstr "Lng"
+
+#: includes/vendors/elementor/store-detail.php:155
+msgid "lng"
+msgstr ""
+
+#: includes/model/label.php:50
+#: includes/vendors/borlabs.php:76
+msgid "Load Store Locator"
+msgstr "איתור חנות עומס"
+
+#: admin/partials/ui-customizer.php:33
+msgid "Load Template"
+msgstr "טען תבנית"
+
+#: admin/partials/manage_store.php:101
+msgid "Loading Stores"
+msgstr "טוען חנויות"
+
+#: admin/partials/ui-customizer.php:33
+#: includes/model/label.php:56
+msgid "Loading..."
+msgstr "טוען..."
+
+#: includes/model/label.php:210
+msgid "LOCATE"
+msgstr "לְאַתֵר"
+
+#: includes/model/label.php:208
+msgid "LOCATE YOUR GEOPOSITION"
+msgstr "אתר את המיקום הגיאוגרפי שלך"
+
+#: admin/partials/dashboard.php:400
+msgid "Locator JSON files are cached to serve speedy response."
+msgstr "קבצי JSON של Locator נשמרים במטמון כדי לספק תגובה מהירה."
+
+#: admin/partials/add_store.php:168
+#: admin/partials/edit_store.php:184
+msgid "Logo"
+msgstr "סֵמֶל"
+
+#: includes/admin/logo.php:153
+msgid "Logo deleted Successfully."
+msgstr "הלוגו נמחק בהצלחה."
+
+#: admin/partials/manage_store.php:144
+#: admin/partials/manage_store.php:169
+#: admin/partials/logos.php:54
+#: admin/partials/logos.php:87
+msgid "Logo ID"
+msgstr "מזהה לוגו"
+
+#: includes/admin/logo.php:83
+msgid "Logo is uploaded successfully."
+msgstr "הלוגו הועלה בהצלחה."
+
+#: admin/partials/add_store.php:541
+#: admin/partials/edit_store.php:610
+#: admin/partials/logos.php:145
+msgid "Logo Name"
+msgstr "שם לוגו"
+
+#: includes/admin/logo.php:215
+msgid "Logo updated successfully."
+msgstr "הלוגו עודכן בהצלחה."
+
+#: includes/admin/logo.php:153
+msgid "Logos deleted Successfully."
+msgstr "לוגואים נמחקו בהצלחה."
+
+#: admin/partials/add_store.php:138
+#: admin/partials/edit_store.php:153
+#: includes/model/label.php:178
+msgid "Longitude"
+msgstr "קו אורך"
+
+#: includes/vendors/wpbakery/store-detail.php:90
+msgid "longitude"
+msgstr ""
+
+#: includes/model/label.php:125
+msgid "Manage"
+msgstr ""
+
+#: includes/plugin.php:346
+#: admin/partials/attribute.php:28
+#: includes/model/label.php:128
+msgid "Manage Attributes"
+msgstr ""
+
+#: includes/model/label.php:126
+msgid "Manage Brands"
+msgstr "ניהול מותגים"
+
+#: admin/partials/manage-cards.php:51
+msgid "Manage Cards"
+msgstr ""
+
+#: includes/plugin.php:341
+#: admin/partials/categories.php:27
+msgid "Manage Categories"
+msgstr "נהל קטגוריות"
+
+#: admin/partials/manage_leads.php:30
+msgid "Manage Leads"
+msgstr "ניהול לידים"
+
+#: includes/plugin.php:351
+#: admin/partials/logos.php:27
+msgid "Manage Logos"
+msgstr "ניהול לוגואים"
+
+#: includes/plugin.php:350
+#: admin/partials/markers.php:27
+msgid "Manage Markers"
+msgstr "נהל סמנים"
+
+#: includes/model/label.php:127
+msgid "Manage Speciality"
+msgstr "ניהול התמחות"
+
+#: includes/plugin.php:340
+#: admin/partials/manage_store.php:45
+msgid "Manage Stores"
+msgstr "ניהול חנויות"
+
+#: admin/partials/manage_store.php:95
+msgid "Manage Stores JSON Cache"
+msgstr ""
+
+#: includes/admin/google-map.php:55
+msgid "Map has been updated successfully."
+msgstr "המפה עודכנה בהצלחה."
+
+#: admin/partials/add_store.php:156
+#: admin/partials/edit_store.php:171
+msgid "Marker"
+msgstr "סַמָן"
+
+#: includes/admin/marker.php:55
+msgid "Marker added successfully"
+msgstr "הסמן נוסף בהצלחה"
+
+#: admin/partials/customize_map.php:160
+msgid "Marker Animation"
+msgstr "אנימציית מרקר"
+
+#: includes/admin/marker.php:124
+msgid "Marker deleted successfully."
+msgstr "הסמן נמחק בהצלחה."
+
+#: admin/partials/markers.php:52
+#: admin/partials/manage_store.php:143
+#: admin/partials/manage_store.php:168
+msgid "Marker ID"
+msgstr "מזהה סמן"
+
+#: admin/partials/markers.php:140
+#: admin/partials/add_store.php:590
+#: admin/partials/edit_store.php:657
+msgid "Marker Name"
+msgstr "שם סמן"
+
+#: includes/admin/marker.php:181
+msgid "Marker Updated Successfully."
+msgstr "הסמן עודכן בהצלחה."
+
+#: admin/partials/dashboard.php:147
+msgid "Markers"
+msgstr "סמנים"
+
+#: includes/admin/marker.php:124
+msgid "Markers deleted successfully."
+msgstr "הסמנים נמחקו בהצלחה."
+
+#: admin/partials/import_store.php:54
+msgid "Mbstring extension is not installed on your server, contact your server admin OR login to your cpanel and enable it. Import will not work without this extension."
+msgstr "תוסף Mbstring אינו מותקן בשרת שלך, פנה למנהל השרת שלך או התחבר ל-cpanel שלך והפעל אותו. הייבוא לא יעבוד ללא הרחבה זו."
+
+#: admin/partials/dashboard.php:415
+msgid "Memory Limit"
+msgstr ""
+
+#: includes/model/label.php:199
+#: includes/model/label.php:221
+msgid "Message"
+msgstr "הוֹדָעָה"
+
+#: includes/model/lead.php:73
+#: includes/frontend/request.php:603
+#: includes/frontend/request.php:741
+msgid "Message: "
+msgstr "הוֹדָעָה:"
+
+#: admin/partials/shortcode-popup-html.php:61
+#: includes/model/label.php:99
+msgid "Miles"
+msgstr "מיילס"
+
+#: includes/admin/import-export.php:141
+msgid "Missing Coordinates are not Found in Store Listing"
+msgstr "קואורדינטות חסרות לא נמצאו ברישום החנות"
+
+#: includes/admin/import-export.php:144
+msgid "Missing Coordinates Request Completed"
+msgstr "בקשת קואורדינטות חסרות הושלמה"
+
+#: includes/helper.php:1166
+#: includes/model/label.php:145
+msgid "Mon"
+msgstr "יום שני"
+
+#: admin/partials/add_store.php:252
+#: admin/partials/edit_store.php:284
+msgid "Monday"
+msgstr "יוֹם שֵׁנִי"
+
+#: admin/partials/dashboard.php:278
+msgid "Most Search Locations"
+msgstr "רוב מיקומי החיפוש"
+
+#: admin/partials/dashboard.php:258
+msgid "Most Views Stores"
+msgstr "רוב חנויות הצפיות"
+
+#: admin/partials/labels.php:13
+msgid "multi-language translation guide"
+msgstr ""
+
+#: admin/partials/dashboard.php:368
+msgid "Multiple Color Schemes For Templates"
+msgstr "ערכות צבעים מרובות עבור תבניות"
+
+#: admin/partials/categories.php:56
+#: admin/partials/categories.php:98
+#: admin/partials/categories.php:160
+#: admin/partials/markers.php:53
+#: admin/partials/markers.php:88
+#: admin/partials/add_store.php:540
+#: admin/partials/edit_store.php:609
+#: admin/partials/attribute.php:89
+#: admin/partials/logos.php:55
+#: admin/partials/logos.php:91
+#: admin/partials/logos.php:144
+#: includes/model/label.php:168
+msgid "Name"
+msgstr "שֵׁם"
+
+#: admin/partials/categories.php:35
+msgid "New Category"
+msgstr "קטגוריה חדשה"
+
+#: admin/partials/manage-cards.php:281
+msgid "New Field"
+msgstr ""
+
+#: admin/partials/add_store.php:171
+#: admin/partials/edit_store.php:187
+#: admin/partials/logos.php:35
+msgid "New Logo"
+msgstr "לוגו חדש"
+
+#: admin/partials/markers.php:36
+#: admin/partials/add_store.php:163
+#: admin/partials/edit_store.php:178
+msgid "New Marker"
+msgstr "מרקר חדש"
+
+#: admin/partials/manage-cards.php:60
+msgid "New Shortcode"
+msgstr ""
+
+#: admin/partials/manage_store.php:79
+msgid "New Store"
+msgstr "חנות חדשה"
+
+#: includes/admin/store.php:1068
+msgid "New store is registered with these details."
+msgstr "חנות חדשה רשומה עם הפרטים הללו."
+
+#: admin/partials/add_store.php:234
+#: admin/partials/edit_store.php:263
+#: includes/admin/store.php:381
+msgid "No"
+msgstr "לא"
+
+#: includes/admin/store.php:539
+msgid "No Duplicate deleted!"
+msgstr "לא נמחק כפילויות!"
+
+#: admin/partials/manage-cards.php:274
+msgid "No Filters are Applied"
+msgstr ""
+
+#: includes/model/label.php:228
+msgid "No Item Found"
+msgstr ""
+
+#: admin/partials/customize_map.php:109
+msgid "No KML File Exist!"
+msgstr "לא קיים קובץ KML!"
+
+#: includes/admin/manager.php:214
+msgid "No Logo"
+msgstr ""
+
+#: admin/partials/labels.php:55
+msgid "No result found"
+msgstr ""
+
+#: includes/model/label.php:229
+msgid "No Search Found"
+msgstr ""
+
+#: admin/partials/manage-cards.php:108
+msgid "No Shortcode Preset is Available"
+msgstr ""
+
+#: admin/partials/import_store.php:110
+#: includes/model/label.php:68
+msgid "None"
+msgstr "אף אחד"
+
+#: includes/model/label.php:71
+msgid "None Selected"
+msgstr "לא נבחר"
+
+#: admin/partials/import_store.php:87
+msgid "Notice: your wp-config.php contains `ASL_INSERT_ON_UPDATE` update operation will do the insertion for missing key."
+msgstr ""
+
+#: includes/model/label.php:226
+msgid "Number Of Shops"
+msgstr ""
+
+#: admin/partials/manage-cards.php:451
+msgid "Offset"
+msgstr ""
+
+#: includes/model/label.php:142
+msgid "OPEN"
+msgstr "לִפְתוֹחַ"
+
+#: includes/model/label.php:141
+msgid "Open"
+msgstr ""
+
+#: admin/partials/add_store.php:274
+#: admin/partials/add_store.php:308
+#: admin/partials/add_store.php:341
+#: admin/partials/add_store.php:374
+#: admin/partials/add_store.php:408
+#: admin/partials/add_store.php:441
+#: admin/partials/add_store.php:475
+#: admin/partials/edit_store.php:309
+#: admin/partials/edit_store.php:347
+#: admin/partials/edit_store.php:384
+#: admin/partials/edit_store.php:421
+#: admin/partials/edit_store.php:459
+#: admin/partials/edit_store.php:496
+#: admin/partials/edit_store.php:534
+msgid "Open 24 Hour"
+msgstr "פתוח 24 שעות"
+
+#: includes/vendors/wpbakery/store-detail.php:88
+msgid "Open Hours"
+msgstr ""
+
+#: includes/vendors/elementor/store-detail.php:153
+msgid "open_hours"
+msgstr ""
+
+#: includes/model/label.php:65
+msgid "Opened Stores"
+msgstr ""
+
+#: admin/partials/categories.php:106
+#: admin/partials/categories.php:168
+#: admin/partials/attribute.php:90
+msgid "Order"
+msgstr "להזמין"
+
+#: admin/partials/categories.php:48
+#: admin/partials/categories.php:58
+msgid "Order ID"
+msgstr "מספר הזמנה"
+
+#: admin/partials/add_store.php:80
+#: admin/partials/edit_store.php:92
+msgid "Other Details"
+msgstr "פרטים נוספים"
+
+#: admin/partials/dashboard.php:321
+msgid "Our plugin includes a search widget that can be added anywhere on your website for address searching."
+msgstr "התוסף שלנו כולל ווידג'ט חיפוש שניתן להוסיף בכל מקום באתר שלך לחיפוש כתובות."
+
+#: admin/partials/dashboard.php:332
+msgid "Our Plugin lets you register multiple stores on the registration page to display on the store locator page."
+msgstr "התוסף שלנו מאפשר לך לרשום מספר חנויות בדף ההרשמה כדי להציג בדף איתור החנויות."
+
+#: admin/partials/categories.php:57
+#: admin/partials/categories.php:102
+#: admin/partials/categories.php:164
+msgid "Parent"
+msgstr ""
+
+#: includes/admin/manager.php:235
+msgid "Paste Configuration JSON"
+msgstr ""
+
+#: includes/vendors/wpbakery/search-widget.php:83
+msgid "Paste URL for redirect of your store locator page"
+msgstr ""
+
+#: admin/partials/dashboard.php:184
+msgid "Period"
+msgstr "פרק זמן"
+
+#: admin/partials/manage_store.php:162
+#: admin/partials/add_store.php:63
+#: admin/partials/edit_store.php:75
+#: admin/partials/import_store.php:113
+#: includes/admin/store.php:1176
+#: includes/model/label.php:101
+msgid "Phone"
+msgstr "טלפון"
+
+#: includes/model/label.php:196
+msgid "Phone Name"
+msgstr "שם טלפון"
+
+#: includes/model/lead.php:68
+#: includes/frontend/request.php:597
+msgid "Phone: "
+msgstr "טלפון:"
+
+#: includes/model/label.php:85
+msgid "Pickup Here"
+msgstr "איסוף כאן"
+
+#: includes/model/label.php:183
+msgid "Please agree to register for store in the listing."
+msgstr "נא להסכים להירשם לחנות ברישום."
+
+#: includes/model/label.php:220
+msgid "Please enter message"
+msgstr "נא להזין הודעה"
+
+#: includes/model/label.php:195
+msgid "Please enter phone number"
+msgstr "נא להזין מספר טלפון"
+
+#: includes/model/label.php:193
+#: includes/model/label.php:218
+msgid "Please enter valid email"
+msgstr "נא להזין דוא\"ל חוקי"
+
+#: includes/model/label.php:191
+#: includes/model/label.php:216
+msgid "Please enter your name"
+msgstr "אנא הכנס את שמך"
+
+#: includes/model/label.php:197
+msgid "Please enter zip code"
+msgstr "נא להזין מיקוד"
+
+#: includes/model/label.php:78
+msgid "Please fill up the form."
+msgstr "אנא מלא את הטופס."
+
+#: includes/admin/asset.php:112
+msgid "Please login with Administrator Account."
+msgstr "אנא התחבר עם חשבון מנהל."
+
+#: admin/partials/import_store.php:89
+msgid "Please upload your CSV file and then import it though the import button, please make sure to follow the given template and the columns should be in the right format as described in the documentation or simply use Template.csv format, please validate your API Key before import."
+msgstr "אנא העלה את קובץ ה-CSV שלך ולאחר מכן ייבא אותו דרך לחצן הייבוא, אנא הקפד לעקוב אחר התבנית הנתונה והעמודות צריכות להיות בפורמט הנכון כפי שמתואר בתיעוד או פשוט השתמש בפורמט Template.csv, אנא אמת את מפתח ה-API שלך לפני יְבוּא."
+
+#: admin/partials/import_store.php:77
+msgid "Please use fetch coordinates button to fill your missing coordinates (Lat/Lng) of your stores through the Google Geocoding API Service, it is important to validate the response of the Google Server Maps API Key and that should report \"Valid API Key\"."
+msgstr "אנא השתמש בלחצן אחזור קואורדינטות כדי למלא את הקואורדינטות החסרות שלך (Lat/Lng) של החנויות שלך באמצעות שירות ה-API Geocoding של Google, חשוב לאמת את התגובה של מפתח ה-API של Google Server Maps וזה אמור לדווח על \"מפתח API חוקי\"."
+
+#: includes/admin/manager.php:226
+msgid "PLEASE VALIDATE PURCHASE CODE!"
+msgstr "נא לאמת את קוד הרכישה!"
+
+#: admin/partials/import_store.php:60
+msgid "Please Validate the Google Server API Key before Import process, to make sure the coordinates will be fetched correctly through the Google Maps API, ASL is not responsible if Google API doesn't provide correct values, please save your Server Google API Key in ASL Settings."
+msgstr "נא לאמת את מפתח ה-API של Google Server לפני תהליך הייבוא, כדי לוודא שהקואורדינטות יועברו כהלכה דרך ה-API של מפות Google, ASL אינה אחראית אם Google API אינו מספק ערכים נכונים, אנא שמור את מפתח ה-API של השרת שלך בהגדרות ASL ."
+
+#: admin/partials/dashboard.php:392
+msgid "Plugin version"
+msgstr "גרסת הפלאגין"
+
+#: includes/model/label.php:224
+msgid "PM"
+msgstr ""
+
+#: includes/admin/manager.php:758
+msgid "Post Code"
+msgstr ""
+
+#: admin/partials/manage_leads.php:75
+#: admin/partials/manage_store.php:165
+#: admin/partials/add_store.php:114
+#: admin/partials/manage-cards.php:449
+#: admin/partials/edit_store.php:129
+#: includes/admin/store.php:1196
+#: includes/model/label.php:176
+msgid "Postal Code"
+msgstr "מיקוד"
+
+#: includes/model/lead.php:69
+#: includes/frontend/request.php:598
+msgid "Postal Code: "
+msgstr "מיקוד:"
+
+#: includes/model/label.php:206
+msgid "Prepopulated Destination Address"
+msgstr "כתובת יעד מאוכלסת מראש"
+
+#: includes/model/label.php:59
+msgid "PRINT"
+msgstr "הדפס"
+
+#: admin/partials/add_store.php:213
+#: admin/partials/edit_store.php:240
+msgid "Priority Order"
+msgstr "סדר עדיפויות"
+
+#: includes/model/label.php:55
+msgid "Radius"
+msgstr "רַדִיוּס"
+
+#: includes/model/label.php:111
+msgid "Radius Circle"
+msgstr "מעגל רדיוס"
+
+#: includes/frontend/request.php:736
+msgid "Rating: "
+msgstr "דֵרוּג:"
+
+#: includes/admin/manager.php:227
+msgid "Re-validate your purchase license to see the support status. <a target=\"_blank\" href=\"https://agilestorelocator.com/wiki/store-locator-purchase-code/\">How to Get My Purchase Code?</a>"
+msgstr ""
+
+#: includes/model/label.php:107
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: includes/vendors/wpbakery/search-widget.php:80
+#: includes/vendors/elementor/search-widget.php:143
+msgid "Redirect"
+msgstr ""
+
+#: admin/partials/dashboard.php:388
+msgid "Refresh"
+msgstr ""
+
+#: includes/model/label.php:130
+msgid "Region"
+msgstr "אזור"
+
+#: includes/model/label.php:131
+msgid "Regions"
+msgstr ""
+
+#: includes/model/label.php:185
+msgid "Register"
+msgstr "הירשם"
+
+#: includes/model/label.php:164
+msgid "Register your Store!"
+msgstr "רשום את החנות שלך!"
+
+#: includes/model/label.php:184
+msgid "Registering..."
+msgstr "נרשם..."
+
+#: includes/admin/manager.php:202
+msgid "Remove"
+msgstr "לְהַסִיר"
+
+#: admin/partials/import_store.php:101
+msgid "Remove Duplicates"
+msgstr "הסר כפילויות"
+
+#: admin/partials/manage-cards.php:269
+#: admin/partials/manage-cards.php:459
+msgid "Remove Filter"
+msgstr ""
+
+#: includes/admin/manager.php:200
+msgid "Remove Template"
+msgstr "הסר תבנית"
+
+#: admin/partials/dashboard.php:105
+msgid "Remove the dummy stores through Manage Stores and add your own store locations."
+msgstr "הסר את חנויות הדמה דרך ניהול חנויות והוסף מיקומי חנות משלך."
+
+#: admin/partials/import_store.php:101
+msgid "Removing..."
+msgstr "מסיר..."
+
+#: includes/model/label.php:95
+msgid "Reset Map"
+msgstr "אפס את המפה"
+
+#: admin/partials/ui-customizer.php:39
+msgid "Reset Template"
+msgstr "אפס תבנית"
+
+#: admin/partials/ui-customizer.php:39
+msgid "Reseting..."
+msgstr "מאפס..."
+
+#: admin/partials/dashboard.php:228
+msgid "Rows"
+msgstr "שורות"
+
+#: admin/partials/add_store.php:244
+#: admin/partials/edit_store.php:276
+msgid "Same Everyday"
+msgstr "אותו יום יום"
+
+#: includes/helper.php:1166
+#: includes/model/label.php:150
+msgid "Sat"
+msgstr "ישב"
+
+#: admin/partials/add_store.php:420
+#: admin/partials/edit_store.php:471
+msgid "Saturday"
+msgstr "יום שבת"
+
+#: admin/partials/manage_store.php:216
+#: admin/partials/manage-cards.php:426
+msgid "Save"
+msgstr "להציל"
+
+#: admin/partials/customize_map.php:171
+msgid "Save Customization"
+msgstr "שמור התאמה אישית"
+
+#: admin/partials/ui-customizer.php:36
+#: admin/partials/labels.php:20
+msgid "Save Settings"
+msgstr "שמור הגדרות"
+
+#: includes/admin/manager.php:230
+msgid "Save Settings to apply the changes"
+msgstr ""
+
+#: admin/partials/add_store.php:515
+#: admin/partials/edit_store.php:584
+msgid "Saving Store..."
+msgstr "שומר את החנות..."
+
+#: admin/partials/ui-customizer.php:36
+#: admin/partials/labels.php:20
+#: admin/partials/customize_map.php:171
+msgid "Saving..."
+msgstr "חִסָכוֹן..."
+
+#: includes/model/label.php:96
+msgid "Scan Area"
+msgstr "אזור סריקה"
+
+#: admin/partials/manage_store.php:153
+msgid "Schedule"
+msgstr ""
+
+#: includes/model/label.php:66
+#: public/partials/template-frontend-list-2.php:10
+#: public/partials/template-frontend-list.php:11
+#: public/partials/template-frontend-3.php:27
+#: public/partials/template-frontend-4.php:26
+msgid "Search"
+msgstr "לחפש"
+
+#: includes/model/label.php:143
+msgid "Search an address to see the nearest stores."
+msgstr "חפש כתובת כדי לראות את החנויות הקרובות ביותר."
+
+#: admin/partials/shortcode-popup-html.php:33
+#: includes/vendors/wpbakery/store-locator.php:80
+#: includes/vendors/elementor/store-locator.php:160
+msgid "Search By Address (Google)"
+msgstr "חפש לפי כתובת (גוגל)"
+
+#: admin/partials/shortcode-popup-html.php:34
+#: includes/vendors/elementor/store-locator.php:161
+msgid "Search By Store Name (Database)"
+msgstr "חיפוש לפי שם החנות (מסד נתונים)"
+
+#: admin/partials/shortcode-popup-html.php:35
+#: includes/vendors/elementor/store-locator.php:162
+msgid "Search By Stores Cities, States (Database)"
+msgstr "חיפוש לפי חנויות ערים, מדינות (מסד נתונים)"
+
+#: admin/partials/manage_store.php:129
+msgid "Search City"
+msgstr "חפש בעיר"
+
+#: admin/partials/manage_store.php:130
+msgid "Search Country"
+msgstr "ארץ חיפוש"
+
+#: admin/partials/manage_store.php:132
+msgid "Search Email"
+msgstr "לחפש אימייל"
+
+#: admin/partials/manage_leads.php:61
+#: admin/partials/categories.php:45
+#: admin/partials/categories.php:46
+#: admin/partials/markers.php:45
+#: admin/partials/manage_store.php:108
+#: admin/partials/manage_store.php:110
+#: admin/partials/manage_store.php:123
+#: admin/partials/attribute.php:80
+#: admin/partials/logos.php:45
+msgid "Search ID"
+msgstr "מזהה חיפוש"
+
+#: admin/partials/labels.php:30
+msgid "Search Labels"
+msgstr ""
+
+#: admin/partials/manage_store.php:125
+msgid "Search Lat"
+msgstr "חפש Lat"
+
+#: admin/partials/manage_leads.php:64
+msgid "Search Lead Email"
+msgstr "חפש אימייל לידים"
+
+#: admin/partials/manage_leads.php:62
+msgid "Search Lead Name"
+msgstr "חיפוש שם מוביל"
+
+#: admin/partials/manage_leads.php:63
+msgid "Search Lead Phone"
+msgstr "חיפוש טלפון מוביל"
+
+#: admin/partials/manage_store.php:126
+msgid "Search Lng"
+msgstr "חפש Lng"
+
+#: includes/model/label.php:52
+#: public/partials/template-frontend-2.php:65
+#: public/partials/template-frontend-2.php:171
+#: public/partials/template-frontend-list-2.php:22
+#: public/partials/template-frontend-list.php:25
+#: public/partials/template-frontend-1.php:48
+#: public/partials/template-frontend-3.php:31
+#: public/partials/template-frontend-4.php:39
+#: public/partials/template-frontend-0.php:52
+#: public/partials/template-frontend-0.php:175
+msgid "Search Location"
+msgstr "חיפוש מיקום"
+
+#: admin/partials/categories.php:47
+#: admin/partials/markers.php:46
+#: admin/partials/attribute.php:81
+#: admin/partials/logos.php:46
+#: includes/model/label.php:54
+msgid "Search Name"
+msgstr "חיפוש שם"
+
+#: admin/partials/manage_store.php:131
+msgid "Search Phone"
+msgstr "חפש טלפון"
+
+#: admin/partials/manage_leads.php:65
+msgid "Search Postal Code"
+msgstr "חפש מיקוד"
+
+#: admin/partials/manage_store.php:128
+msgid "Search State"
+msgstr "חיפוש מצב"
+
+#: admin/partials/manage_leads.php:66
+msgid "Search Store Title"
+msgstr "חפש את שם החנות"
+
+#: admin/partials/manage_store.php:127
+msgid "Search Street"
+msgstr "חיפוש ברחוב"
+
+#: admin/partials/labels.php:28
+msgid "Search the keyword and change the text"
+msgstr ""
+
+#: admin/partials/manage_store.php:124
+msgid "Search Title"
+msgstr "חיפוש כותרת"
+
+#: admin/partials/shortcode-popup-html.php:30
+#: includes/vendors/wpbakery/store-locator.php:77
+#: includes/vendors/elementor/store-locator.php:156
+msgid "Search Type"
+msgstr "סוג חיפוש"
+
+#: admin/partials/manage_store.php:133
+msgid "Search URL"
+msgstr "חפש כתובת אתר"
+
+#: admin/partials/dashboard.php:320
+#: includes/vendors/elementor/search-widget.php:44
+msgid "Search Widget"
+msgstr "יישומון חיפוש"
+
+#: includes/model/label.php:158
+msgid "Search your Location"
+msgstr "חפש את המיקום שלך"
+
+#: includes/model/label.php:157
+msgid "Search Your Nearest Location"
+msgstr ""
+
+#: admin/partials/manage_store.php:134
+msgid "Search Zip"
+msgstr "חפש ב-Zip"
+
+#: includes/model/label.php:118
+msgid "Search!"
+msgstr "לחפש!"
+
+#: admin/partials/dashboard.php:160
+msgid "Searches"
+msgstr "חיפושים"
+
+#: admin/partials/dashboard.php:172
+msgid "See how your stores are performing in the selected duration."
+msgstr "ראה את ביצועי החנויות שלך במשך הזמן שנבחר."
+
+#: includes/model/label.php:77
+#: includes/vendors/wpbakery/store-detail.php:82
+msgid "Select"
+msgstr "בחר"
+
+#: includes/model/label.php:74
+msgid "Select a category"
+msgstr "בחר קטגוריה"
+
+#: admin/partials/manage_leads.php:70
+#: admin/partials/categories.php:54
+#: admin/partials/markers.php:51
+#: admin/partials/manage_store.php:151
+#: admin/partials/attribute.php:87
+#: admin/partials/logos.php:53
+msgid "Select All"
+msgstr "בחר הכל"
+
+#: includes/admin/manager.php:208
+msgid "Select Brand"
+msgstr "בחר מותג"
+
+#: includes/vendors/wpbakery/store-cards.php:146
+#: includes/vendors/elementor/store-cards.php:166
+msgid "Select Categories"
+msgstr ""
+
+#: includes/model/label.php:76
+msgid "Select Category"
+msgstr "בחר קטגוריה"
+
+#: admin/partials/add_store.php:121
+#: admin/partials/edit_store.php:136
+#: includes/admin/manager.php:218
+#: includes/model/label.php:63
+#: includes/model/label.php:133
+msgid "Select Country"
+msgstr "בחר מדינה"
+
+#: includes/vendors/wpbakery/store-detail.php:92
+msgid "Select display option"
+msgstr ""
+
+#: includes/model/label.php:109
+msgid "Select Distance"
+msgstr "בחר מרחק"
+
+#: admin/partials/shortcode-popup-html.php:74
+msgid "Select either 12 or 24 hours time format"
+msgstr "בחר פורמט זמן של 12 או 24 שעות"
+
+#: admin/partials/manage-cards.php:256
+#: admin/partials/manage-cards.php:258
+#: admin/partials/manage-cards.php:443
+#: admin/partials/manage-cards.php:445
+msgid "Select Field"
+msgstr ""
+
+#: includes/admin/manager.php:911
+msgid "Select Image"
+msgstr "בחר תמונה"
+
+#: includes/vendors/wpbakery/store-locator.php:88
+#: includes/vendors/elementor/store-locator.php:171
+msgid "Select Layout"
+msgstr ""
+
+#: includes/admin/manager.php:213
+msgid "Select Logo"
+msgstr "בחר לוגו"
+
+#: includes/admin/manager.php:216
+msgid "Select Marker"
+msgstr "בחר מרקר"
+
+#: includes/model/label.php:64
+msgid "Select Option"
+msgstr "בחר אפשרות"
+
+#: includes/admin/manager.php:188
+#: includes/admin/manager.php:189
+msgid "Select Some Options"
+msgstr "בחר כמה אפשרויות"
+
+#: includes/admin/manager.php:207
+msgid "Select Special"
+msgstr "בחר מיוחד"
+
+#: includes/model/label.php:134
+msgid "Select State"
+msgstr "בחר מדינה"
+
+#: includes/model/label.php:86
+msgid "Select Store"
+msgstr "בחר בחנות"
+
+#: admin/partials/shortcode-popup-html.php:18
+#: includes/vendors/wpbakery/store-locator.php:67
+#: includes/vendors/elementor/store-locator.php:139
+msgid "Select Template"
+msgstr "בחר תבנית"
+
+#: includes/model/label.php:72
+msgid "selected"
+msgstr "נבחר"
+
+#: includes/admin/store.php:903
+msgid "Selected Stores"
+msgstr "חנויות נבחרות"
+
+#: includes/admin/import-export.php:87
+msgid "Server Google API Key is Missing"
+msgstr "מפתח Google API של השרת חסר"
+
+#: includes/admin/import-export.php:90
+msgid "Server Google API Key is not saved."
+msgstr "מפתח Google API של השרת לא נשמר."
+
+#: admin/partials/import_store.php:64
+msgid "Server Google Maps Key"
+msgstr "מפתח Google Maps של השרת"
+
+#: includes/vendors/wpbakery/store-cards.php:139
+msgid ""
+"Set max limit for items in grid or empty to display all (limited to 1000).\n"
+"                    "
+msgstr ""
+
+#: includes/vendors/wpbakery/store-detail.php:74
+msgid "Set store id"
+msgstr ""
+
+#: includes/admin/setting.php:207
+msgid "Setting has been updated successfully."
+msgstr "ההגדרה עודכנה בהצלחה."
+
+#: includes/admin/manager.php:952
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/admin/setting.php:112
+msgid "Settings has been updated."
+msgstr "ההגדרות עודכנו."
+
+#: admin/partials/manage-cards.php:69
+msgid "Shortcode"
+msgstr ""
+
+#: includes/vendors/elementor/store-cards.php:180
+#: includes/vendors/elementor/store-cards.php:192
+#: includes/vendors/elementor/store-cards.php:204
+#: includes/vendors/elementor/store-cards.php:215
+#: includes/vendors/elementor/search-widget.php:133
+msgid "Show"
+msgstr ""
+
+#: includes/vendors/elementor/store-cards.php:178
+msgid "Show Address"
+msgstr ""
+
+#: includes/vendors/elementor/search-widget.php:131
+msgid "Show Category"
+msgstr ""
+
+#: includes/vendors/elementor/store-cards.php:202
+msgid "Show Email"
+msgstr ""
+
+#: admin/partials/manage_store.php:101
+msgid "Show Pending Stores"
+msgstr "הצג חנויות בהמתנה"
+
+#: includes/vendors/elementor/store-cards.php:190
+msgid "Show Phone"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-cards.php:150
+msgid "Show store state wise"
+msgstr ""
+
+#: includes/vendors/elementor/store-cards.php:213
+msgid "Show URL Link"
+msgstr ""
+
+#: admin/partials/manage_store.php:69
+msgid "Show/Hide Columns"
+msgstr "הצג/הסתר עמודות"
+
+#: admin/partials/dashboard.php:67
+msgid "Simple"
+msgstr "פָּשׁוּט"
+
+#: includes/vendors/wpbakery/store-locator.php:101
+#: includes/vendors/elementor/store-locator.php:189
+msgid "Slider"
+msgstr ""
+
+#: admin/partials/customize_map.php:16
+msgid "Solid"
+msgstr "מוצק"
+
+#: includes/admin/import-export.php:207
+msgid "Some error occured"
+msgstr "אירעה שגיאה כלשהי"
+
+#: includes/frontend/app.php:1419
+msgid "Sorry! there are no stores found!"
+msgstr ""
+
+#: includes/frontend/request.php:705
+msgid "Sorry! you have already submited the form."
+msgstr "מצטער! כבר הגשת את הטופס."
+
+#: includes/admin/import-export.php:192
+msgid "Sorry, file already exists."
+msgstr "מצטערים, הקובץ כבר קיים."
+
+#: includes/admin/import-export.php:196
+msgid "Sorry, only CSV files are allowed."
+msgstr "מצטערים, רק קובצי CSV מותרים."
+
+#: includes/admin/base.php:321
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed."
+msgstr "מצטערים, רק קובצי JPG, JPEG, PNG ו-GIF מותרים."
+
+#: includes/admin/base.php:360
+msgid "Sorry, only KML files are allowed to import"
+msgstr "מצטערים, רק קובצי KML מורשים לייבא"
+
+#: includes/admin/base.php:309
+msgid "Sorry, your file is too large."
+msgstr "מצטערים, הקובץ שלך גדול מדי."
+
+#: includes/model/label.php:159
+#, fuzzy
+msgid "Sort by"
+msgstr "מיין לפי:"
+
+#: includes/model/label.php:123
+#: includes/model/label.php:129
+#: includes/model/label.php:173
+msgid "Specialities"
+msgstr ""
+
+#: includes/model/label.php:120
+msgid "Speciality"
+msgstr "תחום התמחות"
+
+#: includes/model/label.php:215
+msgid "stars"
+msgstr "כוכבים"
+
+#: admin/partials/add_store.php:258
+#: admin/partials/add_store.php:292
+#: admin/partials/add_store.php:325
+#: admin/partials/add_store.php:358
+#: admin/partials/add_store.php:392
+#: admin/partials/add_store.php:425
+#: admin/partials/add_store.php:459
+#: admin/partials/edit_store.php:292
+#: admin/partials/edit_store.php:330
+#: admin/partials/edit_store.php:367
+#: admin/partials/edit_store.php:404
+#: admin/partials/edit_store.php:442
+#: admin/partials/edit_store.php:479
+#: admin/partials/edit_store.php:517
+#: includes/admin/manager.php:212
+msgid "Start Time"
+msgstr "שעת התחלה"
+
+#: admin/partials/manage_store.php:159
+#: admin/partials/add_store.php:109
+#: admin/partials/edit_store.php:124
+#: includes/admin/store.php:1206
+#: includes/admin/manager.php:758
+#: includes/model/label.php:80
+#: includes/vendors/wpbakery/store-detail.php:86
+msgid "State"
+msgstr "מדינה"
+
+#: includes/vendors/elementor/store-detail.php:151
+#, fuzzy
+msgid "state"
+msgstr "כוכב"
+
+#: includes/vendors/wpbakery/store-cards.php:179
+msgid "State Filter"
+msgstr ""
+
+#: admin/partials/manage-cards.php:447
+#: includes/model/label.php:162
+msgid "States"
+msgstr "מדינות"
+
+#: includes/model/label.php:151
+msgid "Status"
+msgstr "סטָטוּס"
+
+#: admin/partials/manage_store.php:61
+msgid "Status Disable"
+msgstr "סטטוס השבתה"
+
+#: admin/partials/manage_store.php:60
+msgid "Status Enable"
+msgstr "מצב הפעל"
+
+#: includes/store-type.php:38
+#: admin/partials/manage_leads.php:76
+#: includes/model/label.php:153
+msgid "Store"
+msgstr "חנות"
+
+#: includes/admin/store.php:695
+msgid "Store added successfully."
+msgstr "החנות נוספה בהצלחה."
+
+#: admin/partials/add_store.php:79
+#: admin/partials/edit_store.php:91
+msgid "Store Address"
+msgstr "כתובת החנות"
+
+#: includes/frontend/request.php:614
+msgid "Store Address: "
+msgstr "כתובת החנות:"
+
+#: includes/admin/store.php:1103
+msgid "Store Approved Successfully"
+msgstr ""
+
+#: admin/partials/edit_store.php:98
+msgid "Store Branches"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-cards.php:122
+#: includes/vendors/elementor/store-cards.php:64
+msgid "Store Cards"
+msgstr ""
+
+#: includes/admin/store.php:870
+msgid "Store deleted successfully."
+msgstr "החנות נמחקה בהצלחה."
+
+#: includes/vendors/wpbakery/store-detail.php:54
+#: includes/vendors/elementor/store-detail.php:42
+msgid "Store Detail"
+msgstr ""
+
+#: includes/model/label.php:136
+msgid "Store Details"
+msgstr "פרטי החנות"
+
+#: includes/model/label.php:60
+msgid "Store Direction"
+msgstr "כיוון החנות"
+
+#: includes/admin/store.php:597
+msgid "Store duplicated successfully."
+msgstr "החנות שוכפלה בהצלחה."
+
+#: includes/admin/branch.php:289
+msgid "Store has been delete from branch successfully."
+msgstr ""
+
+#: includes/admin/store.php:1251
+msgid "Store has been scheduled successfully."
+msgstr ""
+
+#: includes/admin/branch.php:279
+msgid "Store has been updated into branch successfully."
+msgstr ""
+
+#: admin/partials/dashboard.php:253
+#: admin/partials/manage_store.php:154
+#: includes/vendors/wpbakery/store-detail.php:71
+#: includes/vendors/elementor/store-detail.php:134
+msgid "Store ID"
+msgstr "מזהה חנות"
+
+#: includes/model/label.php:166
+msgid "STORE INFORMATION"
+msgstr "אחסון מידע"
+
+#: includes/admin/store.php:973
+msgid "Store is already approved."
+msgstr "החנות כבר אושרה."
+
+#: admin/partials/dashboard.php:309
+#: includes/vendors/elementor/store-locator.php:44
+msgid "Store Locator"
+msgstr "מאתר חנויות"
+
+#: includes/cron/store-cron.php:144
+msgid "Store Locator Cron Imported Files: "
+msgstr "קבצים מיובאים של מאתר חנות Cron:"
+
+#: includes/model/lead.php:56
+msgid "Store Locator Lead Follow-up"
+msgstr "מעקב לידים לאיתור חנות"
+
+#: includes/frontend/request.php:592
+#: includes/frontend/request.php:731
+msgid "Store Locator Lead Request"
+msgstr "בקשת לידים לאיתור חנות"
+
+#: admin/partials/manage_store.php:95
+msgid "Store Locator Listing cache is enabled, newly stores or updates will not appear until stores cache is refreshed"
+msgstr ""
+
+#: admin/partials/manage_store.php:86
+msgid "Store Locator Listing columns can easily be updated by simply add/remove from the template, Please visit the link for more"
+msgstr "ניתן לעדכן בקלות עמודות רישום של מאתר חנויות פשוט על ידי הוספה/הסרה מהתבנית, אנא בקר בקישור למידע נוסף"
+
+#: admin/partials/shortcode-popup-html.php:6
+msgid "Store Locator Shortcode"
+msgstr "קוד קצר לאיתור חנות"
+
+#: includes/admin/store.php:1055
+msgid "Store Locator Updates! New Store Registered"
+msgstr "עדכוני מאתר החנות! חנות חדשה נרשמה"
+
+#: includes/vendors/wpbakery/store-locator.php:54
+msgid "Store Locator Widget"
+msgstr ""
+
+#: admin/partials/dashboard.php:331
+msgid "Store Registration Form"
+msgstr "טופס הרשמה לחנות"
+
+#: admin/partials/add_store.php:515
+#: admin/partials/edit_store.php:584
+msgid "Store Saved"
+msgstr "החנות נשמרה"
+
+#: includes/vendors/wpbakery/search-widget.php:53
+msgid "Store Search Widget"
+msgstr ""
+
+#: admin/partials/add_store.php:81
+#: admin/partials/edit_store.php:93
+msgid "Store Timing"
+msgstr "תזמון חנות"
+
+#: includes/admin/store.php:824
+msgid "Store updated successfully."
+msgstr "החנות עודכנה בהצלחה."
+
+#: includes/store-type.php:37
+#: includes/store-type.php:45
+#: admin/partials/dashboard.php:121
+msgid "Stores"
+msgstr "חנויות"
+
+#: includes/admin/store.php:870
+msgid "Stores deleted successfully."
+msgstr "חנויות נמחקו בהצלחה."
+
+#: admin/partials/manage_store.php:158
+#: admin/partials/add_store.php:99
+#: admin/partials/edit_store.php:114
+#: includes/admin/store.php:1191
+#: includes/model/label.php:175
+msgid "Street"
+msgstr "רְחוֹב"
+
+#: includes/model/label.php:225
+msgid "Sub-Categories"
+msgstr ""
+
+#: includes/model/label.php:201
+msgid "Submit"
+msgstr "שלח"
+
+#: admin/partials/categories.php:137
+#: admin/partials/categories.php:197
+#: admin/partials/markers.php:118
+#: admin/partials/markers.php:168
+#: admin/partials/manage_store.php:216
+#: admin/partials/add_store.php:566
+#: admin/partials/add_store.php:616
+#: admin/partials/manage-cards.php:426
+#: admin/partials/edit_store.php:634
+#: admin/partials/edit_store.php:682
+#: admin/partials/logos.php:122
+#: admin/partials/logos.php:169
+msgid "Submitting ..."
+msgstr "שולח..."
+
+#: includes/model/label.php:200
+#: includes/model/label.php:222
+msgid "Submitting..."
+msgstr "הַגָשָׁה..."
+
+#: includes/admin/store.php:438
+msgid "Success! All coordinates looks correct values"
+msgstr "הַצלָחָה! כל הקואורדינטות נראות ערכים נכונים"
+
+#: includes/admin/store.php:1131
+msgid "Success! Store has been approved."
+msgstr "הַצלָחָה! החנות אושרה."
+
+#: includes/admin/store.php:936
+msgid "Success! Store is approved and registered into the listing."
+msgstr "הַצלָחָה! החנות מאושרת ורשומה ברישום."
+
+#: includes/frontend/request.php:955
+msgid "Success! Store is registered successfully."
+msgstr "הַצלָחָה! החנות נרשמה בהצלחה."
+
+#: includes/helper.php:1166
+#: includes/model/label.php:144
+msgid "Sun"
+msgstr "שמש"
+
+#: admin/partials/add_store.php:454
+#: admin/partials/edit_store.php:509
+msgid "Sunday"
+msgstr "יוֹם רִאשׁוֹן"
+
+#: admin/partials/dashboard.php:369
+msgid "Support Multiple Languages & Localization"
+msgstr "תמיכה במספר שפות ולוקליזציה"
+
+#: admin/partials/dashboard.php:388
+msgid "Support status"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:16
+#: admin/partials/ui-customizer.php:19
+#: admin/partials/ui-customizer.php:20
+#: admin/partials/ui-customizer.php:21
+#: admin/partials/ui-customizer.php:22
+#: admin/partials/ui-customizer.php:23
+msgid "Template"
+msgstr "תבנית"
+
+#: admin/partials/shortcode-popup-html.php:21
+#: includes/vendors/wpbakery/store-locator.php:70
+#: includes/vendors/elementor/store-locator.php:143
+msgid "Template 0"
+msgstr "תבנית 0"
+
+#: admin/partials/shortcode-popup-html.php:22
+#: includes/vendors/elementor/store-locator.php:144
+msgid "Template 1"
+msgstr "תבנית 1"
+
+#: admin/partials/shortcode-popup-html.php:23
+#: includes/vendors/elementor/store-locator.php:145
+msgid "Template 2"
+msgstr "תבנית 2"
+
+#: admin/partials/shortcode-popup-html.php:24
+#: includes/vendors/elementor/store-locator.php:146
+msgid "Template 3"
+msgstr "תבנית 3"
+
+#: includes/vendors/elementor/store-locator.php:147
+msgid "Template 4"
+msgstr ""
+
+#: includes/helper.php:1011
+msgid "Template file moved to theme directory."
+msgstr "קובץ התבנית הועבר לספריית ערכות נושא."
+
+#: includes/helper.php:1045
+msgid "Template file removed from the theme directory."
+msgstr "קובץ התבנית הוסר מספריית ערכות הנושא."
+
+#: includes/admin/setting.php:354
+msgid "Template has no infobox."
+msgstr ""
+
+#: admin/partials/ui-customizer.php:24
+#: includes/vendors/elementor/store-locator.php:148
+msgid "Template List"
+msgstr "רשימת תבניות"
+
+#: admin/partials/shortcode-popup-html.php:25
+msgid "Template list"
+msgstr "רשימת תבניות"
+
+#: admin/partials/ui-customizer.php:25
+msgid "Template List 2"
+msgstr ""
+
+#: includes/admin/setting.php:903
+msgid "Template UI settings updated"
+msgstr "הגדרות ממשק המשתמש של התבנית עודכנו"
+
+#: includes/admin/setting.php:435
+msgid "Template Updated"
+msgstr "התבנית עודכנה"
+
+#: includes/admin/setting.php:929
+msgid "Template updated"
+msgstr "התבנית עודכנה"
+
+#: includes/admin/manager.php:228
+#, fuzzy
+msgid "Thank you for purchasing <b>Store Locator for WordPress</b> Plugin, kindly enter your purchase code to unlock the page. <a target=\"_blank\" href=\"https://agilestorelocator.com/wiki/store-locator-purchase-code/\">How to Get My Purchase Code?</a>"
+msgstr "תודה שרכשת את <b>Store Locator עבור תוסף WordPress</b> , אנא הזן את קוד הרכישה שלך כדי לפתוח את הדף. <a target=\"_blank\" href=\"https://agilestorelocator.com/wiki/store-locator-purchase-code/\">כיצד להשיג את קוד הרכישה שלך</a> ."
+
+#: includes/frontend/request.php:637
+#: includes/frontend/request.php:768
+msgid "Thank you! we have received your request."
+msgstr "תודה! קיבלנו את בקשתך."
+
+#: includes/admin/import-export.php:201
+msgid "The file has been uploaded."
+msgstr "הקובץ הועלה."
+
+#: admin/partials/customize_map.php:101
+msgid "The List of KML Files"
+msgstr "רשימת קבצי KML"
+
+#: includes/model/lead.php:65
+msgid "This is a follow-up email for the store: "
+msgstr "זהו אימייל המשך לחנות:"
+
+#: includes/helper.php:1166
+#: includes/model/label.php:148
+msgid "Thur"
+msgstr "יום חמישי"
+
+#: admin/partials/add_store.php:353
+#: admin/partials/edit_store.php:396
+msgid "Thursday"
+msgstr "יוֹם חֲמִישִׁי"
+
+#: admin/partials/shortcode-popup-html.php:66
+msgid "Time Format"
+msgstr "פורמט זמן"
+
+#: admin/partials/manage_store.php:33
+msgid "Timer"
+msgstr ""
+
+#: admin/partials/manage_store.php:155
+#: admin/partials/add_store.php:43
+#: admin/partials/edit_store.php:55
+#: admin/partials/import_store.php:112
+#: includes/admin/store.php:1166
+#: includes/admin/manager.php:758
+#: includes/model/label.php:160
+#: includes/vendors/wpbakery/store-detail.php:83
+#: includes/vendors/elementor/store-detail.php:148
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/admin/store.php:1069
+#: includes/admin/store.php:1107
+msgid "Title: "
+msgstr "כותרת:"
+
+#: includes/model/label.php:205
+msgid "To"
+msgstr "ל"
+
+#: admin/partials/labels.php:13
+msgid "To enable the label changing feature please enable the switch,<br> For multi-language translation, please disable it and follow the "
+msgstr ""
+
+#: admin/partials/dashboard.php:176
+msgid "Top Views"
+msgstr "צפיות למעלה"
+
+#: includes/vendors/wpbakery/store-cards.php:136
+#: includes/vendors/elementor/store-cards.php:155
+msgid "Total items"
+msgstr ""
+
+#: admin/partials/customize_map.php:133
+msgid "Traffic Layer"
+msgstr "שכבת תנועה"
+
+#: admin/partials/customize_map.php:142
+msgid "Transit Layer"
+msgstr "שכבת מעבר"
+
+#: admin/partials/manage_leads.php:10
+#: admin/partials/categories.php:10
+#: admin/partials/add_store.php:15
+#: admin/partials/manage-cards.php:34
+#: admin/partials/edit_store.php:18
+#: admin/partials/import_store.php:22
+#: admin/partials/attribute.php:10
+#: admin/partials/logos.php:10
+msgid "Trash"
+msgstr "אַשׁפָּה"
+
+#: includes/admin/manager.php:220
+msgid "Truncate Stores Table"
+msgstr "חתוך טבלת חנויות"
+
+#: admin/partials/dashboard.php:367
+msgid "Try Multiple Layouts with Listing and Accordion"
+msgstr "נסה פריסות מרובות עם רשימה ואקורדיון"
+
+#: includes/helper.php:1166
+#: includes/model/label.php:146
+msgid "Tues"
+msgstr "שלישי"
+
+#: admin/partials/add_store.php:287
+#: admin/partials/edit_store.php:322
+msgid "Tuesday"
+msgstr "יוֹם שְׁלִישִׁי"
+
+#: admin/partials/shortcode-popup-html.php:48
+msgid "Type your Location Modal"
+msgstr "הקלד את שיטת המיקום שלך"
+
+#: admin/partials/categories.php:86
+#: admin/partials/categories.php:137
+msgid "Update Category"
+msgstr "עדכן קטגוריה"
+
+#: admin/partials/logos.php:78
+#: admin/partials/logos.php:122
+msgid "Update Logo"
+msgstr "עדכון לוגו"
+
+#: admin/partials/markers.php:76
+#: admin/partials/markers.php:118
+msgid "Update Marker"
+msgstr "עדכן את מרקר"
+
+#: admin/partials/edit_store.php:584
+msgid "Update Store"
+msgstr "חנות עדכונים"
+
+#: includes/admin/attribute.php:159
+msgid "Updated Successfully"
+msgstr "עודכן בהצלחה"
+
+#: admin/partials/markers.php:168
+#: admin/partials/add_store.php:566
+#: admin/partials/add_store.php:616
+#: admin/partials/edit_store.php:634
+#: admin/partials/edit_store.php:682
+#: admin/partials/import_store.php:93
+#: admin/partials/logos.php:169
+msgid "Upload"
+msgstr "העלה"
+
+#: admin/partials/import_store.php:188
+msgid "Upload CSV File"
+msgstr "העלה קובץ CSV"
+
+#: includes/admin/manager.php:191
+msgid "Upload Failed! Please try Again."
+msgstr "העלאה נכשלה! בבקשה נסה שוב."
+
+#: admin/partials/import_store.php:219
+msgid "Upload File"
+msgstr "העלה קובץ"
+
+#: admin/partials/customize_map.php:91
+msgid "Upload KML"
+msgstr "העלה KML"
+
+#: admin/partials/add_store.php:532
+#: admin/partials/edit_store.php:601
+#: admin/partials/logos.php:136
+msgid "Upload Logo"
+msgstr "העלה לוגו"
+
+#: admin/partials/markers.php:132
+#: admin/partials/add_store.php:582
+#: admin/partials/edit_store.php:650
+msgid "Upload Marker"
+msgstr "סמן העלאה"
+
+#: admin/partials/categories.php:39
+msgid "Upload SVG File for Categories if you are using Template 2. To sort categories by the Order ID, please use shortcode attribute cat_sort=\"order\", example: [ASL_STORELOCATOR cat_sort=\"ordr\"]"
+msgstr "העלה קובץ SVG עבור קטגוריות אם אתה משתמש בתבנית 2. כדי למיין קטגוריות לפי מזהה ההזמנה, אנא השתמש בתכונת shortcode cat_sort=\"order\", לדוגמה: [ASL_STORELOCATOR cat_sort=\"ordr\"]"
+
+#: admin/partials/manage_store.php:164
+msgid "URL"
+msgstr "כתובת אתר"
+
+#: admin/partials/dashboard.php:366
+msgid "Use 5 Beautiful Store Locator Themes"
+msgstr "השתמש ב-5 ערכות נושא יפהפיות לאיתור חנויות"
+
+#: includes/admin/manager.php:215
+msgid "Use Image"
+msgstr "השתמש בתמונה"
+
+#: includes/model/label.php:212
+msgid "USE LOCATION"
+msgstr "השתמש במיקום"
+
+#: includes/model/label.php:211
+msgid "Use my location to find the closest Service Provider near me"
+msgstr "השתמש במיקום שלי כדי למצוא את ספק השירות הקרוב ביותר בקרבתי"
+
+#: admin/partials/manage-cards.php:214
+msgid "Use Slider"
+msgstr ""
+
+#: includes/model/label.php:117
+msgid "User denied geo-location, check preferences."
+msgstr "המשתמש נדחה מיקום גיאוגרפי, בדוק העדפות."
+
+#: includes/admin/import-export.php:78
+msgid "Valid API Key"
+msgstr "מפתח API חוקי"
+
+#: admin/partials/manage_store.php:76
+msgid "Validate Coordinates"
+msgstr "אימות קואורדינטות"
+
+#: admin/partials/import_store.php:69
+msgid "Validate Key"
+msgstr "אימות מפתח"
+
+#: admin/partials/manage_store.php:76
+#: admin/partials/import_store.php:69
+msgid "Validating..."
+msgstr "מאמת..."
+
+#: admin/partials/manage-cards.php:265
+#: admin/partials/manage-cards.php:455
+msgid "Value"
+msgstr ""
+
+#: admin/partials/dashboard.php:98
+msgid "Video Tutorial"
+msgstr "מדריך וידאו"
+
+#: admin/partials/import_store.php:138
+msgid "View"
+msgstr "נוף"
+
+#: includes/model/label.php:230
+msgid "View All Branches"
+msgstr ""
+
+#: includes/model/label.php:181
+msgid "View Description"
+msgstr ""
+
+#: admin/partials/dashboard.php:263
+#: admin/partials/dashboard.php:283
+msgid "Views"
+msgstr "צפיות"
+
+#: admin/partials/dashboard.php:356
+msgid "Want To Upgrade Plugin?"
+msgstr "רוצה לשדרג פלאגין?"
+
+#: admin/partials/manage_leads.php:21
+#: admin/partials/categories.php:18
+#: admin/partials/attribute.php:18
+msgid "Warning"
+msgstr "אַזהָרָה"
+
+#: admin/partials/edit_store.php:48
+msgid "Warning!"
+msgstr "אַזהָרָה!"
+
+#: includes/admin/setting.php:1056
+msgid "Warning! Export includes all configuration including API keys, labels, customizations and maps related settings."
+msgstr ""
+
+#: includes/admin/manager.php:236
+msgid "Warning! the existing configuration will be removed and replaced including the customizations that you have made through the Customizer section!"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:27
+msgid "WC Addon"
+msgstr "תוסף שירותים"
+
+#: admin/partials/asl-faq.php:93
+msgid "we will get back to you as soon as possible, please include (\"Store Locator\" in the Subject) to avoid the spam list."
+msgstr ""
+
+#: admin/partials/add_store.php:48
+#: admin/partials/edit_store.php:60
+#: includes/admin/store.php:1211
+#: includes/model/label.php:62
+#: public/partials/asl-card-01.php:59
+msgid "Website"
+msgstr "אתר אינטרנט"
+
+#: includes/model/label.php:169
+#: includes/model/label.php:170
+msgid "Website URL"
+msgstr "כתובת אתר"
+
+#: admin/partials/manage-cards.php:354
+#: admin/partials/manage-cards.php:409
+msgid "Websites"
+msgstr ""
+
+#: includes/helper.php:1166
+#: includes/model/label.php:147
+msgid "Wed"
+msgstr "היינו עושים"
+
+#: admin/partials/add_store.php:320
+#: admin/partials/edit_store.php:359
+msgid "Wednesday"
+msgstr "יום רביעי"
+
+#: includes/model/label.php:132
+msgid "Within"
+msgstr "בְּתוֹך"
+
+#: admin/partials/add_store.php:83
+#: admin/partials/edit_store.php:95
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/partials/add_store.php:235
+#: admin/partials/edit_store.php:264
+#: includes/admin/store.php:381
+msgid "Yes"
+msgstr "כן"
+
+#: admin/partials/dashboard.php:310
+msgid "You can leverage store locators in multiple themes, layouts, color schemes, and language that you can easily personalize."
+msgstr "אתה יכול למנף מאתרי חנויות במספר נושאים, פריסות, ערכות צבעים ושפה שתוכל להתאים אישית בקלות."
+
+#: admin/partials/manage_store.php:101
+msgid "You have pending stores to approve them."
+msgstr "יש לך חנויות ממתינות לאשר אותן."
+
+#: includes/model/label.php:209
+msgid "Your Address"
+msgstr "הכתובת שלך"
+
+#: includes/model/label.php:97
+msgid "Your Current Location"
+msgstr "המיקום הנוכחי שלך"
+
+#: includes/model/label.php:75
+msgid "Your Geo Location"
+msgstr "המיקום הגיאוגרפי שלך"
+
+#: includes/model/label.php:198
+msgid "Zip Code"
+msgstr "מיקוד"
+
+#: includes/model/label.php:90
+msgid "Zoom"
+msgstr "תקריב"

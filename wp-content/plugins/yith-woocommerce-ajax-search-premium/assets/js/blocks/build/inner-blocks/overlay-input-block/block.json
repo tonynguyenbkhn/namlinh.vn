@@ -1,0 +1,82 @@
+{
+  "name": "yith/overlay-input-block",
+  "version": "1.0.0",
+  "title": "Input Block",
+  "description": "Contains the block that manages the search field.",
+  "category": "yith-blocks",
+  "supports": {
+    "align": [
+      "wide"
+    ],
+    "html": false,
+    "multiple": false,
+    "reusable": false,
+    "inserter": false,
+    "lock": false
+  },
+  "attributes": {
+    "lock": {
+      "type": "object",
+      "default": {
+        "remove": true,
+        "move": true
+      }
+    },
+    "placeholder": {
+      "type": "string",
+      "default": "Search products..."
+    },
+    "placeholderTextColor": {
+      "type": "string",
+      "default": "#000"
+    },
+    "inputTextColor": {
+      "type": "string",
+      "default": "#000"
+    },
+    "inputBgColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+    "inputBgFocusColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+    "inputBorderColor": {
+      "type": "string",
+      "default": "#7C7C7C"
+    },
+    "inputBorderFocusColor": {
+      "type": "string",
+      "default": "#5B5B5B"
+    },
+    "inputBorderSize": {
+      "type": "object",
+      "default": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomLeft": "1px",
+        "bottomRight": "0px"
+      }
+    },
+    "inputBorderRadius": {
+      "type": "object",
+      "default": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomLeft": "0px",
+        "bottomRight": "0px"
+      }
+    },
+    "className": {
+      "type": "string",
+      "default": "ywcas-overlay-input-block"
+    }
+  },
+  "parent": [
+    "yith/overlay-search-block"
+  ],
+  "textdomain": "yith-woocommerce-ajax-search",
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2
+}

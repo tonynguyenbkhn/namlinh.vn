@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Frontend" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MacBook-Pro-16&quot;" transform="translate(-604, -566)">
+            <g id="Group-6" transform="translate(604, 566)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="3" cx="17" cy="17" r="15.5"></circle>
+                <g id="play" transform="translate(13, 11)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M2.0495923,0.189524922 C1.15947066,-0.321534558 0,0.261033157 0,1.21932954 L0,10.7806647 C0,11.7389774 1.15947066,12.3215288 2.0495923,11.8104775 L10.3761529,7.02978958 C11.207949,6.55225644 11.207949,5.4477622 10.3761529,4.97018847 L2.0495923,0.189524922 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

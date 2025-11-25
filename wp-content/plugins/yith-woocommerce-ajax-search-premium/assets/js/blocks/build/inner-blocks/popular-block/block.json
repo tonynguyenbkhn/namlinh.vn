@@ -1,0 +1,19 @@
+{
+  "name": "yith/popular-block",
+  "version": "1.0.0",
+  "title": "Popular Searches Block",
+  "description": "Adds the popular search results block.",
+  "category": "yith-blocks",
+  "supports": {
+    "align": [
+      "wide"
+    ]
+  },
+  "parent": [
+    "yith/filled-block",
+    "yith/empty-block"
+  ],
+  "textdomain": "yith-woocommerce-ajax-search",
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2
+}

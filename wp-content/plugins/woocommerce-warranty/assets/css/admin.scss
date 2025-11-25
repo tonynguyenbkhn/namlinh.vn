@@ -1,0 +1,248 @@
+.warranty-updated {
+  background-color: #ffffe0;
+  border-color: #e6db55;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 5px 0 15px;
+  padding: 0 0.6em;
+  width: 95%;
+
+  p {
+    margin: 0.8em 0 !important;
+  }
+}
+
+div {
+  &.warranty_form {
+    float: left;
+    width: 65%;
+
+    h4 {
+      margin: 0;
+    }
+  }
+
+  &.warranty_fields {
+    float: left;
+    width: 300px;
+    margin-left: 15px;
+
+    h4 {
+      margin: 0;
+    }
+  }
+}
+
+ul#warranty_form {
+  &,
+  &_fields {
+    border: 1px solid #ececec;
+    background: #fff;
+    margin-bottom: 5px;
+  }
+
+  li {
+    position: relative;
+    padding: 5px;
+
+    &.placeholder {
+      color: #c9c9c9;
+      font-style: italic;
+    }
+
+    &.wfb-field {
+      cursor: move;
+    }
+
+    .wfb-field-controls {
+      position: absolute;
+      right: 5px;
+      top: 10px;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+
+      a {
+        text-decoration: none;
+        margin: 0 2px;
+      }
+    }
+
+    h3 {
+      margin: 10px 0;
+    }
+  }
+
+  &_fields {
+    width: 200px;
+  }
+}
+
+a.control.button {
+  width: 100%;
+}
+
+.warranty-coupon-notice {
+  padding-top: 10px;
+  font-weight: 700;
+}
+
+.wfb-field-content {
+  background: #f1f1f1;
+  padding: 0 5px;
+  border-top: 1px solid #cecece;
+  border-bottom: 1px solid #cecece;
+}
+
+.wfb-field-block {
+  width: 50%;
+  float: left;
+
+  .normal-width {
+    width: auto;
+  }
+
+  select {
+    float: none !important;
+  }
+}
+
+table.toplevel_page_warranties {
+  tr.inline-edit-row {
+    background: #eee;
+
+    td {
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+    }
+  }
+}
+
+.button.tips.inline-rma {
+  &.dashicons-controls-repeat {
+    text-indent: 0 !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    span.dashicons {
+      font-size: 20px;
+    }
+  }
+}
+
+.inline-edit-order {
+  .warranty-request {
+    margin-bottom: 30px;
+
+    h2 {
+      border-bottom: 1px solid #ccc;
+    }
+
+    div.field {
+      .label {
+        display: inline-block;
+        width: 40%;
+        font-weight: bold;
+      }
+
+      .value {
+        display: inline-block;
+        width: 59%;
+      }
+    }
+
+    input.full-width {
+      width: 100%;
+    }
+
+    div > h4 {
+      margin-top: 15px;
+    }
+  }
+}
+
+ul.admin-notes {
+  padding: 2px 0 0;
+
+  li {
+    padding: 0 10px;
+
+    .note-content {
+      background: #fff none repeat scroll 0 0;
+      padding: 10px 10px 5px 10px;
+      position: relative;
+
+      &::after {
+        border-color: #fff transparent;
+        border-style: solid;
+        border-width: 10px 10px 0 0;
+        bottom: -10px;
+        content: "";
+        display: block;
+        height: 0;
+        left: 20px;
+        position: absolute;
+        width: 0;
+      }
+    }
+
+    p.meta {
+      color: #999;
+      font-size: 11px;
+      margin: 0;
+      padding: 10px;
+    }
+
+    a.delete_note {
+      color: #a00;
+    }
+  }
+}
+
+ul.order-items {
+  margin: 0;
+}
+
+table.warranty {
+  th {
+    &#order_id {
+      width: 10%;
+    }
+
+    &#order_status {
+      width: 10%;
+    }
+
+    &#order_customer {
+      width: 20%;
+    }
+
+    &#order_items {
+      width: 45%;
+    }
+
+    &#order_date {
+      width: 15%;
+    }
+  }
+}
+
+.widefat .column-order_actions {
+  a.button.inline-rma {
+    height: 1.4em;
+  }
+}
+
+.search-container {
+	&-label,
+	& {
+		display:none;	
+	}
+
+	&.show-if-admin-selected,
+	&-label.show-if-admin-selected {
+		display:block;
+	}
+}

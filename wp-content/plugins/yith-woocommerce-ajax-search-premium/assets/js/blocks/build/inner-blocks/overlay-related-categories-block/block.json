@@ -1,0 +1,28 @@
+{
+  "name": "yith/overlay-related-categories-block",
+  "version": "1.0.0",
+  "title": "Related Categories Block",
+  "description": "Contains the block that shows the related categories.",
+  "category": "yith-blocks",
+  "supports": {
+    "align": [
+      "wide"
+    ]
+  },
+  "attributes": {
+    "relatedCategoryHeading": {
+      "type": "string",
+      "default": ""
+    },
+    "maxCategoryRelated": {
+      "type": "number",
+      "default": 3
+    }
+  },
+  "parent": [
+    "yith/overlay-filled-block"
+  ],
+  "textdomain": "yith-woocommerce-ajax-search",
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2
+}

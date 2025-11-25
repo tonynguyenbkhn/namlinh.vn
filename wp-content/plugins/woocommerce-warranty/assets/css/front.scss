@@ -1,0 +1,36 @@
+table.warranty-table {
+  border: none;
+
+  th,
+  td {
+    border: 1px solid #dfdfdf;
+    border-collapse: collapse;
+  }
+
+  td {
+    padding: 5px;
+    vertical-align: top;
+  }
+
+  th.check-column,
+  td.check-column {
+    text-align: center;
+  }
+}
+
+div.item-variations {
+  margin: -10px 0 10px 15px;
+  border-left: 3px solid #dfdfdf;
+  padding-left: 10px;
+  font-size: 12px;
+}
+
+ul.warranty-data {
+  margin: 0;
+  padding-left: 15px;
+}
+
+.customer-tracking-code-container,
+.warranty-tracking-code-container {
+  margin-top: 10px;
+}

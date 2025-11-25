@@ -1,0 +1,43 @@
+<div class="pol-12 pt-3" data-id="{{:id}}" tabindex="0" accesskey="{{:id}}">
+   <div class="sl-addr-sec">
+       <h3 class="sl-addr-list-title">{{:title}}</h3>
+       {{if path}}
+        <div class="sl-store-logo mb-2"><img alt="store-logo" src="{{:URL}}Logo/{{:path}}" /></div>
+        {{/if}}
+       {{if categories}}
+       <div class="sl-cat-tag">
+           <ul>
+               {{for categories}}
+               <li><i class="icon-ok"></i>{{:name}}</li>
+               {{/for}}
+           </ul>
+       </div>
+       {{/if}}
+       <div class="addr-loc">
+           <ul>
+               <li class="sl-addr">
+                   <span>{{:address}}</span>
+               </li>
+               <li class="sl-phone">
+                   {{if phone}}
+                   <a href="tel:{{:phone}}">{{:phone}}</a>
+                   {{/if}}
+               </li>
+               {{if email}}
+               <li class="sl-email">
+                   <a href="mailto:{{:email}}">{{:email}}</a>
+               </li>
+               {{/if}}
+               {{if open_hours}}
+               <li class="sl-hours">
+                   <span class="txt-hours">{{:open_hours}}</span>
+               </li>
+               {{/if}}
+           </ul>
+        </div>
+        {{if description}}
+            <div class="sl-desc">{{:description}}</div>
+        {{/if}}
+        <div class="asl-buttons asl-btn-full"></div>
+   </div>
+</div>

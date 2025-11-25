@@ -1,0 +1,4657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Advanced Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-15T10:41:48+00:00\n"
+"PO-Revision-Date: 2024-07-22 07:57:28+0000\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: plugin-options/general/style-options.php:165
+msgctxt "[Admin panel] Setting name"
+msgid "Avatar"
+msgstr ""
+
+#: plugin-options/general/style-options.php:81
+#: plugin-options/general/style-options.php:176
+msgctxt "[Admin panel] Option name"
+msgid "Initials"
+msgstr ""
+
+#: plugin-options/general/style-options.php:80
+msgctxt "[Admin panel] Option name"
+msgid "Image"
+msgstr ""
+
+#: plugin-options/general/style-options.php:77
+msgctxt "[Admin panel] Setting description"
+msgid "Set the user avatar style"
+msgstr ""
+
+#: plugin-options/general/style-options.php:74
+msgctxt "[Admin panel] Setting name"
+msgid "Avatar style"
+msgstr ""
+
+#: plugin-options/general/general-options.php:66
+msgctxt "[Admin panel] Option name"
+msgid "Username"
+msgstr ""
+
+#: plugin-options/general/general-options.php:65
+msgctxt "[Admin panel] Option name"
+msgid "First name and the initial of the last name"
+msgstr ""
+
+#: plugin-options/general/general-options.php:64
+msgctxt "[Admin panel] Option name"
+msgid "Initials of first and last name only"
+msgstr ""
+
+#: plugin-options/general/general-options.php:53
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, only logged in customers who have purchased the product can leave a review"
+msgstr ""
+
+#: plugin-options/general/general-options.php:50
+msgctxt "[Admin panel] Setting name"
+msgid "Reviews can only be left by \"Verified buyers\""
+msgstr ""
+
+#: plugin-options/general/general-options.php:46
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, it will show the \"Verified buyer\" label next to the user name"
+msgstr ""
+
+#: plugin-options/general/general-options.php:43
+msgctxt "[Admin panel] Setting name"
+msgid "Show \"Verified buyer\" label on customer reviews"
+msgstr ""
+
+#: plugin-options/general/general-options.php:38
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, it will show the user's country"
+msgstr ""
+
+#: plugin-options/general/general-options.php:35
+msgctxt "[Admin panel] Setting name"
+msgid "Show user's country"
+msgstr ""
+
+#: modules/modules.php:26
+msgctxt "[Admin panel] Module description"
+msgid "Migrate your options from the existing plugins."
+msgstr ""
+
+#. Translators: %s date of the migration
+#: modules/migration-tools/includes/functions.php:324
+msgctxt "[Migration tools] Migration status description"
+msgid "migration completed on %s"
+msgstr ""
+
+#. Translators: %s date of the migration
+#: modules/migration-tools/includes/functions.php:324
+msgctxt "[Migration tools] Migration status description"
+msgid "migration pending"
+msgstr ""
+
+#: modules/migration-tools/includes/functions.php:318
+msgctxt "[Migration tools] Migration status description"
+msgid "migration failed. Please try again."
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:279
+msgctxt "[Admin panel] Plugin options section description"
+msgid "Choose which settings to migrate from old plugins."
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:277
+#: modules/modules.php:25
+msgctxt "[Admin panel] Module name"
+msgid "Migration tools"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:252
+msgctxt "[Admin panel] Modal message"
+msgid "Do you want to continue with the migration of the settings? This operation cannot be undone."
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:251
+msgctxt "[Admin panel] Modal title"
+msgid "Migrate settings"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:184
+msgctxt "[Migration tools] Button label"
+msgid "Start migration"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:180
+msgctxt "[Migration tools] Button label"
+msgid "Deactivate plugin"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:178
+msgctxt "[Migration tools] Migration status completed message"
+msgid "All settings were migrated, you can now deactivate the plugin."
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:132
+msgctxt "[Migration tools] Mirgation box title"
+msgid "Select options to migrate"
+msgstr ""
+
+#. translators: %1$s plugin name, %2$s opening link tag %3$s closing link tag
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:114
+msgctxt "[Migration tools] Notice displayed when the migration is scheduled"
+msgid "%1$s is migrating the options. The data may not be consistent until the process is completed. You can check the update process on %2$sthis page%3$s."
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:83
+msgctxt "[Migration tools] Option label"
+msgid "Review discounts"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:61
+msgctxt "[Migration tools] Option label"
+msgid "Blocklist table"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:57
+msgctxt "[Migration tools] Option label"
+msgid "Scheduled emails list table"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:53
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:79
+msgctxt "[Migration tools] Option label"
+msgid "Plugin settings"
+msgstr ""
+
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools-ajax.php:46
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:259
+msgctxt "[Migration tools] Error message"
+msgid "You must select at least one option!"
+msgstr ""
+
+#. translators: %s country name
+#: includes/functions-yith-ywar-reviews.php:515
+msgctxt "[Admin panel] Message displayed in the email when the review needs to be approved"
+msgid "From %s"
+msgstr ""
+
+#. translators: %1$s opening link tag %2$s closing link tag
+#: includes/functions-yith-ywar-reviews.php:406
+msgctxt "[Admin panel] Message displayed in the email when the review needs to be approved"
+msgid "%1$sNote:%2$s The review is not yet visible on your site. To approve it click %3$shere%4$s"
+msgstr ""
+
+#. translators: %1$s opening link tag %2$s closing link tag
+#: includes/functions-yith-ywar-reviews.php:403
+msgctxt "[Admin panel] Message displayed in the email when the reply needs to be approved"
+msgid "%1$sNote:%2$s The reply is not yet visible on your site. To approve it click %3$shere%4$s"
+msgstr ""
+
+#: includes/emails/class-yith-ywar-reported-review-email.php:61
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {admin_name}, \n"
+"\n"
+"the following review was reported by a user for inappropriate content:\n"
+"\n"
+"{review}\n"
+"\n"
+"You can {edit_link} this review through your admin panel."
+msgstr ""
+
+#: includes/emails/class-yith-ywar-reported-review-email.php:59
+#: includes/emails/class-yith-ywar-reported-review-email.php:60
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A customer has just reported a review"
+msgstr ""
+
+#: includes/emails/class-yith-ywar-reported-review-email.php:58
+msgctxt "[Admin panel] Post type label and email title"
+msgid "Reported review"
+msgstr ""
+
+#: includes/emails/class-yith-ywar-reported-review-email.php:57
+msgctxt "[Admin panel] Email description"
+msgid "Sent when a review is reported"
+msgstr ""
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1099
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1122
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1173
+msgctxt "[Admin panel] Setting name"
+msgid "Review date"
+msgstr ""
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1004
+msgctxt "[Admin panel] Setting description"
+msgid "Set the review author as \"Verified buyer\"."
+msgstr ""
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1001
+msgctxt "[Admin panel] Setting name"
+msgid "Set as \"Verified buyer\""
+msgstr ""
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:950
+msgctxt "[Admin panel] Setting name"
+msgid "User country"
+msgstr ""
+
+#. translators: %s upvotes count
+#: includes/frontend/class-yith-ywar-frontend.php:1254
+#: includes/functions-yith-ywar-frontend.php:234
+msgctxt "[Frontend] Review helpful text"
+msgid "%s person found this helpful"
+msgid_plural "%s people found this helpful"
+msgstr[0] "%s personne a trouvé cela utile"
+msgstr[1] "%s personnes ont trouvé cela utile"
+
+#. translators: %s user email
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:338
+msgctxt "[Admin panel] Bulk action error message"
+msgid "User %s is already in the blocklist"
+msgstr "L'utilisateur %s est déjà dans la liste de blocage"
+
+#. translators: %1$s BR tag, %2$s opening link, %3$s closing link
+#: includes/emails/class-yith-ywar-email.php:388
+msgctxt "[Admin panel] email style description"
+msgid "This email will use the default style of WooCommerce emails.%1$sYou can customize the colors in %2$sWooCommerce > Settings > Emails%3$s."
+msgstr "Cet e-mail utilisera le style par défaut des e-mails WooCommerce.%1$sVous pouvez personnaliser les couleurs dans %2$sWooCommerce > Paramètres > E-mails%3$s."
+
+#. translators: %1$s plugin name, %2$s BR tag, %3$s opening link, %4$s closing link
+#: includes/emails/class-yith-ywar-email.php:385
+msgctxt "[Admin panel] email style description"
+msgid "This email will use the style set in %1$s.%2$sYou can customize the style on %3$sthis page%4$s."
+msgstr "Cet e-mail utilisera le style défini dans %1$s.%2$sVous pouvez personnaliser le style sur %3$scette page%4$s."
+
+#. translators: %1$s plugin name, %2$s opening link tag %3$s closing link tag
+#: includes/admin/class-yith-ywar-admin.php:166
+msgctxt "[Admin panel] Notice displayed in the plugin pages"
+msgid "%1$s is converting the reviews. The data may not be consistent until the process is completed. You can check the update process on %2$sthis page%3$s."
+msgstr "%1$s convertit les avis. Les données peuvent ne pas être cohérentes tant que le processus n'est pas terminé. Vous pouvez vérifier le processus de mise à jour sur %2$scette page%3$s."
+
+#: views/settings-tabs/reports/lists/last-reviews.php:40
+msgctxt "[Admin panel] view all reviews link text"
+msgid "View all reviews"
+msgstr "Voir tous les avis"
+
+#: views/settings-tabs/reports/lists/last-reported.php:38
+msgctxt "[Admin panel] view all reported review link text"
+msgid "View all reported reviews"
+msgstr "Voir tous les rapports d'évaluation"
+
+#. translators: %s product name and link
+#: views/settings-tabs/reports/lists/last-reported.php:33
+msgctxt "[Admin panel] reported review product. Example \"on My Product\""
+msgid "on %s"
+msgstr "sur %s"
+
+#: views/settings-tabs/html-module.php:38
+msgctxt "[Admin panel] Switch label"
+msgid "Enable module"
+msgstr "Activer le module"
+
+#: views/settings-tabs/html-emails.php:43
+msgctxt "[Admin panel] Email receiver label"
+msgid "Admin"
+msgstr "Administrateur"
+
+#: views/settings-tabs/html-emails.php:43
+msgctxt "[Admin panel] Email receiver label"
+msgid "To review author"
+msgstr "Pour revoir l'auteur"
+
+#: views/settings-tabs/html-emails.php:43
+msgctxt "[Admin panel] Email receiver label"
+msgid "Customer"
+msgstr "Client"
+
+#: views/settings-tabs/html-emails.php:21
+msgctxt "[Admin panel] Email settings tab name"
+msgid "Configuration"
+msgstr "Configuration"
+
+#: views/settings-tabs/html-emails.php:20
+msgctxt "[Admin panel] Email settings tab name"
+msgid "Content"
+msgstr "Contenu"
+
+#: views/settings-tabs/html-emails.php:19
+msgctxt "[Admin panel] Email settings tab name"
+msgid "Layout"
+msgstr "Mise en page"
+
+#: views/settings-tabs/html-emails.php:13
+msgctxt "[Admin panel] Column name - Event that triggers the email"
+msgid "Receiver"
+msgstr "Récepteur"
+
+#: views/privacy/content-has-access.php:16
+msgctxt "[Admin panel] text for privacy policy"
+msgid "the list of all email addresses that do not wish to receive review reminders"
+msgstr "la liste de toutes les adresses électroniques qui ne souhaitent pas recevoir de rappels d'avis"
+
+#: views/privacy/content-has-access.php:15
+msgctxt "[Admin panel] text for privacy policy"
+msgid "the list of scheduled emails"
+msgstr "la liste des courriels programmés"
+
+#: views/privacy/content-has-access.php:10
+msgctxt "[Admin panel] text for privacy policy"
+msgid "Members of our team have access to the information you provide to us. For example, both Administrators and Shop Managers can access to:"
+msgstr "Les membres de notre équipe ont accès aux informations que vous nous fournissez. Par exemple, les administrateurs et les chefs d'atelier peuvent accéder à :"
+
+#: views/privacy/content-collect-and-store.php:20
+msgctxt "[Admin panel] text for privacy policy"
+msgid "If you decline, the email address provided during checkout, and your ID (if you are registered on the site), will be added to a special table in the database to prevent you from receiving any reminders."
+msgstr "Si vous refusez, l'adresse électronique fournie lors de la commande et votre identifiant (si vous êtes inscrit sur le site) seront ajoutés à un tableau spécial dans la base de données afin que vous ne receviez pas de rappels."
+
+#: views/privacy/content-collect-and-store.php:19
+msgctxt "[Admin panel] text for privacy policy"
+msgid "If you agree, an email will be scheduled and sent in the following days after the order is completed."
+msgstr "Si vous êtes d'accord, un courriel sera programmé et envoyé dans les jours qui suivent la fin de la commande."
+
+#: views/privacy/content-collect-and-store.php:18
+msgctxt "[Admin panel] text for privacy policy"
+msgid "During checkout, you can choose to receive a reminder to review the product(s) you've purchased."
+msgstr "Lors du paiement, vous pouvez choisir de recevoir un rappel pour évaluer le(s) produit(s) que vous avez acheté(s)."
+
+#: views/privacy/content-collect-and-store.php:14
+msgctxt "[Admin panel] text for privacy policy"
+msgid "we'll use them to create reviews of products"
+msgstr "nous les utiliserons pour créer des revues de produits"
+
+#: views/privacy/content-collect-and-store.php:13
+#: views/privacy/content-has-access.php:13
+msgctxt "[Admin panel] text for privacy policy"
+msgid "your IP"
+msgstr "votre IP"
+
+#: views/privacy/content-collect-and-store.php:12
+#: views/privacy/content-has-access.php:12
+msgctxt "[Admin panel] text for privacy policy"
+msgid "your email"
+msgstr "votre courriel"
+
+#: views/privacy/content-collect-and-store.php:11
+#: views/privacy/content-has-access.php:11
+msgctxt "[Admin panel] text for privacy policy"
+msgid "your name"
+msgstr "votre nom"
+
+#: views/privacy/content-collect-and-store.php:10
+msgctxt "[Admin panel] text for privacy policy"
+msgid "Information about you is collected during the process of creating a product comment or review. We will track:"
+msgstr "Les informations vous concernant sont collectées au cours du processus de création d'un avis ou d'une évaluation de produit. Nous assurerons le suivi :"
+
+#: views/panel/fields/yith-ywar-attachments.php:29
+msgctxt "[Admin panel] button label"
+msgid "Add attachment"
+msgstr "Ajouter une pièce jointe"
+
+#: views/frontend/popup/popup.php:20
+msgctxt "[Frontend] Popup action button"
+msgid "Back to all reviews"
+msgstr "Retour à tous les avis"
+
+#: views/frontend/my-account/user-reviews.php:110
+msgctxt "[Frontend] my account user review empty table"
+msgid "You do not have any reviews yet, leave a review on the products you have purchased and they will appear in this section."
+msgstr "Vous n'avez pas encore d'avis, laissez un avis sur les produits que vous avez achetés et ils apparaîtront dans cette section."
+
+#: views/frontend/my-account/user-reviews.php:99
+msgctxt "[Frontend] my account user review next link"
+msgid "Next"
+msgstr "Suivant"
+
+#: views/frontend/my-account/user-reviews.php:94
+msgctxt "[Frontend] my account user review previous link"
+msgid "Previous"
+msgstr "Précédent"
+
+#: views/frontend/my-account/user-reviews.php:84
+msgctxt "[Frontend] my account user review read link"
+msgid "Read"
+msgstr "Lire"
+
+#: views/frontend/filter-data.php:22
+msgctxt "[Frontend] Filtered reviews clear action"
+msgid "Clear filter"
+msgstr "Filtre clair"
+
+#. translators: %s number of reviews
+#: views/frontend/filter-data.php:19
+msgctxt "[Global] Rating descrption with plural forms"
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d étoile"
+msgstr[1] "%d étoiles"
+
+#: views/frontend/edit-form/edit-form.php:167
+msgctxt "[Frontend] Logout form link"
+msgid "Logout"
+msgstr "Déconnexion"
+
+#. translators: %s the current username
+#: views/frontend/edit-form/edit-form.php:165
+msgctxt "[Frontend] Logged user info"
+msgid "Logged in as %s."
+msgstr "Connecté en tant que %s."
+
+#. translators: %1$s image size, %2$s video size
+#: views/frontend/edit-form/edit-form.php:121
+msgctxt "[Frontend] Review upload field file size label"
+msgid "Maximum file size: %1$sMB for images and %2$sMB for videos."
+msgstr "Taille maximale du fichier : %1$sMB pour les images et %2$sMB pour les vidéos."
+
+#. translators: %s file size
+#: views/frontend/edit-form/edit-form.php:113
+#: views/frontend/edit-form/edit-form.php:117
+msgctxt "[Frontend] Review upload field file size label"
+msgid "Maximum file size: %sMB."
+msgstr "Taille maximale du fichier : %sMB."
+
+#. translators: %s list of allowed file formats
+#: views/frontend/edit-form/edit-form.php:108
+msgctxt "[Frontend] Review upload field file types label"
+msgid "Allowed file types: %s."
+msgstr "Types de fichiers autorisés : %s."
+
+#. translators: %1$s number of images, %2$s number of videos
+#: views/frontend/edit-form/edit-form.php:104
+msgctxt "[Frontend] Review upload field file label"
+msgid "You can upload a maximum of %1$s images and %2$s videos."
+msgstr "Vous pouvez télécharger un maximum de %1$s images et %2$s vidéos."
+
+#. translators: %s number of items
+#: views/frontend/edit-form/edit-form.php:100
+msgctxt "[Frontend] Review upload field file label"
+msgid "You can upload a maximum of %s videos."
+msgstr "Vous pouvez charger un maximum de %s vidéos."
+
+#. translators: %s number of items
+#: views/frontend/edit-form/edit-form.php:96
+msgctxt "[Frontend] Review upload field file label"
+msgid "You can upload a maximum of %s images."
+msgstr "Vous pouvez télécharger un maximum de %s images."
+
+#: views/frontend/edit-form/edit-form.php:90
+msgctxt "[Frontend] Review upload field label"
+msgid "Upload files"
+msgstr "Télécharger des fichiers"
+
+#: views/frontend/edit-form/edit-form.php:83
+msgctxt "[Frontend] Reply content form field"
+msgid "Your reply"
+msgstr "Votre réponse"
+
+#: views/frontend/edit-form/edit-form.php:83
+msgctxt "[Frontend] Review content form field"
+msgid "Your review"
+msgstr "Votre avis"
+
+#: views/frontend/edit-form/edit-form.php:76
+msgctxt "[Frontend] Reply title form field"
+msgid "Reply title"
+msgstr "Titre de réponse"
+
+#: views/frontend/edit-form/edit-form.php:76
+msgctxt "[Frontend] Review title form field"
+msgid "Review title"
+msgstr "Titre de l'avis"
+
+#: views/frontend/edit-form/edit-form.php:68
+msgctxt "[Frontend] User email form field"
+msgid "Your Email"
+msgstr "Votre courriel"
+
+#: views/frontend/edit-form/edit-form.php:64
+msgctxt "[Frontend] User name form field"
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: plugin-options/review-for-discounts-options.php:22
+msgctxt "[Admin panel] Section description"
+msgid "Create and manage coupons to reward users for their reviews."
+msgstr "Créez et gérez des coupons pour récompenser les utilisateurs pour leurs avis."
+
+#: plugin-options/review-for-discounts-options.php:17
+msgctxt "[Admin panel] Section description"
+msgid "Set the standard behavior of the \"Review for discounts\" module."
+msgstr "Définit le comportement standard du module \"Examiner pour obtenir des remises\"."
+
+#: plugin-options/review-boxes-options.php:26
+msgctxt "[Admin panel] Section description"
+msgid "Specify the criteria to be used in the reviews when the multi-criteria feature is enabled."
+msgstr "Spécifiez les critères à utiliser dans les avis lorsque la fonction multi-critères est activée."
+
+#: plugin-options/review-boxes-options.php:25
+msgctxt "[Admin panel] Section name"
+msgid "Review criteria"
+msgstr "Critères d'avis"
+
+#. translators: %1$s: open link tag - %2$s: close link tag
+#: plugin-options/review-boxes-options.php:12
+msgctxt "[Admin panel] Plugin options section description"
+msgid "Please note: review boxes shown in products have a higher priority by default. %1$sRead the documentation to better understand how review boxes work >%2$s"
+msgstr "Veuillez noter que les boîtes d'avis affichées dans les produits ont une priorité plus élevée par défaut. %1$sLisez la documentation pour mieux comprendre le fonctionnement des boîtes d'avis >%2$s"
+
+#: plugin-options/review-boxes-options.php:10
+msgctxt "[Admin panel] Plugin options section description"
+msgid "Create advanced review boxes and choose which products to display them in."
+msgstr "Créez des boîtes d'avis avancées et choisissez les produits dans lesquels les afficher."
+
+#: plugin-options/request-review-options.php:27
+msgctxt "[Admin panel] Section description"
+msgid "Manage users who do not wish to receive review reminders."
+msgstr "Gérez les utilisateurs qui ne souhaitent pas recevoir de rappels d'avis."
+
+#: plugin-options/request-review-options.php:22
+msgctxt "[Admin panel] Section description"
+msgid "Track and manage review reminder emails."
+msgstr "Suivez et gérez les courriels de rappel d'avis."
+
+#: plugin-options/request-review-options.php:17
+msgctxt "[Admin panel] Section description"
+msgid "Set the standard behavior of the \"Review reminder\" module."
+msgstr "Définir le comportement standard du module \"Rappel d'avis\"."
+
+#: plugin-options/general/user-options.php:158
+msgctxt "[Admin panel] Setting name"
+msgid "Max. number of videos"
+msgstr "Max. nombre de vidéos"
+
+#: plugin-options/general/user-options.php:153
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, users will be able to attach videos to their reviews."
+msgstr "Si cette option est activée, les utilisateurs pourront joindre des vidéos à leurs avis."
+
+#: plugin-options/general/user-options.php:150
+msgctxt "[Admin panel] Setting name"
+msgid "Allow video uploads"
+msgstr "Autoriser le téléchargement de vidéos"
+
+#: plugin-options/general/user-options.php:146
+msgctxt "[Admin panel] Options section title"
+msgid "Video attachments"
+msgstr "Pièces jointes vidéo"
+
+#: plugin-options/general/user-options.php:129
+#: plugin-options/general/user-options.php:194
+msgctxt "[Admin panel] Setting name"
+msgid "Upload size limit (MB)"
+msgstr "Limite de la taille du téléchargement (MB)"
+
+#: plugin-options/general/user-options.php:108
+#: plugin-options/general/user-options.php:172
+msgctxt "[Admin panel] Setting description"
+msgid "Set the supported file formats."
+msgstr "Définissez les formats de fichiers pris en charge."
+
+#: plugin-options/general/user-options.php:107
+#: plugin-options/general/user-options.php:171
+msgctxt "[Admin panel] Setting name"
+msgid "Supported file formats"
+msgstr "Formats de fichiers pris en charge"
+
+#: plugin-options/general/user-options.php:94
+msgctxt "[Admin panel] Setting name"
+msgid "Max. number of images"
+msgstr "Max. nombre d'images"
+
+#: plugin-options/general/user-options.php:89
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, users will be able to attach images to their reviews."
+msgstr "Si cette option est activée, les utilisateurs pourront joindre des images à leurs avis."
+
+#: plugin-options/general/user-options.php:86
+msgctxt "[Admin panel] Setting name"
+msgid "Allow image uploads"
+msgstr "Autoriser le téléchargement d'images"
+
+#: plugin-options/general/user-options.php:82
+msgctxt "[Admin panel] Options section title"
+msgid "Image attachments"
+msgstr "Pièces jointes à l'image"
+
+#: plugin-options/general/user-options.php:67
+msgctxt "[Admin panel] Setting description"
+msgid "report(s)"
+msgstr "rapport(s)"
+
+#: plugin-options/general/user-options.php:64
+msgctxt "[Admin panel] Setting name"
+msgid "Hide a review automatically after"
+msgstr "Masquer automatiquement un avis après"
+
+#: plugin-options/general/user-options.php:55
+msgctxt "[Admin panel] Option name"
+msgid "Only logged users"
+msgstr "Uniquement les utilisateurs connectés"
+
+#: plugin-options/general/user-options.php:54
+msgctxt "[Admin panel] Option name"
+msgid "All users"
+msgstr "Tous les utilisateurs"
+
+#: plugin-options/general/user-options.php:51
+msgctxt "[Admin panel] Setting description"
+msgid "Choose who can flag a review as inappropriate."
+msgstr "Choisissez qui peut signaler un avis comme inapproprié."
+
+#: plugin-options/general/user-options.php:48
+msgctxt "[Admin panel] Setting name"
+msgid "Users that can report reviews"
+msgstr "Utilisateurs pouvant signaler des avis"
+
+#: plugin-options/general/user-options.php:36
+msgctxt "[Admin panel] Setting description"
+msgid "vote(s)"
+msgstr "vote(s)"
+
+#: plugin-options/general/user-options.php:33
+msgctxt "[Admin panel] Setting name"
+msgid "Highlight a review as helpful after"
+msgstr "Mettez en évidence un avis comme étant utile après"
+
+#: plugin-options/general/user-options.php:28
+msgctxt "[Admin panel] Option name"
+msgid "Report reviews as inappropriate"
+msgstr "Signaler les avis comme inappropriés"
+
+#: plugin-options/general/user-options.php:27
+msgctxt "[Admin panel] Option name"
+msgid "Vote reviews as helpful"
+msgstr "Votez les avis comme étant utiles"
+
+#: plugin-options/general/user-options.php:26
+msgctxt "[Admin panel] Option name"
+msgid "Reply to reviews"
+msgstr "Répondre aux avis"
+
+#: plugin-options/general/user-options.php:25
+msgctxt "[Admin panel] Option name"
+msgid "Delete their reviews"
+msgstr "Supprimez leurs avis"
+
+#: plugin-options/general/user-options.php:24
+msgctxt "[Admin panel] Option name"
+msgid "Edit their reviews"
+msgstr "Modifiez leurs avis"
+
+#: plugin-options/general/user-options.php:23
+msgctxt "[Admin panel] Option name"
+msgid "Write a title for their reviews"
+msgstr "Rédigez un titre pour leurs avis"
+
+#: plugin-options/general/user-options.php:22
+msgctxt "[Admin panel] Option name"
+msgid "Publish multiple reviews for the same product"
+msgstr "Publier plusieurs avis pour le même produit"
+
+#: plugin-options/general/user-options.php:19
+msgctxt "[Admin panel] Setting name"
+msgid "Users can"
+msgstr "Les utilisateurs peuvent"
+
+#: plugin-options/general/user-options.php:13
+msgctxt "[Admin panel] Options section title"
+msgid "General permissions"
+msgstr "Autorisations générales"
+
+#: plugin-options/general/style-options.php:325
+msgctxt "[Admin panel] Option name"
+msgid "Review border"
+msgstr "Bordure de l'avis"
+
+#: plugin-options/general/style-options.php:304
+msgctxt "[Admin panel] Setting name"
+msgid "Featured review badge"
+msgstr "Badge d'évaluation en vedette"
+
+#: plugin-options/general/style-options.php:283
+#: plugin-options/general/style-options.php:310
+msgctxt "[Admin panel] Option name"
+msgid "Label"
+msgstr "Étiquette"
+
+#: plugin-options/general/style-options.php:277
+msgctxt "[Admin panel] Setting name"
+msgid "Staff badge"
+msgstr "Badge du personnel"
+
+#: plugin-options/general/style-options.php:272
+msgctxt "[Admin panel] Setting description"
+msgid "Enable this option to show a badge for the shop admin's replies."
+msgstr "Activez cette option pour afficher un badge pour les réponses de l'administrateur de la boutique."
+
+#: plugin-options/general/style-options.php:269
+msgctxt "[Admin panel] Setting name"
+msgid "Show staff badge on admin replies"
+msgstr "Afficher le badge du personnel sur les réponses de l'administrateur"
+
+#: plugin-options/general/style-options.php:265
+msgctxt "[Admin panel] Options section title"
+msgid "Badges"
+msgstr "Badges"
+
+#: plugin-options/general/style-options.php:233
+msgctxt "[Admin panel] Setting name"
+msgid "Submit button"
+msgstr "Bouton de soumission"
+
+#: plugin-options/general/style-options.php:226
+#: plugin-options/general/style-options.php:330
+msgctxt "[Admin panel] Option name"
+msgid "Shadow"
+msgstr "Ombre"
+
+#: plugin-options/general/style-options.php:221
+msgctxt "[Admin panel] Option name"
+msgid "Border"
+msgstr "Frontière"
+
+#: plugin-options/general/style-options.php:215
+msgctxt "[Admin panel] Setting name"
+msgid "Review box"
+msgstr "Boîte d'avis"
+
+#: plugin-options/general/style-options.php:208
+msgctxt "[Admin panel] Option name"
+msgid "Icon rated"
+msgstr "L'icône a été évaluée"
+
+#: plugin-options/general/style-options.php:203
+msgctxt "[Admin panel] Option name"
+msgid "Icon"
+msgstr "Icône"
+
+#: plugin-options/general/style-options.php:198
+msgctxt "[Admin panel] Option name"
+msgid "Background rated"
+msgstr "Contexte évalué"
+
+#: plugin-options/general/style-options.php:187
+msgctxt "[Admin panel] Setting name"
+msgid "Like section"
+msgstr "Comme la section"
+
+#: plugin-options/general/style-options.php:147
+msgctxt "[Admin panel] Setting name"
+msgid "Stars"
+msgstr "Étoiles"
+
+#: plugin-options/general/style-options.php:140
+msgctxt "[Admin panel] Refers to the % value of the frontend graph bars"
+msgid "% Value"
+msgstr "% de la valeur"
+
+#: plugin-options/general/style-options.php:130
+#: plugin-options/general/style-options.php:153
+msgctxt "[Admin panel] Option name"
+msgid "Default"
+msgstr "Défaut"
+
+#: plugin-options/general/style-options.php:124
+msgctxt "[Admin panel] Setting name"
+msgid "Graph"
+msgstr "Graphique"
+
+#: plugin-options/general/style-options.php:111
+msgctxt "[Admin panel] Setting name"
+msgid "Average rating & Graph boxes"
+msgstr "Note moyenne et cases du graphique"
+
+#: plugin-options/general/style-options.php:104
+msgctxt "[Admin panel] Option name"
+msgid "Hover icons"
+msgstr "Icônes de survol"
+
+#: plugin-options/general/style-options.php:99
+#: plugin-options/general/style-options.php:135
+#: plugin-options/general/style-options.php:158
+msgctxt "[Admin panel] Option name"
+msgid "Accent"
+msgstr "Accent"
+
+#: plugin-options/general/style-options.php:93
+msgctxt "[Admin panel] Setting name"
+msgid "General"
+msgstr "Général"
+
+#: plugin-options/general/style-options.php:89
+msgctxt "[Admin panel] Options section title"
+msgid "Colors"
+msgstr "Couleurs"
+
+#: plugin-options/general/style-options.php:69
+msgctxt "[Admin panel] Option name"
+msgid "Below review"
+msgstr "En dessous de l'avis"
+
+#: plugin-options/general/style-options.php:68
+msgctxt "[Admin panel] Option name"
+msgid "Above review"
+msgstr "Revue ci-dessus"
+
+#: plugin-options/general/style-options.php:65
+msgctxt "[Admin panel] Setting description"
+msgid "Set the position of the user's avatar and name within the review box."
+msgstr "Définir la position de l'avatar et du nom de l'utilisateur dans la boîte d'avis."
+
+#: plugin-options/general/style-options.php:62
+msgctxt "[Admin panel] Setting name"
+msgid "Avatar and name position"
+msgstr "Position de l'avatar et du nom"
+
+#: plugin-options/general/style-options.php:57
+msgctxt "[Admin panel] Setting description"
+msgid "Enable this option to display the reviews, filtered by rating, in a modal window."
+msgstr "Activez cette option pour afficher les avis, filtrés par note, dans une fenêtre modale."
+
+#: plugin-options/general/style-options.php:54
+msgctxt "[Admin panel] Setting name"
+msgid "Show filtered reviews on modal window"
+msgstr "Afficher les avis filtrés dans une fenêtre modale"
+
+#: plugin-options/general/style-options.php:49
+msgctxt "[Admin panel] Setting description"
+msgid "Enable to show the % value for each rating in graph bars."
+msgstr "Activez l'affichage de la valeur en % pour chaque note dans les barres du graphique."
+
+#: plugin-options/general/style-options.php:46
+msgctxt "[Admin panel] Setting name"
+msgid "Show % value on graph bars"
+msgstr "Afficher la valeur en % sur les barres du graphique"
+
+#: plugin-options/general/style-options.php:42
+msgctxt "[Admin panel] Options section title"
+msgid "Layout options"
+msgstr "Options de mise en page"
+
+#: plugin-options/general/style-options.php:11
+msgctxt "[Admin panel] Setting name"
+msgid "Load more button colors"
+msgstr "Chargez d'autres couleurs de boutons"
+
+#: plugin-options/general/general-options.php:226
+msgctxt "[Admin panel] Setting name"
+msgid "Mandrill API Key"
+msgstr "Clé API Mandrill"
+
+#: plugin-options/general/general-options.php:219
+msgctxt "[Admin panel] Setting name"
+msgid "Use Mandrill for email delivery"
+msgstr "Utilisez Mandrill pour l'envoi d'e-mails"
+
+#: plugin-options/general/general-options.php:215
+msgctxt "[Admin panel] Options section title"
+msgid "Mandrill integration"
+msgstr "Intégration de Mandrill"
+
+#: plugin-options/general/general-options.php:199
+msgctxt "[Admin panel] Setting description"
+msgid "Set how many reviews to show."
+msgstr "Définissez le nombre d'avis à afficher."
+
+#: plugin-options/general/general-options.php:199
+msgctxt "[Admin panel] additional descrption of the reviews pagination field"
+msgid "for page"
+msgstr "pour la page"
+
+#: plugin-options/general/general-options.php:191
+msgctxt "[Admin panel] additional note description field"
+msgid "a large number of reviews can affect the loading time of the product page."
+msgstr "un grand nombre d'avis peut affecter le temps de chargement de la page du produit."
+
+#: plugin-options/general/general-options.php:191
+msgctxt "[Admin panel] additional note description field"
+msgid "Note"
+msgstr "Note"
+
+#: plugin-options/general/general-options.php:191
+msgctxt "[Admin panel] Setting description"
+msgid "Disable to show all the reviews without pagination."
+msgstr "Désactivez cette option pour afficher tous les avis sans pagination."
+
+#: plugin-options/general/general-options.php:188
+msgctxt "[Admin panel] Setting name"
+msgid "Show pagination of reviews"
+msgstr "Afficher la pagination des avis"
+
+#: plugin-options/general/general-options.php:184
+#: plugin-options/general/general-options.php:196
+msgctxt "[Admin panel] Setting name"
+msgid "Reviews pagination"
+msgstr "Pagination des avis"
+
+#: plugin-options/general/general-options.php:172
+msgctxt "[Admin panel] Setting description"
+msgid "Enable to exclude images or videos uploaded in review replies from the attachment gallery."
+msgstr "Permet d'exclure de la galerie de pièces jointes les images ou les vidéos téléchargées dans les réponses aux avis."
+
+#: plugin-options/general/general-options.php:169
+msgctxt "[Admin panel] Setting name"
+msgid "Hide attachments of review replies from the gallery"
+msgstr "Masquer les pièces jointes des réponses aux avis dans la galerie"
+
+#: plugin-options/general/general-options.php:164
+msgctxt "[Admin panel] Setting description"
+msgid "Enable this option to display a gallery of all review attachments above the review list."
+msgstr "Activez cette option pour afficher une galerie de toutes les pièces jointes aux avis au-dessus de la liste des avis."
+
+#: plugin-options/general/general-options.php:161
+msgctxt "[Admin panel] Setting name"
+msgid "Display a gallery to highlight all review attachments"
+msgstr "Affichez une galerie pour mettre en évidence toutes les pièces jointes aux avis"
+
+#: plugin-options/general/general-options.php:157
+msgctxt "[Admin panel] Options section title"
+msgid "Review attachments gallery"
+msgstr "Examiner la galerie des pièces jointes"
+
+#: plugin-options/general/general-options.php:143
+msgctxt "[Admin panel] Setting description"
+msgid "Enter your reCAPTCHA secret key."
+msgstr "Saisissez votre clé secrète reCAPTCHA."
+
+#: plugin-options/general/general-options.php:140
+msgctxt "[Admin panel] Setting name"
+msgid "reCAPTCHA secret key"
+msgstr "Clé secrète reCAPTCHA"
+
+#: plugin-options/general/general-options.php:129
+msgctxt "[Admin panel] Setting description"
+msgid "Enter your reCAPTCHA site key."
+msgstr "Saisissez votre clé de site reCAPTCHA."
+
+#: plugin-options/general/general-options.php:126
+msgctxt "[Admin panel] Setting name"
+msgid "reCAPTCHA site key"
+msgstr "Clé du site reCAPTCHA"
+
+#: plugin-options/general/general-options.php:106
+msgctxt "[Admin panel] Setting description"
+msgid "Set the reCAPTCHA version you want to use and make sure your keys below match the version set."
+msgstr "Définissez la version de reCAPTCHA que vous souhaitez utiliser et assurez-vous que les clés ci-dessous correspondent à la version définie."
+
+#: plugin-options/general/general-options.php:105
+msgctxt "[Admin panel] Setting name"
+msgid "reCAPTCHA version"
+msgstr "Version de reCAPTCHA"
+
+#: plugin-options/general/general-options.php:98
+msgctxt "[Admin panel] Setting description"
+msgid "Enable Google reCAPTCHA to avoid spam reviews."
+msgstr "Activez Google reCAPTCHA pour éviter les avis indésirables."
+
+#: plugin-options/general/general-options.php:95
+msgctxt "[Admin panel] Setting name"
+msgid "Enable Google reCAPTCHA"
+msgstr "Activer Google reCAPTCHA"
+
+#: plugin-options/general/general-options.php:91
+msgctxt "[Admin panel] Options section title"
+msgid "reCAPTCHA options"
+msgstr "Options reCAPTCHA"
+
+#: plugin-options/general/general-options.php:83
+msgctxt "[Admin panel] Setting description"
+msgid "Enter a custom message to be displayed when reviews are empty."
+msgstr "Saisissez un message personnalisé à afficher lorsque les revues sont vides."
+
+#: plugin-options/general/general-options.php:80
+msgctxt "[Admin panel] Setting name"
+msgid "Notice to show in products without reviews"
+msgstr "Avis d'affichage dans les produits sans avis"
+
+#: plugin-options/general/general-options.php:75
+msgctxt "[Admin panel] Setting description"
+msgid "Enable this option to display a tooltip with graph bars when hovering over the product name in reviews."
+msgstr "Activez cette option pour afficher une infobulle avec des barres graphiques lorsque vous survolez le nom du produit dans les avis."
+
+#: plugin-options/general/general-options.php:72
+msgctxt "[Admin panel] Setting name"
+msgid "Show tooltip with graph bars"
+msgstr "Afficher une infobulle avec les barres du graphique"
+
+#: plugin-options/general/general-options.php:63
+msgctxt "[Admin panel] Option name"
+msgid "Only first and last letter"
+msgstr "Uniquement la première et la dernière lettre"
+
+#: plugin-options/general/general-options.php:62
+msgctxt "[Admin panel] Option name"
+msgid "Full username"
+msgstr "Nom d'utilisateur complet"
+
+#: plugin-options/general/general-options.php:58
+msgctxt "[Admin panel] Setting description"
+msgid "Choose whether to show or hide the full user name."
+msgstr "Choisissez d'afficher ou de masquer le nom complet de l'utilisateur."
+
+#: plugin-options/general/general-options.php:57
+msgctxt "[Admin panel] Setting name"
+msgid "In review show"
+msgstr "En revue l'émission"
+
+#: plugin-options/general/general-options.php:30
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, guest users can also leave reviews."
+msgstr "Si cette option est activée, les utilisateurs invités peuvent également laisser des avis."
+
+#: plugin-options/general/general-options.php:27
+msgctxt "[Admin panel] Setting name"
+msgid "Allow anonymous reviews"
+msgstr "Autoriser les évaluations anonymes"
+
+#: plugin-options/general/general-options.php:22
+msgctxt "[Admin panel] Setting description"
+msgid "If enabled, reviews are automatically approved with no moderation."
+msgstr "Si cette option est activée, les avis sont automatiquement approuvés sans modération."
+
+#: plugin-options/general/general-options.php:19
+msgctxt "[Admin panel] Setting name"
+msgid "Auto-approve reviews"
+msgstr "Auto-approbation des avis"
+
+#: plugin-options/general/general-options.php:15
+msgctxt "[Admin panel] Options section title"
+msgid "Review options"
+msgstr "Examiner les options"
+
+#: plugin-options/general/general-options.php:10
+msgctxt "[Admin panel] Setting description"
+msgid "How to obtain this key."
+msgstr "Comment obtenir cette clé."
+
+#: plugin-options/general-options.php:25
+msgctxt "[Admin panel] Section description"
+msgid "Customize the display of review boxes on your site."
+msgstr "Personnalisez l'affichage des boîtes d'avis sur votre site."
+
+#: plugin-options/general-options.php:24
+msgctxt "[Admin panel] Section name"
+msgid "Style and customization"
+msgstr "Style et personnalisation"
+
+#: plugin-options/general-options.php:21
+msgctxt "[Admin panel] Section description"
+msgid "Set user permissions for publishing reviews."
+msgstr "Définissez les autorisations des utilisateurs pour la publication des avis."
+
+#: plugin-options/general-options.php:20
+msgctxt "[Admin panel] Section name"
+msgid "User permission"
+msgstr "Autorisation de l'utilisateur"
+
+#: plugin-options/general-options.php:17
+msgctxt "[Admin panel] Section description"
+msgid "Set the general options related to how reviews work in your shop."
+msgstr "Définissez les options générales relatives au fonctionnement des évaluations dans votre boutique."
+
+#: plugin-options/general-options.php:16
+#: plugin-options/request-review-options.php:16
+#: plugin-options/review-for-discounts-options.php:16
+msgctxt "[Admin panel] Section name"
+msgid "General options"
+msgstr "Options générales"
+
+#: plugin-options/dashboard-options.php:21
+msgctxt "[Admin panel] Section description"
+msgid "Check and manage all reviews created in your shop."
+msgstr "Vérifiez et gérez tous les avis créés dans votre boutique."
+
+#: plugin-options/dashboard-options.php:20
+msgctxt "[Admin panel] Plugin options section name"
+msgid "All reviews"
+msgstr "Tous les avis"
+
+#: plugin-options/dashboard-options.php:17
+msgctxt "[Admin panel] Plugin options section description"
+msgid "A quick look at your store reviews."
+msgstr "Jetez un coup d'œil rapide aux avis de votre magasin."
+
+#: plugin-options/dashboard-options.php:16
+msgctxt "[Admin panel] Section name"
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: modules/review-for-discounts/options/review-for-discounts-settings.php:23
+msgctxt "[Admin panel] Option name"
+msgid "After review approval"
+msgstr "Après approbation de l'avis"
+
+#: modules/review-for-discounts/options/review-for-discounts-settings.php:22
+msgctxt "[Admin panel] Option name"
+msgid "After review creation"
+msgstr "Après la création de l'avis"
+
+#: modules/review-for-discounts/options/review-for-discounts-settings.php:20
+msgctxt "[Admin panel] Setting description"
+msgid "Choose when to send the coupon email to reward the user who left the review."
+msgstr "Choisissez le moment d'envoi de l'e-mail du coupon pour récompenser l'utilisateur qui a laissé l'avis."
+
+#: modules/review-for-discounts/options/review-for-discounts-settings.php:17
+msgctxt "[Admin panel] Setting name"
+msgid "Send coupon"
+msgstr "Envoyer le coupon"
+
+#: modules/review-for-discounts/options/review-for-discounts-settings.php:13
+msgctxt "[Admin panel] Options section title"
+msgid "Coupon delivery"
+msgstr "Livraison de coupons"
+
+#: modules/review-for-discounts/includes/functions.php:307
+msgctxt "[Admin panel] Funds note description"
+msgid "Review of multiple products."
+msgstr "Avis sur plusieurs produits."
+
+#: modules/review-for-discounts/includes/functions.php:307
+msgctxt "[Admin panel] Funds note description"
+msgid "Review of a product."
+msgstr "Avis pour un produit."
+
+#. translators: %1$s coupon amount - %2$s amount suffix
+#: modules/review-for-discounts/includes/functions.php:270
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Coupon amount: %1$s%2$s off%3$s"
+msgstr "Montant du coupon : %1$s%2$s de réduction%3$s"
+
+#: modules/review-for-discounts/includes/functions.php:268
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Free shipping"
+msgstr "Livraison gratuite"
+
+#: modules/review-for-discounts/includes/functions.php:261
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Your coupon"
+msgstr "Votre coupon"
+
+#. translators: %s categories list
+#: modules/review-for-discounts/includes/functions.php:254
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Expiration date: %s."
+msgstr "Date d'expiration : %s."
+
+#: modules/review-for-discounts/includes/functions.php:249
+msgctxt "[Admin panel] Part of coupon description"
+msgid "This coupon will not be applied to items on sale"
+msgstr "Ce coupon ne s'applique pas aux articles en promotion"
+
+#: modules/review-for-discounts/includes/functions.php:245
+msgctxt "[Admin panel] Part of coupon description"
+msgid "This coupon cannot be used with other coupons."
+msgstr "Ce coupon n'est pas cumulable avec d'autres coupons."
+
+#. translators: %s products list
+#: modules/review-for-discounts/includes/functions.php:240
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Not valid for the purchase of products in the following categories: %s."
+msgstr "Non valable pour l'achat de produits dans les catégories suivantes : %s."
+
+#. translators: %s products list
+#: modules/review-for-discounts/includes/functions.php:235
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Not valid for the purchase of the following products: %s."
+msgstr "Non valable pour l'achat des produits suivants : %s."
+
+#. translators: %s products list
+#: modules/review-for-discounts/includes/functions.php:220
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Valid for the purchase of products in the following categories: %s."
+msgstr "Valable pour l'achat de produits dans les catégories suivantes : %s."
+
+#. translators: %s products list
+#: modules/review-for-discounts/includes/functions.php:215
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Valid for the purchase of the following products: %s."
+msgstr "Valable pour l'achat des produits suivants : %s."
+
+#. translators: %1$s minimum amount - %2$s maximum amount
+#: modules/review-for-discounts/includes/functions.php:209
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Valid for a minimum purchase of %1$s and a maximum of %2$s."
+msgstr "Valable pour un achat minimum de %1$s et maximum de %2$s."
+
+#. translators: %s maximum amount
+#: modules/review-for-discounts/includes/functions.php:206
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Valid for a maximum purchase of %s."
+msgstr "Valable pour un achat maximum de %s."
+
+#. translators: %s minimum amount
+#: modules/review-for-discounts/includes/functions.php:203
+msgctxt "[Admin panel] Part of coupon description"
+msgid "Valid for a minimum purchase of %s."
+msgstr "Valable pour un achat minimum de %s."
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-target-review-email.php:60
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"You are {remaining_reviews} reviews away from getting a reward from us!\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"Il ne vous reste que {remaining_reviews} avis à déposer pour recevoir un cadeau de notre part!\n"
+"A bientôt,\n"
+"Équipe {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-target-review-email.php:59
+msgctxt "[Admin panel] Email heading/subject"
+msgid "You are about to reach an important goal!"
+msgstr "Vous êtes sur le point d'atteindre un objectif important !"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-target-review-email.php:58
+msgctxt "[Admin panel] Email heading/subject"
+msgid "You are about to reach an important goal on {site_title}"
+msgstr "Vous êtes sur le point d'atteindre un objectif important sur  {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-target-review-email.php:57
+msgctxt "[Admin panel] Email title"
+msgid "Target to achieve"
+msgstr "Objectif à atteindre"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-target-review-email.php:56
+msgctxt "[Admin panel] Email description"
+msgid "Sent when the customer is about to reach the \"Multiple review\" threshold"
+msgstr "Envoyé lorsque le client est sur le point d'atteindre le seuil \"Plusieurs avis\""
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-single-review-email.php:61
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"Thanks for reviewing the {product_name}!\n"
+"To celebrate, we would like to offer you this coupon as a small gift:\n"
+"\n"
+"{coupon_description}\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"Merci d'avoir partagé votre avis sur {product_name}!\n"
+"Pour l'occasion, nous souhaitons vous offrir ce coupon de réduction afin de vous remercier:\n"
+"\n"
+"{coupon_description}\n"
+"\n"
+"À bientôt,\n"
+"Équipe {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-single-review-email.php:59
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A coupon to thank you for your review!"
+msgstr "Un coupon pour vous remercier de votre avis !"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-single-review-email.php:58
+msgctxt "[Admin panel] Email title"
+msgid "Reward for a single review"
+msgstr "Récompense pour un seul avis"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-single-review-email.php:57
+msgctxt "[Admin panel] Email description"
+msgid "Coupon sent for a single review"
+msgstr "Coupon envoyé pour une seule évaluation"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-multiple-review-email.php:61
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"Counting your latest review, you have written a total of {total_reviews} reviews!\n"
+"To celebrate, we would like to offer you this coupon as a small gift:\n"
+"\n"
+"{coupon_description}\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"En comptant votre dernier avis, vous avez écrit un total de {total_reviews} avis !\n"
+"Pour célébrer cela, nous souhaitons vous offrir ce coupon en guise de petit cadeau :\n"
+"\n"
+"{coupon_description}\n"
+"\n"
+"À bientôt sur notre boutique,\n"
+"L'équipe {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-multiple-review-email.php:60
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-single-review-email.php:60
+msgctxt "[Admin panel] Email heading/subject"
+msgid "You have received a coupon from {site_title}"
+msgstr "Vous avez reçu un coupon de  {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-multiple-review-email.php:59
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A coupon to thank you for your reviews!"
+msgstr "Un coupon pour vous remercier de vos avis !"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-multiple-review-email.php:58
+msgctxt "[Admin panel] Email title"
+msgid "Reward for multiple reviews"
+msgstr "Récompense pour les évaluations multiples"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-multiple-review-email.php:57
+msgctxt "[Admin panel] Email description"
+msgid "Coupon sent when the customer reaches the \"Multiple review\" threshold"
+msgstr "Coupon envoyé lorsque le client atteint le seuil \"Plusieurs avis\""
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-single-review-email.php:61
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"Thanks for reviewing the {product_name}!\n"
+"To celebrate, we have credited {funds_amount} on your funds as a small gift.\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"Merci d'avoir donné votre avis sur {product_name} !\n"
+"Pour célébrer cela, nous avons crédité {funds_amount} sur vos fonds en guise de petit cadeau.\n"
+"\n"
+"À bientôt sur notre boutique,\n"
+"L'équipe {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-single-review-email.php:59
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A gift to thank you for your review!"
+msgstr "Un cadeau pour vous remercier de votre avis !"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-single-review-email.php:58
+msgctxt "[Admin panel] Email title"
+msgid "Funds for a single review"
+msgstr "Récompenses pour un avis"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-single-review-email.php:57
+msgctxt "[Admin panel] Email description"
+msgid "Funds gifted for a single review"
+msgstr "Récompenses octroyés pour un avis"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-multiple-review-email.php:61
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"Counting your latest review, you have written a total of {total_reviews} reviews!\n"
+"To celebrate, we have credited {funds_amount} on your funds as a small gift.\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"Avec votre dernier avis, vous avez rédigé un total de {total_reviews} avis !\n"
+"Pour célébrer cela, nous avons crédité {funds_amount} sur vos fonds en guise de petit cadeau.\n"
+"\n"
+"À bientôt sur notre boutique,\n"
+"L'équipe {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-multiple-review-email.php:60
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-single-review-email.php:60
+msgctxt "[Admin panel] Email heading/subject"
+msgid "You have received funds from {site_title}"
+msgstr "Vous avez reçu des fonds de  {site_title}"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-multiple-review-email.php:59
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A gift to thank you for your reviews!"
+msgstr "Un cadeau pour vous remercier de vos avis !"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-multiple-review-email.php:58
+msgctxt "[Admin panel] Email title"
+msgid "Funds for multiple reviews"
+msgstr "Récompense pour des avis multiples"
+
+#: modules/review-for-discounts/includes/emails/class-yith-ywar-coupon-funds-multiple-review-email.php:57
+msgctxt "[Admin panel] Email description"
+msgid "Funds gifted when the customer reaches the \"Multiple review\" threshold"
+msgstr "Récompenses versés lorsque le client atteint le seuil de \"Plusieurs avis\""
+
+#: modules/review-for-discounts/includes/data-stores/class-yith-ywar-review-for-discounts-data-store.php:145
+msgctxt "[Error log] Error message"
+msgid "Invalid discount."
+msgstr "Remise non valide."
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:199
+msgctxt "[Admin panel] Post type label"
+msgid "Search coupon"
+msgstr "Rechercher un coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:198
+msgctxt "[Admin panel] Post type label"
+msgid "View coupon"
+msgstr "Voir le coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:197
+msgctxt "[Admin panel] Post type label"
+msgid "Edit coupon"
+msgstr "Editer le coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:196
+msgctxt "[Admin panel] Post type label"
+msgid "New coupon"
+msgstr "Nouveau coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:195
+msgctxt "[Admin panel] Post type label"
+msgid "Add coupon"
+msgstr "Ajouter un coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:194
+msgctxt "[Admin panel] Post type label"
+msgid "Add new coupon"
+msgstr "Ajouter un nouveau coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:193
+msgctxt "[Admin panel] Post type label"
+msgid "Coupon"
+msgstr "Coupon"
+
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:192
+#: plugin-options/review-for-discounts-options.php:21
+msgctxt "[Admin panel] Post type label"
+msgid "Coupons"
+msgstr "Coupons"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:512
+msgctxt "[Admin panel] Discount setting description"
+msgid "Product categories to which the coupon will not be applied, or that must not be in the cart for the \"Fixed cart discount\" to be applied."
+msgstr "Catégories de produits auxquelles le coupon ne s'appliquera pas ou qui ne doivent pas se trouver dans le panier pour que la \"remise sur panier fixe\" soit appliquée."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:511
+msgctxt "[Admin panel] Discount setting name"
+msgid "Exclude categories"
+msgstr "Exclure des catégories"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:501
+msgctxt "[Admin panel] Discount setting description"
+msgid "Product categories to which the coupon will be applied, or that must be in the cart for the \"Fixed cart discount\" to be applied."
+msgstr "Catégories de produits auxquelles le coupon sera appliqué ou qui doivent se trouver dans le panier pour que la \"remise sur panier fixe\" soit appliquée."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:500
+msgctxt "[Admin panel] Discount setting name"
+msgid "Product categories"
+msgstr "Catégories de produits"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:491
+msgctxt "[Admin panel] Discount setting description"
+msgid "Products to which the coupon will not be applied, or that must not be in the cart for the \"Fixed cart discount\" to be applied."
+msgstr "Produits auxquels le coupon ne s'appliquera pas ou qui ne doivent pas se trouver dans le panier pour que la \"remise sur panier fixe\" soit appliquée."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:490
+msgctxt "[Admin panel] Discount setting name"
+msgid "Excluded products"
+msgstr "Produits exclus"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:480
+msgctxt "[Admin panel] Discount setting description"
+msgid "Products to which the coupon will be applied, or that must be in the cart for the \"Fixed cart discount\" to be applied."
+msgstr "Produits auxquels le coupon sera appliqué ou qui doivent se trouver dans le panier pour que la \"remise sur panier fixe\" soit appliquée."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:473
+msgctxt "[Admin panel] Discount setting description"
+msgid "Check this box if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale."
+msgstr "Cochez cette case si le coupon ne doit pas s'appliquer aux articles en solde. Les bons de réduction par article ne fonctionnent que si l'article n'est pas en promotion. Les coupons par panier ne fonctionnent que si le panier contient des articles qui ne sont pas en promotion."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:472
+msgctxt "[Admin panel] Discount setting name"
+msgid "Exclude sale items"
+msgstr "A l'exclusion des articles en solde"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:468
+msgctxt "[Admin panel] Discount setting description"
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "Cochez cette case si le coupon n'est pas cumulable avec d'autres coupons."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:467
+msgctxt "[Admin panel] Discount setting name"
+msgid "Individual use only"
+msgstr "Usage individuel uniquement"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:460
+msgctxt "[Admin panel] Discount setting placeholder"
+msgid "No maximum"
+msgstr "Pas de maximum"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:457
+msgctxt "[Admin panel] Discount setting description"
+msgid "This field allows you to set the maximum subtotal required to use the coupon."
+msgstr "Ce champ vous permet de définir le sous-total maximum requis pour utiliser le coupon."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:456
+msgctxt "[Admin panel] Discount setting name"
+msgid "Maximum spend"
+msgstr "Dépenses maximales"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:450
+msgctxt "[Admin panel] Discount setting placeholder"
+msgid "No minimum"
+msgstr "Pas de minimum"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:447
+msgctxt "[Admin panel] Discount setting description"
+msgid "This field allows you to set the minimum subtotal required to use the coupon."
+msgstr "Ce champ vous permet de définir le sous-total minimum requis pour utiliser le coupon."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:446
+msgctxt "[Admin panel] Discount setting name"
+msgid "Minimum spend"
+msgstr "Dépenses minimales"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:442
+msgctxt "[Admin panel] Discount section tab name"
+msgid "Usage restrictions"
+msgstr "Restrictions d'utilisation"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:431
+msgctxt "[Admin panel] Discount setting description"
+msgid "Funds value."
+msgstr "Valeur des fonds."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:430
+msgctxt "[Admin panel] Discount setting name"
+msgid "Funds amount"
+msgstr "Montant des fonds"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:417
+msgctxt "[Admin panel] Discount setting description"
+msgid "Set the number of days the coupon is valid after it is created. Set to \"0\" for no expiration."
+msgstr "Définissez le nombre de jours de validité du coupon après sa création. Régler à \"0\" pour ne pas avoir d'expiration."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:416
+msgctxt "[Admin panel] Discount setting name"
+msgid "Validity days"
+msgstr "Jours de validité"
+
+#. translators: %1$s link opening tag - %2$s link closing tag
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:408
+msgctxt "[Admin panel] Discount setting description"
+msgid "Enable if the coupon offers free shipping. The %1$sfree shipping method%2$s must be enabled and set to require \"A valid free shipping coupon\" (see the \"Free shipping requires...\" setting)."
+msgstr "Activez cette option si le coupon offre des frais de port gratuits. La méthode de livraison gratuite %1$sfree shipping method%2$s doit être activée et configurée pour exiger \"Un coupon de livraison gratuite valide\" (voir le paramètre \"Free shipping requires...\")."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:406
+msgctxt "[Admin panel] Discount setting name"
+msgid "Allow free shipping"
+msgstr "Autoriser l'expédition gratuite"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:394
+msgctxt "[Admin panel] Discount setting description"
+msgid "Coupon value."
+msgstr "Valeur du coupon."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:393
+msgctxt "[Admin panel] Discount setting name"
+msgid "Coupon amount"
+msgstr "Montant du coupon"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:380
+msgctxt "[Admin panel] Discount section tab name"
+msgid "Coupon settings"
+msgstr "Paramètres des coupons"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:365
+msgctxt "[Admin panel] Discount setting description"
+msgid "Set how many reviews are needed to start sending the email notifications."
+msgstr "Définissez le nombre d'avis nécessaires pour commencer à envoyer des notifications par courrier électronique."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:364
+msgctxt "[Admin panel] Discount setting name"
+msgid "Initial quantity"
+msgstr "Quantité initiale"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:356
+msgctxt "[Admin panel] Discount setting description"
+msgid "Send an email to encourage users to continue reviewing when a certain number of reviews are posted."
+msgstr "Envoyez un courrier électronique pour encourager les utilisateurs à poursuivre leur évaluation lorsqu'un certain nombre d'évaluations ont été publiées."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:355
+msgctxt "[Admin panel] Discount setting name"
+msgid "Send notification when requested quantity is approaching"
+msgstr "Envoyez une notification lorsque la quantité demandée approche"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:342
+msgctxt "[Admin panel] Discount setting description"
+msgid "The number of reviews that have to be written to receive the coupon."
+msgstr "Le nombre d'avis qui doivent être rédigés pour recevoir le coupon."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:341
+msgctxt "[Admin panel] Discount setting name"
+msgid "Requested quantity"
+msgstr "Quantité demandée"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:327
+msgctxt "[Admin panel] Discount setting description"
+msgid "Reviewing products in the selected categories will send a coupon. Leave it empty to apply to all categories."
+msgstr "L'envoi d'avis des produits dans les catégories sélectionnées enverra un bon de réduction. Laissez-le vide pour qu'il s'applique à toutes les catégories."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:326
+msgctxt "[Admin panel] Discount setting name"
+msgid "Triggering categories"
+msgstr "Catégories de déclenchement"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:317
+msgctxt "[Admin panel] Discount setting description"
+msgid "Products that will give a coupon when reviewed. Leave it empty to apply to all products."
+msgstr "Produits qui donnent droit à un bon de réduction en cas d'évaluation. Laissez-le vide pour l'appliquer à tous les produits."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:316
+msgctxt "[Admin panel] Discount setting name"
+msgid "Triggering products"
+msgstr "Produits déclencheurs"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:309
+msgctxt "[Admin panel] Discount setting description"
+msgid "When the coupon will be sent"
+msgstr "Date d'envoi du coupon"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:307
+msgctxt "[Admin panel] Discount setting option name"
+msgid "Multiple reviews"
+msgstr "Plusieurs avis"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:306
+msgctxt "[Admin panel] Discount setting option name"
+msgid "Single review"
+msgstr "Revue unique"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:300
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:304
+msgctxt "[Admin panel] Discount setting name"
+msgid "Triggering event"
+msgstr "Événement déclencheur"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:286
+msgctxt "[Admin panel] Discount setting option name"
+msgid "Add funds"
+msgstr "Ajouter des fonds"
+
+#. translators: %s coupon amount
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:215
+msgctxt "[Admin panel] Discount description"
+msgid "%s on each product price"
+msgstr "%s sur le prix de chaque produit"
+
+#. translators: %1$s coupon amount, %2$s specific product/categories - Example: 40$ on Coffee Box
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:203
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:236
+msgctxt "[Admin panel] String for joining other strings"
+msgid "%1$s on %2$s"
+msgstr "%1$s sur %2$s"
+
+#. translators: %s coupon amount
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:182
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:209
+msgctxt "[Admin panel] Discount description"
+msgid "%s on cart total"
+msgstr "%s sur le total du panier"
+
+#. translators: %s funds amount
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:177
+msgctxt "[Admin panel] Discount description"
+msgid "Add %s to customer's funds"
+msgstr "Ajouter %s aux fonds du client"
+
+#. translators: %s number of reviews written
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:156
+msgctxt "[Admin panel] Discount description"
+msgid "Send email notification after %s reviews"
+msgstr "Envoyez une notification par courrier électronique après %s avis"
+
+#. translators: %s number of reviews written
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:152
+msgctxt "[Admin panel] Discount description"
+msgid "%s review written"
+msgid_plural "%s reviews written"
+msgstr[0] "%s avis rédigé"
+msgstr[1] "%s avis rédigés"
+
+#. translators: %1$s specific product/categories
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:145
+msgctxt "[Admin panel] Discount description"
+msgid "Review on %1$s"
+msgstr "Revue sur %1$s"
+
+#. translators: %1$s product text, %2$s categories text - Example: 2 products and 3 categories
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:143
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:201
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:234
+msgctxt "[Admin panel] String for joining other strings"
+msgid "%1$s and %2$s"
+msgstr "%1$s et %2$s"
+
+#. translators: %s number of categories
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:139
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:198
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:231
+msgctxt "[Admin panel] Discount description"
+msgid "all products of %s categories"
+msgstr "tous les produits de %s catégories"
+
+#. translators: %s name of the category
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:136
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:195
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:228
+msgctxt "[Admin panel] Discount description"
+msgid "all products of the %s category"
+msgstr "tous les produits de la catégorie %s"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:122
+msgctxt "[Admin panel] Discount description"
+msgid "Review of any product"
+msgstr "Avis sur tout produit"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:100
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:383
+msgctxt "[Admin panel] Discount setting name"
+msgid "Discount type"
+msgstr "Type de remise"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:99
+msgctxt "[Admin panel] Column name"
+msgid "Trigger"
+msgstr "Déclencheur"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:79
+msgctxt "[Admin panel] Button lavel"
+msgid "Create coupon"
+msgstr "Créer un coupon"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:77
+msgctxt "[Admin panel] Empty status message"
+msgid "You haven't yet created discount coupons for customers who leave a review"
+msgstr "Vous n'avez pas encore créé de bons de réduction pour les clients qui laissent un avis"
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:56
+msgctxt "[Admin panel] Post updated message"
+msgid "Coupon draft updated."
+msgstr "Projet de coupon mis à jour."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:55
+msgctxt "[Admin panel] Post updated message"
+msgid "Coupon submitted."
+msgstr "Coupon soumis."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:54
+msgctxt "[Admin panel] Post updated message"
+msgid "Coupon saved."
+msgstr "Coupon économisé."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:53
+msgctxt "[Admin panel] Post updated message"
+msgid "Coupon created."
+msgstr "Coupon créé."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:51
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:52
+msgctxt "[Admin panel] Post updated message"
+msgid "Coupon updated."
+msgstr "Coupon mis à jour."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:49
+msgctxt "[Admin panel] Field description"
+msgid "Enter a name to identify this coupon."
+msgstr "Entrez un nom pour identifier ce coupon."
+
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:48
+msgctxt "[Admin panel] Field name"
+msgid "Coupon name"
+msgstr "Nom du coupon"
+
+#: modules/request-review/templates/unsubscribe.php:24
+msgctxt "[Frontend] Unsubscribe page email field"
+msgid "Email address"
+msgstr "Adresse électronique"
+
+#. translators: %s email
+#: modules/request-review/templates/unsubscribe.php:19
+msgctxt "[Frontend] Unsubscribe page text"
+msgid "If you don't want to receive any more review reminders, please re-type your email address: %s"
+msgstr "Si vous ne souhaitez plus recevoir de rappels d'avis, veuillez saisir à nouveau votre adresse électronique : %s"
+
+#: modules/request-review/options/request-review-settings.php:193
+msgctxt "[Admin panel] Setting description"
+msgid "Product, promo code, or slogan."
+msgstr "Produit, code promo ou slogan."
+
+#: modules/request-review/options/request-review-settings.php:190
+msgctxt "[Admin panel] Setting name"
+msgid "Campaign name"
+msgstr "Nom de la campagne"
+
+#: modules/request-review/options/request-review-settings.php:180
+msgctxt "[Admin panel] Setting description"
+msgid "Use to differentiate ads."
+msgstr "A utiliser pour différencier les annonces."
+
+#: modules/request-review/options/request-review-settings.php:177
+msgctxt "[Admin panel] Setting name"
+msgid "Campaign content"
+msgstr "Contenu de la campagne"
+
+#: modules/request-review/options/request-review-settings.php:169
+msgctxt "[Global] Ajax field placeholder"
+msgid "Type a term and press Enter"
+msgstr "Saisissez un terme et appuyez sur Entrée"
+
+#: modules/request-review/options/request-review-settings.php:166
+msgctxt "[Admin panel] Setting description"
+msgid "Identify the paid keywords. Enter values separated by commas (for example, term1, term2)."
+msgstr "Identifiez les mots-clés payants. Saisissez des valeurs séparées par des virgules (par exemple, term1, term2)."
+
+#: modules/request-review/options/request-review-settings.php:163
+msgctxt "[Admin panel] Setting name"
+msgid "Campaign term"
+msgstr "Terme de la campagne"
+
+#: modules/request-review/options/request-review-settings.php:152
+msgctxt "[Admin panel] Setting description"
+msgid "Marketing medium: cpc, banner, email."
+msgstr "Moyens de marketing : cpc, bannière, email."
+
+#: modules/request-review/options/request-review-settings.php:149
+msgctxt "[Admin panel] Setting name"
+msgid "Campaign medium"
+msgstr "Support de campagne"
+
+#: modules/request-review/options/request-review-settings.php:138
+msgctxt "[Admin panel] Setting description"
+msgid "Referrer: google, citysearch, newsletter4."
+msgstr "Références : google, citysearch, newsletter4."
+
+#: modules/request-review/options/request-review-settings.php:135
+msgctxt "[Admin panel] Setting name"
+msgid "Campaign source"
+msgstr "Source de la campagne"
+
+#: modules/request-review/options/request-review-settings.php:128
+msgctxt "[Admin panel] Setting name"
+msgid "Add Google Analytics to email links"
+msgstr "Ajoutez Google Analytics aux liens des courriels"
+
+#: modules/request-review/options/request-review-settings.php:124
+msgctxt "[Admin panel] Options section title"
+msgid "Google Analytics integration"
+msgstr "Intégration de Google Analytics"
+
+#: modules/request-review/options/request-review-settings.php:117
+msgctxt "[Admin panel] Setting description"
+msgid "You're changing the time interval for email delivery. Do you want to reschedule the email on the new date?"
+msgstr "Vous modifiez l'intervalle de temps pour l'envoi des courriels. Souhaitez-vous reprogrammer l'e-mail à la nouvelle date ?"
+
+#: modules/request-review/options/request-review-settings.php:114
+msgctxt "[Admin panel] Option name"
+msgid "Send emails when the rescheduled date has passed"
+msgstr "Envoyez des courriers électroniques lorsque la date de report est dépassée"
+
+#: modules/request-review/options/request-review-settings.php:113
+msgctxt "[Admin panel] Option name"
+msgid "Yes, reschedule emails"
+msgstr "Oui, reprogrammer les courriels"
+
+#: modules/request-review/options/request-review-settings.php:108
+msgctxt "[Admin panel] Setting name"
+msgid "Reschedule emails"
+msgstr "Reprogrammer les courriels"
+
+#: modules/request-review/options/request-review-settings.php:100
+msgctxt "[Admin panel] Setting description"
+msgid "day(s) after the order has been set as \"Completed\"."
+msgstr "jour(s) après que l’état de la commande devient \"Terminée\"."
+
+#: modules/request-review/options/request-review-settings.php:97
+msgctxt "[Admin panel] Setting name"
+msgid "Send the email"
+msgstr "Envoyer le courriel"
+
+#: modules/request-review/options/request-review-settings.php:83
+msgctxt "[Admin panel] Setting name"
+msgid "Number of products to show for the request"
+msgstr "Nombre de produits à afficher pour la demande"
+
+#: modules/request-review/options/request-review-settings.php:72
+msgctxt "[Admin panel] Option name"
+msgid "Random"
+msgstr "Au hasard"
+
+#: modules/request-review/options/request-review-settings.php:71
+msgctxt "[Admin panel] Option name"
+msgid "Products with the lowest total value"
+msgstr "Produits dont la valeur totale est la plus faible"
+
+#: modules/request-review/options/request-review-settings.php:70
+msgctxt "[Admin panel] Option name"
+msgid "Products with the highest total value"
+msgstr "Produits ayant la valeur totale la plus élevée"
+
+#: modules/request-review/options/request-review-settings.php:69
+msgctxt "[Admin panel] Option name"
+msgid "Products with the lowest price"
+msgstr "Produits au prix le plus bas"
+
+#: modules/request-review/options/request-review-settings.php:68
+msgctxt "[Admin panel] Option name"
+msgid "Products with the highest price"
+msgstr "Produits au prix le plus élevé"
+
+#: modules/request-review/options/request-review-settings.php:67
+msgctxt "[Admin panel] Option name"
+msgid "Products with the lowest number of reviews"
+msgstr "Produits avec le plus petit nombre d'avis"
+
+#: modules/request-review/options/request-review-settings.php:66
+msgctxt "[Admin panel] Option name"
+msgid "Products with the highest number of reviews"
+msgstr "Produits avec le plus grand nombre d'avis"
+
+#: modules/request-review/options/request-review-settings.php:65
+msgctxt "[Admin panel] Option name"
+msgid "Products with lowest number of items bought"
+msgstr "Produits avec le plus petit nombre d'articles achetés"
+
+#: modules/request-review/options/request-review-settings.php:64
+msgctxt "[Admin panel] Option name"
+msgid "Products with highest number of items bought"
+msgstr "Produits avec le plus grand nombre d'articles achetés"
+
+#: modules/request-review/options/request-review-settings.php:63
+msgctxt "[Admin panel] Option name"
+msgid "Last product(s) bought"
+msgstr "Derniers produits achetés"
+
+#: modules/request-review/options/request-review-settings.php:62
+msgctxt "[Admin panel] Option name"
+msgid "First product(s) bought"
+msgstr "Premier(s) produit(s) acheté(s)"
+
+#: modules/request-review/options/request-review-settings.php:51
+msgctxt "[Admin panel] Option name"
+msgid "Specific products"
+msgstr "Produits spécifiques"
+
+#: modules/request-review/options/request-review-settings.php:50
+msgctxt "[Admin panel] Option name"
+msgid "All products in order"
+msgstr "Tous les produits dans la commande"
+
+#: modules/request-review/options/request-review-settings.php:45
+msgctxt "[Admin panel] Setting name"
+msgid "Send a review reminder for"
+msgstr "Envoyez un rappel d’avis pour"
+
+#: modules/request-review/options/request-review-settings.php:25
+msgctxt "[Admin panel] Setting name"
+msgid "Checkbox text"
+msgstr "Texte de la case à cocher"
+
+#: modules/request-review/options/request-review-settings.php:20
+msgctxt "[Admin panel] Setting description"
+msgid "Enable to display a checkbox to ask users for permission to receive review reminders emails. Users who do not accept will be added to the Blocklist and will not receive review requests."
+msgstr "Activez l'affichage d'une case à cocher pour demander aux utilisateurs l'autorisation de recevoir des courriels de rappel d'avis. Les utilisateurs qui n'acceptent pas seront ajoutés à la liste de blocage et ne recevront pas de demandes d'avis."
+
+#: modules/request-review/options/request-review-settings.php:17
+msgctxt "[Admin panel] Setting name"
+msgid "Show checkbox consent in Checkout page"
+msgstr "Afficher la case à cocher de consentement dans la page de paiement"
+
+#: modules/request-review/options/request-review-settings.php:13
+msgctxt "[Admin panel] Options section title"
+msgid "GDPR option"
+msgstr "Option GDPR"
+
+#: modules/request-review/options/request-review-list.php:18
+#: plugin-options/request-review-options.php:21
+msgctxt "[Admin panel] Section name"
+msgid "Email list"
+msgstr "Liste d'adresses électroniques"
+
+#. translators: %s suborder number
+#: modules/request-review/includes/functions.php:378
+msgctxt "[Admin panel] Order page send box description"
+msgid "Suborder %s has reviewable items"
+msgstr "La sous-commande %s a des éléments a noter"
+
+#. translators: %s suborder number
+#: modules/request-review/includes/functions.php:364
+msgctxt "[Admin panel] Order page send box description"
+msgid "Suborder #%s has no reviewable items"
+msgstr "La sous-commande #%s n'a pas d'éléments a noter"
+
+#: modules/request-review/includes/functions.php:254
+msgctxt "[Admin panel] Order page send box description"
+msgid "This booking cannot be reviewed."
+msgstr "Cette réservation ne peut pas être revue."
+
+#: modules/request-review/includes/functions.php:251
+msgctxt "[Admin panel] Order page send box description"
+msgid "There are no reviewable items in this order"
+msgstr "Il n'y a pas d'éléments révisables dans cette commande"
+
+#: modules/request-review/includes/functions.php:232
+msgctxt "[Admin panel] Order page send button"
+msgid "Send request"
+msgstr "Envoyer une demande"
+
+#. translators: %s send date
+#: modules/request-review/includes/functions.php:216
+msgctxt "[Admin panel] Order page send box description"
+msgid "By default, the plugin will send the reminder on %s. Pick a new date to overwrite this setting."
+msgstr "Par défaut, le plugin enverra le rappel le %s. Choisissez une nouvelle date pour remplacer ce paramètre."
+
+#: modules/request-review/includes/functions.php:208
+msgctxt "[Admin panel] Order page send box description"
+msgid "The request will be sent on"
+msgstr "La demande sera envoyée le"
+
+#: modules/request-review/includes/functions.php:203
+msgctxt "[Admin panel] Order page send box description"
+msgid "Send a new request"
+msgstr "Envoyez une nouvelle demande"
+
+#. translators: %s send date
+#: modules/request-review/includes/functions.php:200
+msgctxt "[Admin panel] Order page send box description"
+msgid "An email was sent on %s. Pick a new date to reschedule it."
+msgstr "Un courriel a été envoyé le %s. Choisissez une nouvelle date pour la reprogrammer."
+
+#: modules/request-review/includes/functions.php:190
+msgctxt "[Admin panel] Order page send box description"
+msgid "The request was sent on"
+msgstr "La demande a été envoyée le"
+
+#: modules/request-review/includes/functions.php:137
+msgctxt "[Admin panel] Blocklist modal description"
+msgid "Enter the email address of the customer you want to add."
+msgstr "Saisissez l'adresse électronique du client que vous souhaitez ajouter."
+
+#: modules/request-review/includes/functions.php:116
+msgctxt "[Admin panel] Order page send email modal option name"
+msgid "Choose a date"
+msgstr "Choisissez une date"
+
+#: modules/request-review/includes/functions.php:115
+msgctxt "[Admin panel] Order page send email modal option name"
+msgid "Now"
+msgstr "Maintenant"
+
+#: modules/request-review/includes/functions.php:104
+msgctxt "[Admin panel] Order page send email modal description"
+msgid "Send this reminder email on"
+msgstr "Envoyez ce courriel de rappel le"
+
+#: modules/request-review/includes/functions.php:70
+msgctxt "[Admin panel] Schedule email modal option name"
+msgid "Schedule a request email for orders placed within a certain timeframe"
+msgstr "Programmer un e-mail de demande pour les commandes passées dans un certain délai"
+
+#: modules/request-review/includes/functions.php:70
+msgctxt "[Admin panel] Schedule email modal option name"
+msgid "Schedule a request email for orders and bookings placed within a certain timeframe"
+msgstr "Planifiez un e-mail de demande pour les commandes et les réservations effectuées dans un certain délai"
+
+#: modules/request-review/includes/functions.php:69
+msgctxt "[Admin panel] Schedule email modal option name"
+msgid "Schedule a request email for all orders"
+msgstr "Programmer un e-mail de demande pour toutes les commandes"
+
+#: modules/request-review/includes/functions.php:69
+msgctxt "[Admin panel] Schedule email modal option name"
+msgid "Schedule a request email for all orders and bookings"
+msgstr "Programmer un e-mail de demande pour toutes les commandes et réservations"
+
+#: modules/request-review/includes/functions.php:58
+msgctxt "[Admin panel] Schedule email modal description"
+msgid "Schedule a review reminder email for all orders for which a request has never been generated."
+msgstr "Programmez un courriel de rappel d'avis pour toutes les commandes pour lesquelles une demande n'a jamais été générée."
+
+#: modules/request-review/includes/functions.php:56
+msgctxt "[Admin panel] Schedule email modal description"
+msgid "Schedule a review reminder email for all orders and bookings for which a request has never been generated."
+msgstr "Planifiez un courriel de rappel d'avis pour toutes les commandes et réservations pour lesquelles une demande n'a jamais été générée."
+
+#: modules/request-review/includes/functions.php:38
+msgctxt "[Admin panel] Datepicker label"
+msgid "to"
+msgstr "à"
+
+#: modules/request-review/includes/functions.php:26
+msgctxt "[Admin panel] Datepicker label"
+msgid "From"
+msgstr "De"
+
+#: modules/request-review/includes/frontend/class-yith-ywar-request-review-frontend.php:273
+msgctxt "[Frontend] Checkout option"
+msgid "Review reminders"
+msgstr "Rappels d'avis"
+
+#: modules/request-review/includes/frontend/class-yith-ywar-request-review-frontend.php:185
+#: modules/request-review/templates/unsubscribe.php:34
+msgctxt "[Frontend] Unsubscribe page action button"
+msgid "Back to Home Page"
+msgstr "Retour à la page d'accueil"
+
+#: modules/request-review/includes/frontend/class-yith-ywar-request-review-frontend.php:95
+msgctxt "[Admin panel] Message to trigger when someone tries to delete the unsubscribe page"
+msgid "The Unsubscribe page cannot be deleted"
+msgstr "La page de désabonnement ne peut pas être supprimée"
+
+#: modules/request-review/includes/frontend/class-yith-ywar-request-review-frontend.php:74
+#: modules/request-review/templates/unsubscribe.php:32
+msgctxt "[Frontend] Unsubscribe page"
+msgid "Unsubscribe"
+msgstr "Se désabonner"
+
+#: modules/request-review/includes/frontend/class-yith-ywar-request-review-frontend.php:73
+msgctxt "[Frontend] Unsubscribe page slug"
+msgid "unsubscribe"
+msgstr "se désinscrire"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:77
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name},\n"
+"\n"
+"Thank you so much for your recent order on {site_title} shop!\n"
+"\n"
+"If you have a few minutes to leave us a review on the following items, we'd really appreciate it:\n"
+"\n"
+"{items}\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"Merci beaucoup pour votre récente commande sur {site_title} shop !\n"
+"\n"
+"Si vous avez quelques minutes pour nous laisser un avis sur les articles suivants, nous vous en serions très reconnaissants :\n"
+"\n"
+"{items}\n"
+"\n"
+"A bientôt sur notre boutique,\n"
+"{site_title}  Personnel"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:76
+msgctxt "[Admin panel] Email heading/subject"
+msgid "Review recently purchased products on {site_title}"
+msgstr "Examinez les produits récemment achetés sur  {site_title}"
+
+#. translators: %s number of days
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:73
+msgctxt "[Admin panel] Email description"
+msgid "Sent %s day(s) after the order has been set as \"completed\"."
+msgstr "Envoyé %s jour(s) après que la commande a été défini comme \"Terminée\"."
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:79
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:79
+msgctxt "[Admin panel] Email review link text"
+msgid "Submit a review"
+msgstr "Soumettre un avis"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:78
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:78
+msgctxt "[Admin panel] Email unsubscibe link text"
+msgid "Unsubscribe from review reminders."
+msgstr "Se désabonner des rappels d'avis."
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:77
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name},\n"
+"\n"
+"Thank you so much for your recent experience with {site_title} shop!\n"
+"\n"
+"If you have a few minutes to leave us a review of the following items, we'd really appreciate it:\n"
+"\n"
+"{items}\n"
+"\n"
+"See you on our shop,\n"
+"{site_title} Staff"
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"Merci beaucoup pour votre récente expérience avec la boutique {site_title} !\n"
+"\n"
+"Si vous avez quelques minutes pour nous laisser un avis sur les articles suivants, nous vous en serions très reconnaissants :\n"
+"\n"
+"{items}\n"
+"\n"
+"À bientôt sur notre boutique,\n"
+"L'équipe {site_title}"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:76
+msgctxt "[Admin panel] Email heading/subject"
+msgid "Review your recent experience with {site_title}"
+msgstr "Passez en revue votre expérience récente en matière de  {site_title}"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:75
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:75
+msgctxt "[Admin panel] Email heading/subject"
+msgid "We'd like to hear your feedback!"
+msgstr "N'hésitez pas à nous faire part de vos avis !"
+
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:74
+msgctxt "[Admin panel] Email title"
+msgid "Review booking request"
+msgstr "Examiner la demande de réservation"
+
+#. translators: %s number of days
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-booking-email.php:73
+msgctxt "[Admin panel] Email description"
+msgid "Sent %s day(s) after the booking has been set as \"completed\". "
+msgstr "Envoyé %s jour(s) après que la réservation a été définie comme \"terminée\". "
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:437
+msgctxt "[Admin panel] Module description for system status panel"
+msgid "Review reminder module"
+msgstr "Module de rappel d'avis"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:244
+msgctxt "[Admin panel] Setting name"
+msgid "Button label"
+msgstr "Étiquette du bouton"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:235
+#: plugin-options/general/style-options.php:32
+#: plugin-options/general/style-options.php:254
+msgctxt "[Admin panel] Option name"
+msgid "Text hover"
+msgstr "Texte survolé"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:229
+#: plugin-options/general/style-options.php:22
+#: plugin-options/general/style-options.php:244
+msgctxt "[Admin panel] Option name"
+msgid "Background hover"
+msgstr "Arrière-plan en survol"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:212
+msgctxt "[Admin panel] Setting name"
+msgid "Button colors"
+msgstr "Couleurs des boutons"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:186
+msgctxt "[Admin panel] Setting name"
+msgid "Unsubscribe text"
+msgstr "Texte de désinscription"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:97
+msgctxt "[Admin panel] bulk action name"
+msgid "Review reminder: Cancel email"
+msgstr "Rappel d'avis : Annuler l'e-mail"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:96
+msgctxt "[Admin panel] bulk action name"
+msgid "Review reminder: Reschedule email"
+msgstr "Rappel d'avis : Courriel de reprogrammation"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:95
+msgctxt "[Admin panel] bulk action name"
+msgid "Review reminder: Send email"
+msgstr "Rappel d'avis : Envoyez un courriel"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:93
+msgctxt "[Admin panel] error message"
+msgid "Please, select a date."
+msgstr "Veuillez sélectionner une date."
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:89
+msgctxt "[Admin panel] Modal title"
+msgid "Send an email to request a review"
+msgstr "Envoyez un courriel pour demander une évaluation"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:86
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Add customer"
+msgstr "Ajouter un client"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:84
+msgctxt "[Admin panel] Modal title"
+msgid "Add customer to the blocklist"
+msgstr "Ajouter un client à la liste de blocage"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:80
+msgctxt "[Admin panel] Modal message"
+msgid "This customer will be removed from the blocklist. Do you wish to continue?"
+msgstr "Ce client sera supprimé de la liste de blocage. Souhaitez-vous poursuivre ?"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:79
+msgctxt "[Admin panel] Modal title"
+msgid "Remove customer from blocklist"
+msgstr "Supprimer un client de la liste de blocage"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:76
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Schedule now"
+msgstr "Programmer maintenant"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:74
+msgctxt "[Admin panel] Modal title"
+msgid "Schedule review reminder emails"
+msgstr "Programmer des courriels de rappel pour les avis"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:70
+msgctxt "[Admin panel] Modal message"
+msgid "Do you want to delete all sent emails from the database?"
+msgstr "Voulez-vous supprimer tous les courriels envoyés de la base de données ?"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:69
+msgctxt "[Admin panel] Modal title"
+msgid "Remove sent emails"
+msgstr "Supprimer les courriels envoyés"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:65
+msgctxt "[Admin panel] Modal message"
+msgid "Do you want to delete all canceled emails from the database?"
+msgstr "Voulez-vous supprimer tous les courriels annulés de la base de données ?"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:64
+msgctxt "[Admin panel] Modal title"
+msgid "Remove canceled emails"
+msgstr "Supprimer les courriels annulés"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:60
+msgctxt "[Admin panel] Modal message"
+msgid "This email will be removed from the list. Do you wish to continue?"
+msgstr "Cet e-mail sera supprimé de la liste. Souhaitez-vous poursuivre ?"
+
+#: modules/request-review/includes/class-yith-ywar-request-review.php:59
+msgctxt "[Admin panel] Modal title"
+msgid "Remove scheduled email"
+msgstr "Suppression d'un courriel programmé"
+
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:527
+msgctxt "[Frontend] Unsubscribe page error message"
+msgid "You already unsubscribed."
+msgstr "Vous vous êtes déjà désabonné."
+
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:519
+msgctxt "[Frontend] Unsubscribe page success message"
+msgid "Unsubscribe was successful."
+msgstr "Le désabonnement a été effectué avec succès."
+
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:514
+msgctxt "[Frontend] Unsubscribe page error message"
+msgid "Please re-type the email address as provided."
+msgstr "Veuillez retaper l'adresse électronique telle qu'elle a été fournie."
+
+#. translators: %s user email
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:313
+msgctxt "[Admin panel] Bulk action success message"
+msgid "User %s added successfully"
+msgstr "L'utilisateur %s a été ajouté avec succès"
+
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:268
+msgctxt "[Admin panel] Message to display if no order can be scheduled"
+msgid "No actions are scheduled. This may be because there are no orders matching the conditions or reminder emails are already scheduled. "
+msgstr "Aucune action n'est prévue. Cela peut être dû au fait qu'il n'y a pas de commandes correspondant aux conditions ou que des courriels de rappel sont déjà programmés.  "
+
+#. translators: %s number of items
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:257
+msgctxt "[Admin panel] bulk action message"
+msgid "%s email scheduled."
+msgid_plural "%s emails scheduled."
+msgstr[0] "%s e-mail planifié pour envoi."
+msgstr[1] "%s e-mails planifiés pour envoi."
+
+#. translators: %s number of items
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:88
+msgctxt "[Admin panel] bulk action message"
+msgid "No email deleted."
+msgstr "Aucun courriel n'a été supprimé."
+
+#. translators: %s number of items
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:88
+msgctxt "[Admin panel] bulk action message"
+msgid "%s email deleted."
+msgid_plural "%s emails deleted."
+msgstr[0] "%s e-mail supprimé."
+msgstr[1] "%s e-mails supprimés."
+
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:435
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:474
+msgctxt "[Admin panel] Metabox title"
+msgid "Ask for a review"
+msgstr "Demandez une évaluation"
+
+#. translators: %s emails number
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:380
+msgctxt "[Admin panel] bulk action message"
+msgid "Review reminder: %s email cancelled."
+msgid_plural "Review reminder: %s emails cancelled."
+msgstr[0] "Rappel d'avis: %s e-mail annulé."
+msgstr[1] "Rappel d'avis: %s e-mails annulés."
+
+#. translators: %s emails number
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:376
+msgctxt "[Admin panel] bulk action message"
+msgid "Review reminder: %s email rescheduled."
+msgid_plural "Review reminder: %s emails rescheduled."
+msgstr[0] "Rappel d'avis: %s e-mail reprogrammé."
+msgstr[1] "Rappel d'avis: %s e-mails reprogrammés."
+
+#. translators: %s emails number
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:372
+msgctxt "[Admin panel] bulk action message"
+msgid "Review reminder: %s email sent."
+msgid_plural "Review reminder: %s emails sent"
+msgstr[0] "Rappel d'avis: %s e-mail envoyé."
+msgstr[1] "Rappel d'avis: %s e-mails envoyés."
+
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:139
+#: modules/request-review/includes/emails/class-yith-ywar-request-review-email.php:74
+#: modules/request-review/options/request-review-settings.php:41
+msgctxt "[Admin panel] Order/booking page column name and option name"
+msgid "Review reminder"
+msgstr "Rappel d'avis"
+
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:85
+msgctxt "[Admin panel] Search form placeholder"
+msgid "Search customer email"
+msgstr "Recherche d'un courriel de client"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:358
+msgctxt "[Admin panel] Filter button label"
+msgid "Filter"
+msgstr "Filtre"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:343
+msgctxt "[Admin panel] Scheduled email status option"
+msgid "All emails"
+msgstr "Tous les courriels"
+
+#. translators: %1$s, %2$s buttons
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:325
+msgctxt "[Admin panel] Action buttons with conjunction text"
+msgid "Clear table: %1$s or %2$s"
+msgstr "Effacer la table : %1$s ou %2$s"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:320
+msgctxt "[Admin panel] Button label"
+msgid "Remove Sent"
+msgstr "Supprimer l'envoi"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:319
+msgctxt "[Admin panel] Button label"
+msgid "Remove Canceled"
+msgstr "Supprimer Annulé"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:260
+msgctxt "[Admin panel] message to display if no email is scheduled"
+msgid "No email scheduled."
+msgstr "Aucun courriel n'est prévu."
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:141
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:177
+msgctxt "[Admin panel] action name"
+msgid "Cancel schedule"
+msgstr "Annuler le programme"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:133
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:344
+msgctxt "[Admin panel] Scheduled email status"
+msgid "On hold"
+msgstr "En attente"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:129
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:345
+msgctxt "[Admin panel] Scheduled email status"
+msgid "Canceled"
+msgstr "Annulé"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:125
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:346
+msgctxt "[Admin panel] Scheduled email status"
+msgid "Sent"
+msgstr "Envoyé"
+
+#. translators: %1$s order/booking number, %2$s customer name, %3$s customer email - Example: Order #1234 by John Doe - johndoe@foo.bar
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:113
+msgctxt "[Admin panel] String for joining other strings"
+msgid "%1$s by %2$s - %3$s"
+msgstr "%1$s par %2$s - %3$s"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:94
+msgctxt "[Admin panel] Schedule list object description"
+msgid "Booking"
+msgstr "Réservation"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:57
+msgctxt "[Admin panel] column name"
+msgid "Email delivery date"
+msgstr "Date d'envoi du courrier électronique"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:56
+msgctxt "[Admin panel] column name"
+msgid "Completed on"
+msgstr "Terminé le"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:55
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:85
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:63
+msgctxt "[Admin panel] Generic description. Refer to a WC Order"
+msgid "Order"
+msgstr "Commande"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:55
+#: modules/request-review/includes/admin/class-yith-ywar-request-review-admin.php:63
+msgctxt "[Admin panel] Generic description. Refer to a WC Order or YITH Booking"
+msgid "Order or Booking"
+msgstr "Commande ou réservation"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:287
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:369
+msgctxt "[Admin panel] Reset filter button label"
+msgid "Reset filters"
+msgstr "Réinitialiser les filtres"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:222
+#: modules/request-review/options/request-review-blocklist.php:11
+msgctxt "[Admin panel] Button label"
+msgid "Add email"
+msgstr "Ajouter un courriel"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:220
+msgctxt "[Admin panel] Empty state message"
+msgid "No user in the blocklist."
+msgstr "Aucun utilisateur dans la liste de blocage."
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:90
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:126
+msgctxt "[Admin panel] action button label"
+msgid "Remove from blocklist"
+msgstr "Supprimer de la liste de blocage"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:81
+msgctxt "[Admin panel] label to display in blocklist if the user is not registered"
+msgid "Unregistered user"
+msgstr "Utilisateur non enregistré"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:56
+msgctxt "[Admin panel] column name"
+msgid "Email address"
+msgstr "Adresse électronique"
+
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-blocklist-admin-table.php:55
+msgctxt "[Admin panel] column name"
+msgid "Customer"
+msgstr "Client"
+
+#: modules/modules.php:18
+msgctxt "[Admin panel] Module description"
+msgid "Increase the number of reviews and sales in your store with a very powerful tool: discounts. Offer them in exchange for a review and your users will buy more and more."
+msgstr "Augmentez le nombre d'avis et de ventes dans votre boutique grâce à un outil très puissant : les remises. Offrez-les en échange d'un avis et vos utilisateurs achèteront de plus en plus."
+
+#: modules/modules.php:13
+msgctxt "[Admin panel] Module description"
+msgid "Increase the number of quality reviews for your store's products by automatically inviting users to leave reviews. Choose the best communication strategy to encourage them to share their opinions, and you'll see your store grow day by day."
+msgstr "Augmentez le nombre d'avis de qualité sur les produits de votre boutique en invitant automatiquement les utilisateurs à laisser des avis. Choisissez la meilleure stratégie de communication pour les encourager à partager leurs opinions, et vous verrez votre magasin s'agrandir de jour en jour."
+
+#. translators: %s name of the plugin
+#: init.php:87
+msgctxt "[Admin panel] Message displayed if WooCommerce is not enabled"
+msgid "%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "%s est activé mais n'est pas effectif. Il nécessite WooCommerce pour fonctionner."
+
+#: includes/functions-yith-ywar.php:703
+msgctxt "[Admin panel] Setting description"
+msgid "Maximum size suggested: 60px x 60px"
+msgstr "Taille maximale suggérée : 60px x 60px"
+
+#: includes/functions-yith-ywar.php:695
+msgctxt "[Admin panel] Blocklist modal description"
+msgid "Criterion name"
+msgstr "Nom du critère"
+
+#: includes/functions-yith-ywar.php:594
+msgctxt "[Admin panel] Default review request checkout label value"
+msgid "Yes, I accept to receive review reminders via email."
+msgstr "Oui, j'accepte de recevoir des rappels d'avis par e-mail."
+
+#: includes/functions-yith-ywar.php:575
+msgctxt "[Admin panel] Default badge label"
+msgid "FEATURED"
+msgstr "À L'AFFICHE"
+
+#: includes/functions-yith-ywar.php:570
+msgctxt "[Admin panel] Default badge label"
+msgid "STAFF"
+msgstr "PERSONNEL"
+
+#. translators: %s BR tag
+#: includes/functions-yith-ywar.php:511
+msgctxt "[Admin panel] Default empty state label"
+msgid "No customer reviews available for this product%sBe the first to leave a review!"
+msgstr "Aucun avis de client n'est disponible pour ce produit%sBe the first to leave a review !"
+
+#: includes/functions-yith-ywar-frontend.php:551
+msgctxt "[Frontend] Undo delete review link text"
+msgid "Undo?"
+msgstr "Annuler ?"
+
+#: includes/functions-yith-ywar-frontend.php:551
+msgctxt "[Frontend] Message to show after a review wasdeleted from the frontend"
+msgid "The review was deleted successfully!"
+msgstr "L'avis a été supprimé avec succès !"
+
+#: includes/functions-yith-ywar-frontend.php:550
+msgctxt "[Frontend] Message to show after a duplicated review is published"
+msgid "Duplicate comment detected; it looks like you've already said that!"
+msgstr "Double avis détecté ; il semble que vous l'ayez déjà dit !"
+
+#: includes/functions-yith-ywar-frontend.php:549
+msgctxt "[Frontend] Message to show after a pending review is published"
+msgid "Thanks for your review, we will check its content and publish it very soon."
+msgstr "Merci pour votre avis, nous allons vérifier son contenu et le publier très prochainement."
+
+#: includes/functions-yith-ywar-frontend.php:548
+msgctxt "[Frontend] Message if user cannot leave multiple review"
+msgid "You cannot leave more than one review for the same product."
+msgstr "Vous ne pouvez pas laisser plus d'un avis pour le même produit."
+
+#: includes/functions-yith-ywar-frontend.php:547
+msgctxt "[Frontend] Message if user cannot leave a review"
+msgid "Only logged in customers who have purchased this product can leave a review."
+msgstr "Seuls les clients connectés qui ont acheté ce produit peuvent laisser un avis."
+
+#: includes/functions-yith-ywar-frontend.php:546
+msgctxt "[Frontend] Message if user cannot leave a review"
+msgid "Only logged in customers can leave a review."
+msgstr "Seuls les clients connectés peuvent laisser un avis."
+
+#. translators: %s number of reviews
+#: includes/functions-yith-ywar-frontend.php:353
+#: includes/functions-yith-ywar-reviews.php:384
+#: modules/request-review/templates/emails/items-list.php:43
+#: views/frontend/stats/average-rating-box.php:20
+#: views/settings-tabs/reports/lists/most-active-users.php:36
+#: views/settings-tabs/reports/lists/review-count.php:28
+msgctxt "[Global] Review counter"
+msgid "%d review"
+msgid_plural "%d reviews"
+msgstr[0] "%d avis"
+msgstr[1] "%d avis"
+
+#: includes/functions-yith-ywar-frontend.php:300
+msgctxt "[Frontend] label for users that purchased the product"
+msgid "Verified buyer"
+msgstr "propriétaire vérifié"
+
+#: includes/functions-yith-ywar-frontend.php:49
+msgctxt "[Frontend] Review delete button"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/functions-yith-ywar-frontend.php:44
+msgctxt "[Frontend] Review report button"
+msgid "Report"
+msgstr "Rapport"
+
+#: includes/functions-yith-ywar-frontend.php:39
+msgctxt "[Frontend] Review vote helpful button"
+msgid "Helpful"
+msgstr "Utile"
+
+#: includes/frontend/class-yith-ywar-frontend.php:1472
+msgctxt "[Frontend] New reply form title"
+msgid "Your reply"
+msgstr "Votre réponse"
+
+#: includes/frontend/class-yith-ywar-frontend.php:1438
+msgctxt "[Frontend] Update review/reply button text"
+msgid "Update"
+msgstr "Mise à jour"
+
+#: includes/frontend/class-yith-ywar-frontend.php:1437
+msgctxt "[Frontend] Edit reply form title"
+msgid "Edit reply"
+msgstr "Modifier la réponse"
+
+#: includes/frontend/class-yith-ywar-frontend.php:1437
+msgctxt "[Frontend] Edit review form title"
+msgid "Edit review"
+msgstr "Editer la revue"
+
+#: includes/frontend/class-yith-ywar-frontend.php:1312
+msgctxt "[Frontend] Review report confirmation text"
+msgid "Thanks for reporting, we will check the content of the review."
+msgstr "Nous allons vérifier le contenu de l'avis."
+
+#. translators: %s upvotes count
+#: includes/frontend/class-yith-ywar-frontend.php:1261
+#: includes/functions-yith-ywar-frontend.php:229
+msgctxt "[Frontend] Review helpful text"
+msgid "You and %s person found this helpful"
+msgid_plural "You and %s people found this helpful"
+msgstr[0] "Vous et %s personne avez trouvé cela utile"
+msgstr[1] "Vous et %s personnes avez trouvé cela utile "
+
+#: includes/frontend/class-yith-ywar-frontend.php:1263
+#: includes/functions-yith-ywar-frontend.php:231
+msgctxt "[Frontend] Review helpful text"
+msgid "You found this helpful"
+msgstr "Vous avez trouvé cela utile"
+
+#: includes/frontend/class-yith-ywar-frontend.php:877
+msgctxt "[Frontend] Review overlay title"
+msgid "Reviews with attachments"
+msgstr "Avis avec pièces jointes"
+
+#: includes/frontend/class-yith-ywar-frontend.php:845
+#: includes/frontend/class-yith-ywar-frontend.php:1101
+msgctxt "[Frontend] Load more button text"
+msgid "Load more"
+msgstr "En savoir plus"
+
+#. translators: %1$s current reviews, %2$s total reviews
+#: includes/frontend/class-yith-ywar-frontend.php:843
+#: includes/frontend/class-yith-ywar-frontend.php:1099
+msgctxt "[Frontend] Review pagination count"
+msgid "Showing %1$s of %2$s reviews"
+msgstr "Afficher %1$s of %2$s reviews"
+
+#: includes/frontend/class-yith-ywar-frontend.php:619
+#: views/frontend/filter-data.php:13
+msgctxt "[Frontend] Filtered reviews title"
+msgid "Reviews filtered by rating"
+msgstr "Critiques filtrées par note"
+
+#: includes/frontend/class-yith-ywar-frontend.php:534
+msgctxt "[Frontend] Publish review button text"
+msgid "Publish review"
+msgstr "Publier l'avis"
+
+#: includes/frontend/class-yith-ywar-frontend.php:533
+msgctxt "[Frontend] New review form title"
+msgid "Leave your review"
+msgstr "Laissez votre avis"
+
+#: includes/frontend/class-yith-ywar-frontend.php:482
+msgctxt "[Frontend] pending reviews toggle title"
+msgid "View details"
+msgstr "Voir les détails"
+
+#. translators: %d number of pending reviews
+#: includes/frontend/class-yith-ywar-frontend.php:481
+msgctxt "[Frontend] pending reviews toggle title"
+msgid "You have %d review awaiting approval."
+msgid_plural "You have %d reviews awaiting approval."
+msgstr[0] "Vous avez %d avis en attente de validation."
+msgstr[1] "Vous avez %d avis en attente de validation."
+
+#: includes/frontend/class-yith-ywar-frontend.php:419
+msgctxt "[Frontend] Review sorting option"
+msgid "Worst rated"
+msgstr "Le plus mal noté"
+
+#: includes/frontend/class-yith-ywar-frontend.php:418
+msgctxt "[Frontend] Review sorting option"
+msgid "Best rated"
+msgstr "Mieux noté"
+
+#: includes/frontend/class-yith-ywar-frontend.php:417
+msgctxt "[Frontend] Review sorting option"
+msgid "Less recent"
+msgstr "Moins récent"
+
+#: includes/frontend/class-yith-ywar-frontend.php:416
+msgctxt "[Frontend] Review sorting option"
+msgid "Most recent"
+msgstr "Les plus récents"
+
+#: includes/frontend/class-yith-ywar-frontend.php:415
+msgctxt "[Frontend] Review sorting option"
+msgid "Default"
+msgstr "Défaut"
+
+#: includes/frontend/class-yith-ywar-frontend.php:413
+msgctxt "[Frontend] Review sorting options title"
+msgid "Sort by"
+msgstr "Trier par"
+
+#: includes/frontend/class-yith-ywar-frontend.php:387
+msgctxt "[Frontend] Review tab title"
+msgid "Most helpful reviews"
+msgstr "Critiques les plus utiles"
+
+#: includes/frontend/class-yith-ywar-frontend.php:386
+msgctxt "[Frontend] Review tab title"
+msgid "All reviews"
+msgstr "Tous les avis"
+
+#: includes/frontend/class-yith-ywar-frontend.php:350
+msgctxt "[Frontend] Attachment section title"
+msgid "Reviews with attachments"
+msgstr "Avis avec pièces jointes"
+
+#. translators: %s: reviews count
+#: includes/frontend/class-yith-ywar-frontend.php:108
+msgctxt "[Frontend] Tab title with reviews count"
+msgid "Reviews (%d)"
+msgstr "Avis (%d)"
+
+#: includes/frontend/class-yith-ywar-frontend-my-account.php:143
+msgctxt "[Frontend] My account section title"
+msgid "Reviews"
+msgstr "Avis"
+
+#. translators: %s: page
+#: includes/frontend/class-yith-ywar-frontend-my-account.php:141
+msgctxt "[Frontend] My account section title"
+msgid "Reviews (page %d)"
+msgstr "Critiques (page %d)"
+
+#: includes/frontend/class-yith-ywar-frontend-my-account.php:123
+msgctxt "[Frontend] My account menu title"
+msgid "Reviews"
+msgstr "Avis"
+
+#: includes/emails/class-yith-ywar-new-review-email.php:84
+#: includes/emails/class-yith-ywar-reported-review-email.php:78
+msgctxt "[Admin panel] Email email reply link (part of the sentence \"or edit/delete thir review\")"
+msgid "edit/delete"
+msgstr "modifier/supprimer"
+
+#: includes/emails/class-yith-ywar-new-review-email.php:83
+msgctxt "[Admin panel] Email email reply link (part of the sentence \"You can reply in the product page\")"
+msgid "reply"
+msgstr "répondre"
+
+#: includes/emails/class-yith-ywar-new-review-email.php:63
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {admin_name}, \n"
+"\n"
+"User {user_info} has written a review on the following product:\n"
+"\n"
+"{review}\n"
+"\n"
+"You can {reply_link} in the product page or {edit_link} this review through your admin panel."
+msgstr ""
+"Bonjour {admin_name},\n"
+"\n"
+"L'utilisateur {user_info} a envoyé un avis à propos du produit suivant:\n"
+"\n"
+"{review}\n"
+"\n"
+"Vous pouvez  {reply_link} sur la page produit ou {edit_link} cet avis depuis votre panneau d'administration."
+
+#: includes/emails/class-yith-ywar-new-review-email.php:61
+#: includes/emails/class-yith-ywar-new-review-email.php:62
+msgctxt "[Admin panel] Email heading/subject"
+msgid "A customer has just posted a review"
+msgstr "Un client vient de publier un avis"
+
+#: includes/emails/class-yith-ywar-new-review-email.php:59
+msgctxt "[Admin panel] Email description"
+msgid "Sent when a new review is placed"
+msgstr "Envoyé lorsqu'un nouveau avis est soumis"
+
+#: includes/emails/class-yith-ywar-new-reply-email.php:85
+msgctxt "[Admin panel] Email email reply link (part of the sentence \"You can read this reply\")"
+msgid "read this reply"
+msgstr "lire cette réponse"
+
+#: includes/emails/class-yith-ywar-new-reply-email.php:63
+msgctxt "[Admin panel] Email default message"
+msgid ""
+"Hi {customer_name}, \n"
+"\n"
+"User {user_info} has just replied to your review on {reviewed_product}\n"
+"\n"
+"{reply}\n"
+"\n"
+"You can {reply_link} in the product page."
+msgstr ""
+"Bonjour {customer_name},\n"
+"\n"
+"L'utilisateur {user_info} vient de répondre à votre avis à propos de {reviewed_product}\n"
+"\n"
+"{reply}\n"
+"\n"
+"Vous pouvez {reply_link} depuis la page produit."
+
+#: includes/emails/class-yith-ywar-new-reply-email.php:61
+#: includes/emails/class-yith-ywar-new-reply-email.php:62
+msgctxt "[Admin panel] Email heading/subject"
+msgid "Someone replied to your review!"
+msgstr "Quelqu'un a répondu à votre avis !"
+
+#: includes/emails/class-yith-ywar-new-reply-email.php:60
+msgctxt "[Admin panel] Email title"
+msgid "New reply"
+msgstr "Nouvelle réponse"
+
+#: includes/emails/class-yith-ywar-new-reply-email.php:59
+msgctxt "[Admin panel] Email description"
+msgid "Sent when a new reply is placed"
+msgstr "Envoyé lorsqu'une nouvelle réponse est placée"
+
+#: includes/emails/class-yith-ywar-email.php:741
+msgctxt "[Admin panel] Button label"
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/emails/class-yith-ywar-email.php:737
+msgctxt "[Admin panel] Setting name"
+msgid "Send test email"
+msgstr "Envoyer un courriel de test"
+
+#: includes/emails/class-yith-ywar-email.php:489
+#: includes/emails/class-yith-ywar-email.php:578
+#: includes/emails/class-yith-ywar-email.php:667
+msgctxt "[Admin panel] Option name"
+msgid "Right"
+msgstr "Droit"
+
+#: includes/emails/class-yith-ywar-email.php:488
+#: includes/emails/class-yith-ywar-email.php:577
+#: includes/emails/class-yith-ywar-email.php:666
+msgctxt "[Admin panel] Option name"
+msgid "Center"
+msgstr "Centre"
+
+#: includes/emails/class-yith-ywar-email.php:487
+#: includes/emails/class-yith-ywar-email.php:576
+#: includes/emails/class-yith-ywar-email.php:665
+msgctxt "[Admin panel] Option name"
+msgid "Left"
+msgstr "Gauche"
+
+#: includes/emails/class-yith-ywar-email.php:482
+#: includes/emails/class-yith-ywar-email.php:571
+#: includes/emails/class-yith-ywar-email.php:660
+msgctxt "[Admin panel] Setting name"
+msgid "Logo position"
+msgstr "Position du logo"
+
+#: includes/emails/class-yith-ywar-email.php:471
+#: includes/emails/class-yith-ywar-email.php:560
+#: includes/emails/class-yith-ywar-email.php:649
+msgctxt "[Admin panel] Setting name"
+msgid "Upload logo"
+msgstr "Télécharger le logo"
+
+#: includes/emails/class-yith-ywar-email.php:457
+#: includes/emails/class-yith-ywar-email.php:546
+#: includes/emails/class-yith-ywar-email.php:635
+msgctxt "[Admin panel] Option name"
+msgid "Link hover"
+msgstr "Lien en survol"
+
+#: includes/emails/class-yith-ywar-email.php:451
+#: includes/emails/class-yith-ywar-email.php:540
+#: includes/emails/class-yith-ywar-email.php:629
+msgctxt "[Admin panel] Option name"
+msgid "Link"
+msgstr "Lien"
+
+#: includes/emails/class-yith-ywar-email.php:434
+#: includes/emails/class-yith-ywar-email.php:523
+#: includes/emails/class-yith-ywar-email.php:612
+msgctxt "[Admin panel] Setting name"
+msgid "Body colors"
+msgstr "Couleurs de la carrosserie"
+
+#: includes/emails/class-yith-ywar-email.php:420
+#: includes/emails/class-yith-ywar-email.php:445
+#: includes/emails/class-yith-ywar-email.php:509
+#: includes/emails/class-yith-ywar-email.php:534
+#: includes/emails/class-yith-ywar-email.php:598
+#: includes/emails/class-yith-ywar-email.php:623
+#: modules/request-review/includes/class-yith-ywar-request-review.php:223
+#: plugin-options/general/style-options.php:27
+#: plugin-options/general/style-options.php:249
+#: plugin-options/general/style-options.php:293
+#: plugin-options/general/style-options.php:320
+msgctxt "[Admin panel] Option name"
+msgid "Text"
+msgstr "Texte"
+
+#: includes/emails/class-yith-ywar-email.php:414
+#: includes/emails/class-yith-ywar-email.php:439
+#: includes/emails/class-yith-ywar-email.php:503
+#: includes/emails/class-yith-ywar-email.php:528
+#: includes/emails/class-yith-ywar-email.php:592
+#: includes/emails/class-yith-ywar-email.php:617
+#: modules/request-review/includes/class-yith-ywar-request-review.php:217
+#: plugin-options/general/style-options.php:17
+#: plugin-options/general/style-options.php:117
+#: plugin-options/general/style-options.php:171
+#: plugin-options/general/style-options.php:193
+#: plugin-options/general/style-options.php:239
+#: plugin-options/general/style-options.php:288
+#: plugin-options/general/style-options.php:315
+msgctxt "[Admin panel] Option name"
+msgid "Background"
+msgstr "Contexte"
+
+#: includes/emails/class-yith-ywar-email.php:409
+#: includes/emails/class-yith-ywar-email.php:498
+#: includes/emails/class-yith-ywar-email.php:587
+msgctxt "[Admin panel] Setting name"
+msgid "Header colors"
+msgstr "Couleurs de l'en-tête"
+
+#: includes/emails/class-yith-ywar-email.php:403
+msgctxt "[Admin panel] Option name"
+msgid "Style #3"
+msgstr "Style #3"
+
+#: includes/emails/class-yith-ywar-email.php:402
+msgctxt "[Admin panel] Option name"
+msgid "Style #2"
+msgstr "Style #2"
+
+#: includes/emails/class-yith-ywar-email.php:401
+msgctxt "[Admin panel] Option name"
+msgid "Style #1"
+msgstr "Style #1"
+
+#: includes/emails/class-yith-ywar-email.php:400
+msgctxt "[Admin panel] Option name"
+msgid "WooCommerce template"
+msgstr "Modèle WooCommerce"
+
+#: includes/emails/class-yith-ywar-email.php:395
+msgctxt "[Admin panel] Setting name"
+msgid "Email style"
+msgstr "Style d'e-mail"
+
+#: includes/emails/class-yith-ywar-email.php:318
+#: includes/emails/class-yith-ywar-email.php:725
+msgctxt "[Admin panel] Setting name"
+msgid "Email type"
+msgstr "Type d'email"
+
+#: includes/emails/class-yith-ywar-email.php:312
+#: includes/emails/class-yith-ywar-email.php:704
+msgctxt "[Admin panel] Email placeholder text"
+msgid "Available placeholders"
+msgstr "Les espaces réservés disponibles"
+
+#: includes/emails/class-yith-ywar-email.php:308
+#: includes/emails/class-yith-ywar-email.php:700
+#: includes/emails/class-yith-ywar-email.php:897
+#: includes/emails/class-yith-ywar-email.php:993
+msgctxt "[Admin panel] Restore button text"
+msgid "Restore default message"
+msgstr "Rétablir le message par défaut"
+
+#: includes/emails/class-yith-ywar-email.php:307
+#: includes/emails/class-yith-ywar-email.php:699
+msgctxt "[Admin panel] Edit button text"
+msgid "Edit message"
+msgstr "Modifier le message"
+
+#: includes/emails/class-yith-ywar-email.php:299
+#: includes/emails/class-yith-ywar-email.php:692
+msgctxt "[Admin panel] Setting name"
+msgid "Message"
+msgstr "Message"
+
+#: includes/emails/class-yith-ywar-email.php:293
+#: includes/emails/class-yith-ywar-email.php:683
+msgctxt "[Admin panel] Setting name"
+msgid "Email heading"
+msgstr "Intitulé de l'e-mail"
+
+#: includes/emails/class-yith-ywar-email.php:287
+#: includes/emails/class-yith-ywar-email.php:717
+msgctxt "[Admin panel] Setting name"
+msgid "Subject"
+msgstr "Sujet"
+
+#: includes/emails/class-yith-ywar-email.php:283
+msgctxt "[Admin panel] Setting description"
+msgid "Enable this email notification"
+msgstr "Activer cette notification par courriel"
+
+#: includes/emails/class-yith-ywar-email.php:281
+msgctxt "[Admin panel] Setting name"
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+#: includes/data-stores/class-yith-ywar-review-data-store.php:181
+msgctxt "[Error log] error message"
+msgid "Invalid review."
+msgstr "Avis non valide."
+
+#: includes/data-stores/class-yith-ywar-review-box-data-store.php:123
+msgctxt "[Error log] Error message"
+msgid "Invalid review box."
+msgstr "Boîte d'avis invalide."
+
+#: includes/class-yith-ywar-shortcodes.php:144
+#: includes/class-yith-ywar-shortcodes.php:231
+msgctxt "[Gutenberg] block description"
+msgid "With this block you can print all the reviews written by the current user"
+msgstr "Ce bloc vous permet d’afficher tous les avis rédigés par l'utilisateur actuel"
+
+#: includes/class-yith-ywar-shortcodes.php:143
+#: includes/class-yith-ywar-shortcodes.php:230
+msgctxt "[Gutenberg] block name"
+msgid "Current user reviews"
+msgstr "Avis des utilisateurs actuels"
+
+#: includes/class-yith-ywar-shortcodes.php:125
+msgctxt "[Gutenberg] block error message"
+msgid "You must provide a valid Product ID"
+msgstr "Vous devez fournir un numéro d'identification du produit valide"
+
+#: includes/class-yith-ywar-shortcodes.php:97
+#: includes/class-yith-ywar-shortcodes.php:214
+msgctxt "[Gutenberg] block description"
+msgid "With this block you can print the reviews of a product with the insert form"
+msgstr "Ce bloc vous permet d’afficher les avis d'un produit avec le formulaire d’ajout"
+
+#: includes/class-yith-ywar-shortcodes.php:96
+#: includes/class-yith-ywar-shortcodes.php:213
+msgctxt "[Gutenberg] block name"
+msgid "Reviews with form"
+msgstr "Avis avec formulaire"
+
+#: includes/class-yith-ywar-shortcodes.php:90
+#: includes/class-yith-ywar-shortcodes.php:207
+msgctxt "[Gutenberg] block option field"
+msgid "Hide replies"
+msgstr "Masquer les réponses"
+
+#: includes/class-yith-ywar-shortcodes.php:85
+#: includes/class-yith-ywar-shortcodes.php:202
+msgctxt "[Gutenberg] block option field"
+msgid "Hide attachments"
+msgstr "Cacher les pièces jointes"
+
+#: includes/class-yith-ywar-shortcodes.php:80
+#: includes/class-yith-ywar-shortcodes.php:197
+msgctxt "[Gutenberg] block option field"
+msgid "Hide action buttons (Edit, Reply, Helpful, Report)"
+msgstr "Masquer les boutons d'action (Modifier, Répondre, Aider, Signaler)"
+
+#: includes/class-yith-ywar-shortcodes.php:75
+#: includes/class-yith-ywar-shortcodes.php:192
+msgctxt "[Gutenberg] block option field"
+msgid "Enable pagination"
+msgstr "Activer la pagination"
+
+#: includes/class-yith-ywar-shortcodes.php:70
+#: includes/class-yith-ywar-shortcodes.php:187
+msgctxt "[Gutenberg] block option field"
+msgid "Reviews per page"
+msgstr "Avis par page"
+
+#: includes/class-yith-ywar-shortcodes.php:65
+#: includes/class-yith-ywar-shortcodes.php:136
+#: includes/class-yith-ywar-shortcodes.php:182
+#: includes/class-yith-ywar-shortcodes.php:223
+msgctxt "[Gutenberg] block option field"
+msgid "Product ID"
+msgstr "ID du produit"
+
+#: includes/class-yith-ywar-shortcodes.php:52
+#: includes/class-yith-ywar-shortcodes.php:172
+msgctxt "[Gutenberg] block description"
+msgid "With this block you can print the reviews of a product or all reviews with different options"
+msgstr "Ce bloc vous permet d'afficher les avis d'un produit ou tous les avis avec différentes options"
+
+#: includes/class-yith-ywar-shortcodes.php:51
+#: includes/class-yith-ywar-shortcodes.php:171
+msgctxt "[Gutenberg] block name"
+msgid "Reviews"
+msgstr "Avis"
+
+#. translators: %s BR tag
+#: includes/class-yith-ywar-reports.php:129
+msgctxt "[Admin panel] Empty message"
+msgid "There are no reviews%sreported yet."
+msgstr "Il n'y a pas encore d'avis%ssignalés."
+
+#: includes/class-yith-ywar-reports.php:125
+msgctxt "[Admin panel] Report widget title"
+msgid "Last reported reviews"
+msgstr "Derniers avis signalés"
+
+#. translators: %s BR tag
+#: includes/class-yith-ywar-reports.php:121
+msgctxt "[Admin panel] Empty message"
+msgid "No user has left a review yet."
+msgstr "Aucun utilisateur n'a encore laissé d'avis."
+
+#: includes/class-yith-ywar-reports.php:117
+msgctxt "[Admin panel] Report widget title"
+msgid "Most active users"
+msgstr "Utilisateurs les plus actifs"
+
+#: includes/class-yith-ywar-reports.php:109
+msgctxt "[Admin panel] Report widget title"
+msgid "Products with lower number of reviews"
+msgstr "Produits avec un nombre inférieur d'avis"
+
+#: includes/class-yith-ywar-reports.php:101
+msgctxt "[Admin panel] Report widget title"
+msgid "Products with higher number of reviews"
+msgstr "Produits avec le plus grand nombre d'avis"
+
+#: includes/class-yith-ywar-reports.php:93
+msgctxt "[Admin panel] Report widget title"
+msgid "Worst rated products"
+msgstr "Produits les plus mal notés"
+
+#: includes/class-yith-ywar-reports.php:85
+msgctxt "[Admin panel] Report widget title"
+msgid "Best rated products"
+msgstr "Produits les mieux notés"
+
+#. translators: %s BR tag
+#: includes/class-yith-ywar-reports.php:81
+#: includes/class-yith-ywar-reports.php:89
+#: includes/class-yith-ywar-reports.php:97
+#: includes/class-yith-ywar-reports.php:105
+#: includes/class-yith-ywar-reports.php:113
+msgctxt "[Admin panel] Empty message"
+msgid "There are no reviews%sfor your products yet."
+msgstr "Il n'y a pas encore d'avis%sur vos produits."
+
+#: includes/class-yith-ywar-reports.php:77
+msgctxt "[Admin panel] Report widget title"
+msgid "Last reviews"
+msgstr "Dernières critiques"
+
+#: includes/class-yith-ywar-reports.php:60
+msgctxt "[Admin panel] Report widget title"
+msgid "Average rating"
+msgstr "Note moyenne"
+
+#: includes/class-yith-ywar-reports.php:55
+msgctxt "[Admin panel] Report widget title"
+msgid "Review reminders sent"
+msgstr "Envoi de rappels d'avis"
+
+#: includes/class-yith-ywar-reports.php:50
+msgctxt "[Admin panel] Report widget title"
+msgid "Total reviews"
+msgstr "Nombre total d'avis"
+
+#: includes/class-yith-ywar-privacy.php:322
+#: modules/request-review/includes/functions.php:257
+msgctxt "[Global] text for GDPR exporter or eraser and for order page send box description"
+msgid "This customer doesn't want to receive any more review reminders."
+msgstr "Ce client ne souhaite plus recevoir de rappels d'avis."
+
+#: includes/class-yith-ywar-privacy.php:321
+#: modules/request-review/options/request-review-blocklist.php:18
+#: plugin-options/request-review-options.php:26
+msgctxt "[Admin panel] Section name"
+msgid "Blocklist"
+msgstr "Liste de blocage"
+
+#: includes/class-yith-ywar-privacy.php:317
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Review reminder status"
+msgstr "Vérifier l'état des rappels"
+
+#: includes/class-yith-ywar-privacy.php:273
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Scheduled review reminders"
+msgstr "Rappels d'avis programmés"
+
+#. translators: %s order/booking number
+#: includes/class-yith-ywar-privacy.php:258
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Order #$s"
+msgstr "N° de commande"
+
+#. translators: %s order/booking number
+#: includes/class-yith-ywar-privacy.php:258
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Booking #$s"
+msgstr "Réservation #$s"
+
+#: includes/class-yith-ywar-privacy.php:231
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Scheduled email date"
+msgstr "Date de l'e-mail programmé"
+
+#: includes/class-yith-ywar-privacy.php:230
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Completed order date"
+msgstr "Date d'achèvement de la commande"
+
+#: includes/class-yith-ywar-privacy.php:229
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Items to review"
+msgstr "Points à examiner"
+
+#: includes/class-yith-ywar-privacy.php:228
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Item"
+msgstr "Objet"
+
+#: includes/class-yith-ywar-privacy.php:150
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Reviews and Replies written"
+msgstr "Critiques et réponses écrites"
+
+#: includes/class-yith-ywar-privacy.php:120
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Title"
+msgstr "Titre"
+
+#: includes/class-yith-ywar-privacy.php:118
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Author IP"
+msgstr "Auteur IP"
+
+#: includes/class-yith-ywar-privacy.php:117
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Author email"
+msgstr "Courriel de l'auteur"
+
+#: includes/class-yith-ywar-privacy.php:116
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/class-yith-ywar-privacy.php:69
+#: includes/class-yith-ywar-privacy.php:352
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Review reminder module blocklist"
+msgstr "Liste de blocage du module de rappel d'avis"
+
+#: includes/class-yith-ywar-privacy.php:65
+#: includes/class-yith-ywar-privacy.php:348
+msgctxt "[Admin panel] text for GDPR exporter or eraser"
+msgid "Review reminder module scheduled emails"
+msgstr "Module de rappel des courriels programmés"
+
+#: includes/class-yith-ywar-post-types.php:374
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Criteria list navigation"
+msgstr "Navigation dans la liste des critères"
+
+#: includes/class-yith-ywar-post-types.php:373
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Criteria list"
+msgstr "Liste des critères"
+
+#: includes/class-yith-ywar-post-types.php:372
+msgctxt "[Admin panel] Taxonomy label"
+msgid "No criteria"
+msgstr "Aucun critère"
+
+#: includes/class-yith-ywar-post-types.php:371
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Not found"
+msgstr "Non trouvé"
+
+#: includes/class-yith-ywar-post-types.php:370
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Search criteria"
+msgstr "Critères de recherche"
+
+#: includes/class-yith-ywar-post-types.php:369
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Popular criteria"
+msgstr "Critères populaires"
+
+#: includes/class-yith-ywar-post-types.php:368
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Choose from the most used criteria"
+msgstr "Choisissez parmi les critères les plus utilisés"
+
+#: includes/class-yith-ywar-post-types.php:367
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Add or remove criteria"
+msgstr "Ajouter ou supprimer des critères"
+
+#: includes/class-yith-ywar-post-types.php:366
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Separate items with commas"
+msgstr "Séparez les éléments par des virgules"
+
+#: includes/class-yith-ywar-post-types.php:365
+msgctxt "[Admin panel] Taxonomy label"
+msgid "View criterion"
+msgstr "Voir le critère"
+
+#: includes/class-yith-ywar-post-types.php:364
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Update criterion"
+msgstr "Critère de mise à jour"
+
+#: includes/class-yith-ywar-post-types.php:363
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Edit criterion"
+msgstr "Critère d'édition"
+
+#: includes/class-yith-ywar-post-types.php:362
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Add new criterion"
+msgstr "Ajouter un nouveau critère"
+
+#: includes/class-yith-ywar-post-types.php:361
+msgctxt "[Admin panel] Taxonomy label"
+msgid "New criterion"
+msgstr "Nouveau critère"
+
+#: includes/class-yith-ywar-post-types.php:360
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Parent criterion:"
+msgstr "Critère de parenté :"
+
+#: includes/class-yith-ywar-post-types.php:359
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Parent criterion"
+msgstr "Critère de parenté"
+
+#: includes/class-yith-ywar-post-types.php:358
+msgctxt "[Admin panel] Taxonomy label"
+msgid "All criteria"
+msgstr "Tous les critères"
+
+#: includes/class-yith-ywar-post-types.php:356
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Criterion"
+msgstr "Critère"
+
+#: includes/class-yith-ywar-post-types.php:355
+#: includes/class-yith-ywar-post-types.php:357
+msgctxt "[Admin panel] Taxonomy label"
+msgid "Criteria"
+msgstr "Critères"
+
+#: includes/class-yith-ywar-post-types.php:148
+#: includes/class-yith-ywar-post-types.php:154
+#: includes/functions-yith-ywar-reviews.php:22
+msgctxt "[Admin panel] Review status label with plurals"
+msgid "Spam"
+msgid_plural "Spam"
+msgstr[0] "Spam"
+msgstr[1] "Spam"
+
+#: includes/class-yith-ywar-post-types.php:147
+#: includes/class-yith-ywar-post-types.php:153
+#: includes/functions-yith-ywar-reviews.php:21
+msgctxt "[Admin panel] Review status label with plurals"
+msgid "Approved"
+msgid_plural "Approved"
+msgstr[0] "Approuvé"
+msgstr[1] "Approuvés"
+
+#: includes/class-yith-ywar-post-types.php:146
+#: includes/class-yith-ywar-post-types.php:152
+#: includes/functions-yith-ywar-reviews.php:20
+msgctxt "[Admin panel] Review status label with plurals"
+msgid "Reported"
+msgid_plural "Reported"
+msgstr[0] "Signalé"
+msgstr[1] "Signalés"
+
+#: includes/class-yith-ywar-post-types.php:145
+#: includes/class-yith-ywar-post-types.php:151
+#: includes/functions-yith-ywar-reviews.php:19
+msgctxt "[Admin panel] Review status label with plurals"
+msgid "Pending"
+msgid_plural "Pending"
+msgstr[0] "En attente de validation"
+msgstr[1] "En attente de validation"
+
+#: includes/class-yith-ywar-post-types.php:113
+msgctxt "[Admin panel] Post type label"
+msgid "Search review box"
+msgstr "Champs de recherche d'avis"
+
+#: includes/class-yith-ywar-post-types.php:112
+msgctxt "[Admin panel] Post type label"
+msgid "View review box"
+msgstr "Voir la boîte d'avis"
+
+#: includes/class-yith-ywar-post-types.php:111
+msgctxt "[Admin panel] Post type label"
+msgid "Edit review box"
+msgstr "Champs d'édition de l'avis"
+
+#: includes/class-yith-ywar-post-types.php:110
+msgctxt "[Admin panel] Post type label"
+msgid "New review box"
+msgstr "Champs de nouvel avis"
+
+#: includes/class-yith-ywar-post-types.php:109
+msgctxt "[Admin panel] Post type label"
+msgid "Add review box"
+msgstr "Ajouter une boîte d'avis"
+
+#: includes/class-yith-ywar-post-types.php:108
+msgctxt "[Admin panel] Post type label"
+msgid "Add new review boxes"
+msgstr "Ajouter de nouveaux champs d'avis"
+
+#: includes/class-yith-ywar-post-types.php:107
+msgctxt "[Admin panel] Post type label"
+msgid "Review box"
+msgstr "Boîte d'avis"
+
+#: includes/class-yith-ywar-post-types.php:82
+#: includes/class-yith-ywar-post-types.php:115
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:201
+msgctxt "[Admin panel] Post type label"
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: includes/class-yith-ywar-post-types.php:81
+#: includes/class-yith-ywar-post-types.php:114
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:200
+msgctxt "[Admin panel] Post type label"
+msgid "Not found"
+msgstr "Non trouvé"
+
+#: includes/class-yith-ywar-post-types.php:80
+msgctxt "[Admin panel] Post type label"
+msgid "Search review"
+msgstr "Rechercher"
+
+#: includes/class-yith-ywar-post-types.php:79
+msgctxt "[Admin panel] Post type label"
+msgid "View review"
+msgstr "Voir la revue"
+
+#: includes/class-yith-ywar-post-types.php:78
+msgctxt "[Admin panel] Post type label"
+msgid "Edit review"
+msgstr "Editer la revue"
+
+#: includes/class-yith-ywar-post-types.php:77
+#: includes/emails/class-yith-ywar-new-review-email.php:60
+msgctxt "[Admin panel] Post type label and email title"
+msgid "New review"
+msgstr "Nouvel avis"
+
+#: includes/class-yith-ywar-post-types.php:76
+msgctxt "[Admin panel] Post type label"
+msgid "Add review"
+msgstr "Ajouter un avis"
+
+#: includes/class-yith-ywar-post-types.php:75
+msgctxt "[Admin panel] Post type label"
+msgid "Add new review"
+msgstr "Ajouter un nouveau avis"
+
+#: includes/class-yith-ywar-post-types.php:74
+#: views/frontend/my-account/user-reviews.php:23
+#: views/frontend/my-account/user-reviews.php:80
+msgctxt "[Global] Generic text. It refers to the single review"
+msgid "Review"
+msgstr "Avis"
+
+#: includes/class-yith-ywar-install.php:290
+msgctxt "[Admin panel] Default Review box name"
+msgid "General"
+msgstr "Général"
+
+#. translators: %s maximum video size
+#: includes/class-yith-ywar-assets.php:359
+msgctxt "[Frontend] Too big videos error message"
+msgid "Videos cannot be bigger than %sMB. The following videos will not be uploaded"
+msgstr "Les vidéos ne peuvent pas dépasser %sMB. Les vidéos suivantes ne seront pas téléchargées"
+
+#. translators: %s maximum image size
+#: includes/class-yith-ywar-assets.php:357
+msgctxt "[Frontend] Too big images error message"
+msgid "Images cannot be bigger than %sMB. The following images will not be uploaded"
+msgstr "Les images ne peuvent pas dépasser %sMB. Les images suivantes ne seront pas téléchargées"
+
+#. translators: %s maximum video number
+#: includes/class-yith-ywar-assets.php:355
+msgctxt "[Frontend] Too many videos error message"
+msgid "You cannot upload more than %s videos. The following videos will not be uploaded"
+msgstr "Vous ne pouvez pas charger plus de %s vidéos. Les vidéos suivantes ne seront pas téléchargées"
+
+#. translators: %s maximum image number
+#: includes/class-yith-ywar-assets.php:353
+msgctxt "[Frontend] Too many images error message"
+msgid "You cannot upload more than %s images. The following images will not be uploaded"
+msgstr "Vous ne pouvez pas télécharger plus de %s images. Les images suivantes ne seront pas téléchargées"
+
+#: includes/class-yith-ywar-assets.php:351
+msgctxt "[Frontend] Missing recaptcha error message"
+msgid "You must do the reCaptcha!"
+msgstr "Vous devez faire le reCaptcha !"
+
+#: includes/class-yith-ywar-assets.php:350
+msgctxt "[Frontend] Missing rating error message"
+msgid "You must select a rating!"
+msgstr "Vous devez choisir une note !"
+
+#: includes/class-yith-ywar-assets.php:349
+msgctxt "[Frontend] Mandatory field error message"
+msgid "This is a mandatory field!"
+msgstr "Ce champ est obligatoire !"
+
+#: includes/class-yith-ywar-assets.php:320
+#: includes/class-yith-ywar-assets.php:325
+#: modules/request-review/includes/class-yith-ywar-request-review.php:91
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: includes/class-yith-ywar-assets.php:318
+#: includes/class-yith-ywar-assets.php:323
+msgctxt "[Admin panel] Modal title"
+msgid "New criterion"
+msgstr "Nouveau critère"
+
+#: includes/class-yith-ywar-assets.php:314
+msgctxt "[Admin panel] Modal message"
+msgid "Are you sure you want to delete this criterion?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce critère ?"
+
+#: includes/class-yith-ywar-assets.php:313
+msgctxt "[Admin panel] Modal title"
+msgid "Delete criterion"
+msgstr "Supprimer le critère"
+
+#: includes/class-yith-ywar-assets.php:310
+#: includes/class-yith-ywar-assets.php:315
+#: modules/migration-tools/includes/class-yith-ywar-migration-tools.php:253
+#: modules/request-review/includes/class-yith-ywar-request-review.php:61
+#: modules/request-review/includes/class-yith-ywar-request-review.php:66
+#: modules/request-review/includes/class-yith-ywar-request-review.php:71
+#: modules/request-review/includes/class-yith-ywar-request-review.php:81
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Yes, proceed."
+msgstr "Oui, procédez."
+
+#: includes/class-yith-ywar-assets.php:309
+msgctxt "[Admin panel] Modal message"
+msgid "Are you sure you want to delete this review box?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette boîte d'avis ?"
+
+#: includes/class-yith-ywar-assets.php:308
+msgctxt "[Admin panel] Modal title"
+msgid "Delete review box"
+msgstr "Supprimer la boîte d'avis"
+
+#: includes/class-yith-ywar-assets.php:304
+msgctxt "[Admin panel] Error message"
+msgid "This field is required!"
+msgstr "Ce champ est obligatoire !"
+
+#: includes/class-yith-ywar-assets.php:303
+msgctxt "[Admin panel] Error message"
+msgid "An error occurred while sending the email."
+msgstr "Une erreur s'est produite lors de l'envoi du courriel."
+
+#: includes/class-yith-ywar-assets.php:302
+#: includes/class-yith-ywar-assets.php:348
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:512
+msgctxt "[Global] Generic error message"
+msgid "Please insert a valid email address."
+msgstr "Veuillez insérer une adresse électronique valide."
+
+#: includes/class-yith-ywar-assets.php:301
+msgctxt "[Admin panel] Success message"
+msgid "Test email has been sent successfully!"
+msgstr "Le courriel de test a été envoyé avec succès !"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1459
+#: views/panel/fields/yith-ywar-attachments.php:25
+msgctxt "[Admin panel] button label"
+msgid "Delete attachment"
+msgstr "Supprimer la pièce jointe"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1262
+msgctxt "[Admin panel] Button label"
+msgid "Save review"
+msgstr "Sauvegarder l'avis"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1259
+msgctxt "[Admin panel] Button label"
+msgid "Update review"
+msgstr "Mise à jour du bilan"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1235
+msgctxt "[Admin panel] Setting name"
+msgid "Set status"
+msgstr "Définir l'état"
+
+#. translators: %s number of upvotes
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1206
+msgctxt "[Admin panel] Setting description"
+msgid "%s person found this review inappropriate"
+msgid_plural "%s people found this review inappropriate"
+msgstr[0] "%s personne a trouvé cet avis inapproprié"
+msgstr[1] "%s personnes ont trouvé cet avis inapproprié "
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1203
+msgctxt "[Admin panel] Setting name"
+msgid "Reportings"
+msgstr "Rapports"
+
+#. translators: %s number of upvotes
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1195
+msgctxt "[Admin panel] Setting description"
+msgid "%s person found this review helpful"
+msgid_plural "%s people found this review helpful"
+msgstr[0] "%s personne a trouvé cet avis utile "
+msgstr[1] "%s personnes ont trouvé cet avis utile"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1192
+msgctxt "[Admin panel] Setting name"
+msgid "Upvotes"
+msgstr "Appréciations"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1166
+msgctxt "[Admin panel] Setting name"
+msgid "Reviewed product"
+msgstr "Produit examiné"
+
+#. translators: %1$s opening tag, %2$s closing tag
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1143
+msgctxt "[Admin panel] Setting description"
+msgid "You are replying to %1$sa review%2$s on the following product: %3$s"
+msgstr "Vous répondez à %1$sa critique%2$s sur le produit suivant : %3$s"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1092
+msgctxt "[Admin panel] Setting name"
+msgid "Product to review"
+msgstr "Produit à revoir"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1018
+msgctxt "[Admin panel] Setting description"
+msgid "Prevent the user from editing this review."
+msgstr "Empêcher l'utilisateur de modifier cet avis."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1015
+msgctxt "[Admin panel] Setting name"
+msgid "Block review editing"
+msgstr "Interdir l'édition d'avis"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1011
+msgctxt "[Admin panel] Setting description"
+msgid "Prevent other users from replying to this review."
+msgstr "Empêcher les autres utilisateurs de répondre à cet avis."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1008
+msgctxt "[Admin panel] Setting name"
+msgid "Block replies"
+msgstr "Le bloc répond"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:997
+msgctxt "[Admin panel] Setting description"
+msgid "Set the review as featured. This will make the review appear before all other reviews."
+msgstr "Définissez la revue comme étant en vedette. L'avis apparaîtra ainsi avant tous les autres avis."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:994
+msgctxt "[Admin panel] Setting name"
+msgid "Set as featured"
+msgstr "En vedette"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:990
+msgctxt "[Admin panel] Setting description"
+msgid "Set the review as helpful. This will display the review in the \"Most helpful reviews\" tab, if enabled."
+msgstr "Définissez l'avis comme utile. Cela affichera l'avis dans l'onglet \"Avis les plus utiles\", si cette option est activée."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:988
+msgctxt "[Admin panel] Setting name"
+msgid "Set as helpful"
+msgstr "Définir comme utile"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:941
+msgctxt "[Admin panel] Setting name"
+msgid "Custom avatar"
+msgstr "Avatar personnalisé"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:934
+#: views/settings-tabs/html-emails.php:12
+msgctxt "[Admin panel] Column name - Setting name"
+msgid "Email"
+msgstr "Courriel"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:907
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:921
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1547
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:107
+#: views/settings-tabs/reports/lists/most-active-users.php:25
+msgctxt "[Admin panel] label to use when the user is not registered"
+msgid "Guest user"
+msgstr "Utilisateur invité"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:878
+msgctxt "[Admin panel] Setting name"
+msgid "Review content"
+msgstr "Réviser le contenu"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:872
+msgctxt "[Admin panel] Setting name"
+msgid "Review title (optional)"
+msgstr "Titre de l'avis (facultatif)"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:809
+msgctxt "[Admin panel] Review status label"
+msgid "Pending"
+msgstr "En attente"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:805
+msgctxt "[Admin panel] Review status label"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:802
+msgctxt "[Admin panel] Review status label"
+msgid "Reported"
+msgstr "Signalé"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:799
+msgctxt "[Admin panel] Review status label"
+msgid "Approved"
+msgstr "Approuvé"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:784
+msgctxt "[Admin panel] Metabox title"
+msgid "Review status"
+msgstr "État de l'avis"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:783
+msgctxt "[Admin panel] Metabox title"
+msgid "Review info"
+msgstr "Informations sur l'avis"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:782
+msgctxt "[Admin panel] Metabox title"
+msgid "Review files"
+msgstr "Examiner les dossiers"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:781
+msgctxt "[Admin panel] Metabox title"
+msgid "Review author"
+msgstr "Auteur de la revue"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:780
+msgctxt "[Admin panel] Metabox title"
+msgid "Review options"
+msgstr "Examiner les options"
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:690
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review restored from the Trash."
+msgid_plural "%s reviews restored from the Trash."
+msgstr[0] "%s avis restauré à partir de la corbeille."
+msgstr[1] "%s avis restaurés à partir de la corbeille."
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:688
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review moved to the Trash."
+msgid_plural "%s reviews moved to the Trash."
+msgstr[0] "%s avis placé dans la corbeille."
+msgstr[1] "%s avis placés dans la corbeille."
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:686
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review permanently deleted."
+msgid_plural "%s reviews permanently deleted."
+msgstr[0] "%s avis supprimé définitivement."
+msgstr[1] "%s avis supprimés définitivement."
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:680
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review updated."
+msgid_plural "%s reviews updated."
+msgstr[0] "%s avis mis à jour."
+msgstr[1] "%s avis mis à jour."
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:676
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review unapproved."
+msgid_plural "%s reviews unapproved."
+msgstr[0] "%s avis rejeté."
+msgstr[1] "%s avis rejetés."
+
+#. translators: %s: Number of review.
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:672
+msgctxt "[Admin panel] bulk action message"
+msgid "%s review approved."
+msgid_plural "%s reviews approved."
+msgstr[0] "%s avis approuvé."
+msgstr[1] "%s avis approuvés."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:624
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1255
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Yes, move to trash"
+msgstr "Oui, déplacer vers la poubelle"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:623
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1254
+msgctxt "[Admin panel] Modal message"
+msgid "Are you sure you want to trash this review?"
+msgstr "Êtes-vous sûr de vouloir jeter cet article à la poubelle ?"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:622
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1253
+msgctxt "[Admin panel] Modal title"
+msgid "Confirm trash"
+msgstr "Confirmer la poubelle"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:618
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1260
+msgctxt "[Admin panel] action name"
+msgid "Move to trash"
+msgstr "Déplacer vers la poubelle"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:610
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:648
+msgctxt "[Admin panel] action name"
+msgid "Approve"
+msgstr "Approuver"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:610
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:649
+msgctxt "[Admin panel] action name"
+msgid "Unapprove"
+msgstr "Désapprouver"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:605
+msgctxt "[Global] Review view product button"
+msgid "View product"
+msgstr "Voir le produit"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:593
+#: includes/frontend/class-yith-ywar-frontend.php:1473
+#: includes/functions-yith-ywar-frontend.php:33
+msgctxt "[Global] Review reply button"
+msgid "Reply"
+msgstr "Répondre"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:588
+msgctxt "[Admin panel] action name"
+msgid "View/Edit"
+msgstr "Voir/Modifier"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:570
+msgctxt "[Admin panel] Modal confirm button text"
+msgid "Yes, delete"
+msgstr "Oui, supprimer"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:569
+msgctxt "[Admin panel] modal message"
+msgid "Are you sure you want to delete this review?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet avis ?"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:568
+msgctxt "[Admin panel] Modal title"
+msgid "Confirm delete"
+msgstr "Confirmer la suppression"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:564
+msgctxt "[Admin panel] action name"
+msgid "Delete permanently"
+msgstr "Supprimer définitivement"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:559
+msgctxt "[Admin panel] action name"
+msgid "Restore"
+msgstr "Restaurer"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:556
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:585
+msgctxt "[Admin panel] Action menu title"
+msgid "Manage"
+msgstr "Gérer"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:488
+#: views/frontend/my-account/user-reviews.php:62
+msgctxt "[Admin panel] Abbrevation for \"average\""
+msgid "avg."
+msgstr "moyenne."
+
+#. translators: %s link to parent review
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:457
+#: views/frontend/review.php:67
+msgctxt "[Global] Indicates the user to whom the review is addressed"
+msgid "In reply to: %s"
+msgstr "En réponse à : %s"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:434
+msgctxt "[Admin panel] Displayed in reviews list if the review text is longer than 100 characters"
+msgid "Hide"
+msgstr "Cachez"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:433
+msgctxt "[Admin panel] Displayed in reviews list if the review text is longer than 100 characters"
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:407
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1160
+#: includes/class-yith-ywar-privacy.php:251
+#: views/frontend/my-account/user-reviews.php:50
+#: views/frontend/review.php:36
+#: views/settings-tabs/reports/lists/last-reviews.php:25
+#: views/settings-tabs/reports/lists/rating-count.php:17
+#: views/settings-tabs/reports/lists/review-count.php:17
+msgctxt "[Admin panel] Generic label for products reviewed that were deleted"
+msgid "Deleted product"
+msgstr "Produit supprimé"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:381
+#: includes/class-yith-ywar-privacy.php:232
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:58
+msgctxt "[Admin panel] column name"
+msgid "Status"
+msgstr "Statut"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:380
+#: includes/class-yith-ywar-privacy.php:119
+msgctxt "[Admin panel] Column name and text for GDPR exporter or eraser"
+msgid "Date"
+msgstr "Date"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:379
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1038
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1046
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1492
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:1506
+#: includes/class-yith-ywar-privacy.php:122
+#: views/frontend/edit-form/edit-form.php:50
+#: views/frontend/my-account/user-reviews.php:22
+#: views/frontend/my-account/user-reviews.php:56
+msgctxt "[Global] Generic text"
+msgid "Rating"
+msgstr "Evaluation"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:378
+#: includes/class-yith-ywar-privacy.php:121
+msgctxt "[Admin panel] Column name and text for GDPR exporter or eraser"
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:377
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:911
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:917
+msgctxt "[Admin panel] Column and setting name"
+msgid "User"
+msgstr "Utilisateur"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:353
+msgctxt "[Admin panel] Button Label"
+msgid "Create review"
+msgstr "Créer une revue"
+
+#. translators: %s BR tag
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:351
+msgctxt "[Admin panel] Empty state text"
+msgid "No customer reviews yet.%sCreate your first review and publish it!"
+msgstr "Il n'y a pas encore d'avis de clients.%sCréez votre premier avis et publiez-le !"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:329
+msgctxt "[Admin panel] Post updated message"
+msgid "Review draft updated."
+msgstr "Brouillon de l'avis mis à jour."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:328
+msgctxt "[Admin panel] Post updated message"
+msgid "Review submitted."
+msgstr "Avis soumis."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:327
+msgctxt "[Admin panel] Post updated message"
+msgid "Review saved."
+msgstr "L'avis a été sauvegardé."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:326
+msgctxt "[Admin panel] Post updated message"
+msgid "Review created."
+msgstr "Avis créé."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:324
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:325
+msgctxt "[Admin panel] Post updated message"
+msgid "Review updated."
+msgstr "Avis mis à jour."
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:212
+msgctxt "[Admin panel] Filter placheholder"
+msgid "Search by username or email"
+msgstr "Recherche par nom d'utilisateur ou courriel"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:201
+msgctxt "[Global] Ajax field placeholder"
+msgid "Search for a product"
+msgstr "Recherche d'un produit"
+
+#. translators: %s amount of stars
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:185
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:187
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:189
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:191
+#: includes/frontend/class-yith-ywar-frontend.php:595
+#: includes/frontend/class-yith-ywar-frontend.php:597
+#: includes/frontend/class-yith-ywar-frontend.php:599
+#: includes/frontend/class-yith-ywar-frontend.php:601
+msgctxt "[Global] Rating description"
+msgid "%s stars"
+msgstr "Étoiles %s"
+
+#. translators: %s amount of stars
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:183
+#: includes/frontend/class-yith-ywar-frontend.php:593
+msgctxt "[Global] Rating description"
+msgid "%s star"
+msgstr "%s star"
+
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:181
+msgctxt "[Global] Rating description"
+msgid "All ratings"
+msgstr "Tous les classements"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:351
+msgctxt "[Admin panel] Review box setting option"
+msgid "Most helpful reviews tab"
+msgstr "Onglet des avis les plus utiles"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:350
+msgctxt "[Admin panel] Review box setting option"
+msgid "Vote reviews as helpful"
+msgstr "Votez les avis comme étant utiles"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:349
+msgctxt "[Admin panel] Review box setting option"
+msgid "Sorting options"
+msgstr "Options de tri"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:348
+msgctxt "[Admin panel] Review box setting option"
+msgid "Graph bars"
+msgstr "Barres graphiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:347
+msgctxt "[Admin panel] Review box setting option"
+msgid "Average rating box"
+msgstr "Boîte d'évaluation moyenne"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:344
+msgctxt "[Admin panel] Review box setting name"
+msgid "Show"
+msgstr "Afficher"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:333
+msgctxt "[Admin panel] Button label"
+msgid "Add new criteria"
+msgstr "Ajouter un nouveau critère"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:325
+msgctxt "[Admin panel] Review box setting name"
+msgid "Criteria"
+msgstr "Critères"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:320
+msgctxt "[Admin panel] Review box setting description"
+msgid "Enable to create multi-criteria for reviews or disable to use the default WooCommerce rating system."
+msgstr "Activez cette option pour créer des critères multiples pour les avis ou désactivez-la pour utiliser le système d'évaluation par défaut de WooCommerce."
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:319
+msgctxt "[Admin panel] Review box setting name"
+msgid "Enable multi-criteria"
+msgstr "Activer le multicritère"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:308
+msgctxt "[Global] Ajax field placeholder"
+msgid "Search for a tag"
+msgstr "Recherche d'une étiquette"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:305
+msgctxt "[Admin panel] Review box setting name"
+msgid "Select tags"
+msgstr "Sélectionnez les étiquettes"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:294
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:330
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:504
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:515
+msgctxt "[Global] Ajax field placeholder"
+msgid "Search for a category"
+msgstr "Rechercher une catégorie"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:291
+msgctxt "[Admin panel] Review box setting name"
+msgid "Select categories"
+msgstr "Sélectionnez les catégories"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:282
+msgctxt "[Admin panel] Review box setting name"
+msgid "Select products"
+msgstr "Sélectionnez les produits"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:274
+msgctxt "[Admin panel] Review box setting option"
+msgid "All virtual products"
+msgstr "Tous les produits virtuels"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:273
+msgctxt "[Admin panel] Review box setting option"
+msgid "Specific tags"
+msgstr "Tags spécifiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:272
+msgctxt "[Admin panel] Review box setting option"
+msgid "Specific categories"
+msgstr "Catégories spécifiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:271
+msgctxt "[Admin panel] Review box setting option"
+msgid "Specific products"
+msgstr "Produits spécifiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:270
+msgctxt "[Admin panel] Review box setting option"
+msgid "All products"
+msgstr "Tous les produits"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:200
+msgctxt "[Admin panel] Review box setting description"
+msgid "Enable/Disable box"
+msgstr "Boîte d'activation/désactivation"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:197
+msgctxt "[Admin panel] Review box setting description"
+msgid "Default box cannot be deactivated"
+msgstr "La case par défaut ne peut pas être désactivée"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:189
+msgctxt "[Admin panel] Review box setting description"
+msgid "All products"
+msgstr "Tous les produits"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:185
+msgctxt "[Admin panel] Review box setting description"
+msgid "All virtual products"
+msgstr "Tous les produits virtuels"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:181
+msgctxt "[Admin panel] Review box setting description"
+msgid "Tags"
+msgstr "Tags"
+
+#. translators: %s number of products
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:179
+msgctxt "[Admin panel] Review box setting description"
+msgid "%s specific tags"
+msgstr "balises spécifiques %s"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:176
+msgctxt "[Admin panel] Review box setting description"
+msgid "Tag"
+msgstr "Étiquette"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:171
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:263
+msgctxt "[Admin panel] Generic label description"
+msgid "Categories"
+msgstr "Catégories"
+
+#. translators: %s number of products
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:169
+msgctxt "[Admin panel] Review box setting description"
+msgid "%s specific categories"
+msgstr "%s catégories spécifiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:166
+msgctxt "[Admin panel] Review box setting description"
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:160
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:262
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:479
+msgctxt "[Admin panel] Generic label description"
+msgid "Products"
+msgstr "Produits"
+
+#. translators: %s number of products
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:158
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:131
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:189
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:222
+msgctxt "[Admin panel] Review box and discount description"
+msgid "%s specific products"
+msgstr "%s produits spécifiques"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:155
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:376
+#: views/frontend/my-account/user-reviews.php:21
+#: views/frontend/my-account/user-reviews.php:37
+msgctxt "[Global] Generic text"
+msgid "Product"
+msgstr "Produit"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:147
+msgctxt "[Admin panel] Default box name if no data is provided"
+msgid "(No name)"
+msgstr "(Pas de nom)"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:129
+#: views/settings-tabs/html-emails.php:14
+msgctxt "[Admin panel] Column name - Status"
+msgid "Active"
+msgstr "Actif"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:128
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:268
+msgctxt "[Admin panel] Review box setting name"
+msgid "Show on"
+msgstr "Afficher sur"
+
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:127
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:263
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:927
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:98
+msgctxt "[Admin panel] Column and setting name"
+msgid "Name"
+msgstr "Nom"
+
+#. translators: %s error message
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:247
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:284
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:79
+#: modules/request-review/includes/class-yith-ywar-request-review-ajax.php:523
+msgctxt "[Admin panel] generic error message"
+msgid "An error occurred."
+msgstr "Une erreur s'est produite."
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:245
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:282
+msgctxt "[Admin panel] Error message"
+msgid "A criterion with the specified name is already in existence."
+msgstr "Un critère portant le nom spécifié existe déjà."
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:152
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:226
+#: includes/emails/class-yith-ywar-email.php:896
+#: includes/emails/class-yith-ywar-email.php:992
+#: includes/functions-yith-ywar-frontend.php:530
+#: views/settings-tabs/html-emails.php:64
+msgctxt "[Global] Generic edit button text"
+msgid "Edit"
+msgstr "Editer"
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:120
+#: includes/functions-yith-ywar.php:702
+msgctxt "[Admin panel] Column and setting name"
+msgid "Icon"
+msgstr "Icône"
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:92
+msgctxt "[Admin panel] Button label"
+msgid "Add criteria"
+msgstr "Ajouter des critères"
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:90
+msgctxt "[Admin panel] Empty state message"
+msgid "You have no review criteria yet!"
+msgstr "Vous n'avez pas encore de critères d'évaluation !"
+
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:58
+#: modules/request-review/includes/admin/admin-tables/class-yith-ywar-scheduled-emails-admin-table.php:262
+#: modules/request-review/options/request-review-list.php:11
+#: plugin-options/review-boxes/boxes-options.php:10
+msgctxt "[Admin panel] Button label"
+msgid "Add new"
+msgstr "Ajouter un nouveau"
+
+#. translators: Description of "YITH Customize My Account Page" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:583
+msgid "Customize the My Account page of your customers by creating custom sections with promotions and ad-hoc content based on your needs."
+msgstr "Personnalisez la page Mon compte de vos clients en créant des sections personnalisées avec des promotions et du contenu ad hoc en fonction de vos besoins."
+
+#. translators: Description of "YITH Catalog Mode" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:575
+msgid "Use your shop as a catalog by hiding prices and/or the \"Add to cart\" button on product pages."
+msgstr "Utilisez votre boutique comme un catalogue en masquant les prix et/ou le bouton \"Ajouter au panier\" sur les pages de produits."
+
+#. translators: Description of "YITH Dynamic Pricing and Discounts" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:559
+msgid "Increase conversions through dynamic discounts and price rules, and build powerful and targeted offers."
+msgstr "Augmentez les conversions grâce à des remises dynamiques et des règles de prix, et créez des offres puissantes et ciblées."
+
+#. translators: Description of "YITH Wishlist" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:551
+msgid "Allow your customers to create lists of products they want and share them with family and friends."
+msgstr "Permettez à vos clients de créer des listes de produits qu'ils souhaitent et de les partager avec leur famille et leurs amis."
+
+#. translators: Description of "YITH Gift Cards" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:543
+msgid "Sell gift cards to increase your store's revenue and win new customers."
+msgstr "Vendez des cartes-cadeaux pour augmenter le chiffre d'affaires de votre magasin et gagner de nouveaux clients."
+
+#. translators: Description of "YITH AJAX Product Filter" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:535
+msgid "Help your customers to easily find the products they are looking for and improve the user experience of your shop."
+msgstr "Aidez vos clients à trouver facilement les produits qu'ils recherchent et améliorez l'expérience utilisateur de votre boutique."
+
+#. translators: Description of "YITH AJAX Search" plugin in the "Your Store Tools" tab.
+#: includes/admin/class-yith-ywar-admin.php:527
+msgid "Add an instant search form to your e-commerce shop and help your customers quickly find the products they want to buy."
+msgstr "Ajoutez un formulaire de recherche instantanée à votre boutique en ligne et aidez vos clients à trouver rapidement les produits qu'ils souhaitent acheter."
+
+#: includes/admin/class-yith-ywar-admin.php:497
+msgctxt "[Update modal] Features description"
+msgid "A configuration panel that is easier to use and a review section with a modern style that is suitable for any theme. After all, aesthetics are important too."
+msgstr "Un panneau de configuration plus facile à utiliser et une section d'évaluation au style moderne qui s'adapte à tous les thèmes. Après tout, l'esthétique est également importante."
+
+#: includes/admin/class-yith-ywar-admin.php:496
+msgctxt "[Update modal] Features description"
+msgid "A modern design with attention to every detail."
+msgstr "Un design moderne avec une attention particulière pour chaque détail."
+
+#: includes/admin/class-yith-ywar-admin.php:485
+msgctxt "[Update modal] Features description"
+msgid "For an immediate overview of the reviews posted on your products."
+msgstr "Pour un aperçu immédiat des avis publiés sur vos produits."
+
+#: includes/admin/class-yith-ywar-admin.php:484
+msgctxt "[Update modal] Features description"
+msgid "A new dashboard to monitor feedback."
+msgstr "Un nouveau tableau de bord pour contrôler le retour d'information."
+
+#: includes/admin/class-yith-ywar-admin.php:473
+msgctxt "[Update modal] Features description"
+msgid "In 2.0, give your customers the ability to rate different aspects of your sales, including size, color, delivery, and quality, for more transparent feedback. You choose which policies to configure and which products to display."
+msgstr "Dans la version 2.0, donnez à vos clients la possibilité d'évaluer différents aspects de vos ventes, notamment la taille, la couleur, la livraison et la qualité, afin d'obtenir un retour d'information plus transparent. Vous choisissez les politiques à configurer et les produits à afficher."
+
+#: includes/admin/class-yith-ywar-admin.php:472
+msgctxt "[Update modal] Features description"
+msgid "The possibility to define multiple evaluation criteria."
+msgstr "La possibilité de définir plusieurs critères d'évaluation."
+
+#: includes/admin/class-yith-ywar-admin.php:462
+msgctxt "[Update modal] Features description"
+msgid "Now you can send automated notifications to your clients, ask them to leave a review, and offer them discount coupons to keep them coming back for more. We decided to include these features for free in version 2.0 of this plugin, even though they were available in plugins that can be purchased separately for a total of €120!"
+msgstr "Vous pouvez désormais envoyer des notifications automatisées à vos clients, leur demander de laisser un avis et leur offrir des coupons de réduction pour qu'ils reviennent. Nous avons décidé d'inclure ces fonctionnalités gratuitement dans la version 2.0 de ce plugin, même si elles sont disponibles dans des plugins qui peuvent être achetés séparément pour un total de 120 € !"
+
+#: includes/admin/class-yith-ywar-admin.php:461
+msgctxt "[Update modal] Features description"
+msgid "The \"Review reminder\" and \"Review for discount\" modules make your customers leave a review right away."
+msgstr "Les modules \"Rappel d'évaluation\" et \"Évaluation pour réduction\" permettent à vos clients de laisser une évaluation immédiatement."
+
+#: includes/admin/class-yith-ywar-admin.php:443
+msgctxt "[Welcome modal] Features description"
+msgid "...to make it work exactly the way you want!"
+msgstr "...pour qu'il fonctionne exactement comme vous le souhaitez !"
+
+#. translators: %1$s Opening MARK tag - %2$s closing MARK tag
+#: includes/admin/class-yith-ywar-admin.php:442
+msgctxt "[Welcome modal] Features description"
+msgid "Configure the plugin %1$sstep-by-step%2$s"
+msgstr "Configurer le plugin %1$sstep-by-step%2$s"
+
+#: includes/admin/class-yith-ywar-admin.php:431
+msgctxt "[Welcome modal] Features description"
+msgid "...to encourage customers to leave a review right away."
+msgstr "...pour encourager les clients à laisser un avis immédiatement."
+
+#. translators: %1$s Opening MARK tag - %2$s closing MARK tag
+#: includes/admin/class-yith-ywar-admin.php:430
+msgctxt "[Welcome modal] Features description"
+msgid "%1$sEnable the extra modules%2$s available in the plugin"
+msgstr "%1$sActiver les modules supplémentaires%2$s disponibles dans le plugin"
+
+#: includes/admin/class-yith-ywar-admin.php:417
+msgctxt "[Welcome modal] Plugin description"
+msgid "The ultimate all-in-one solution to manage product reviews in your shop."
+msgstr "La solution ultime tout-en-un pour gérer les avis sur les produits dans votre boutique."
+
+#: includes/admin/class-yith-ywar-admin.php:387
+msgctxt "[HELP TAB] Video title"
+msgid "Check this video to learn how to <b>configure the plugin:</b>"
+msgstr "Consultez cette vidéo pour savoir comment <b>configurer le plugin:</b>"
+
+#: includes/admin/class-yith-ywar-admin.php:351
+msgctxt "[Admin panel] Plugin options section description"
+msgid "Manage all the emails sent by the plugin."
+msgstr "Gérez tous les e-mails envoyés par le plugin."
+
+#: includes/admin/class-yith-ywar-admin.php:349
+msgctxt "[Admin panel] Plugin options section name"
+msgid "Emails"
+msgstr "Emails"
+
+#: includes/admin/class-yith-ywar-admin.php:343
+#: modules/request-review/includes/class-yith-ywar-request-review.php:364
+#: modules/review-for-discounts/includes/class-yith-ywar-review-for-discounts.php:154
+msgctxt "[Admin panel] Plugin options section description"
+msgid "Enable the following modules to unlock additional features for your reviews."
+msgstr "Activez les modules suivants pour débloquer des fonctionnalités supplémentaires pour vos avis."
+
+#: includes/admin/class-yith-ywar-admin.php:341
+msgctxt "[Admin panel] Plugin options section name"
+msgid "Modules"
+msgstr "Modules"
+
+#: includes/admin/class-yith-ywar-admin.php:337
+#: includes/class-yith-ywar-post-types.php:106
+#: plugin-options/review-boxes-options.php:21
+#: plugin-options/review-boxes/boxes-options.php:17
+msgctxt "[Admin panel] Post type label"
+msgid "Review boxes"
+msgstr "Boîtes d'avis"
+
+#: includes/admin/class-yith-ywar-admin.php:333
+msgctxt "[Admin panel] Plugin options section name"
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/admin/class-yith-ywar-admin.php:329
+msgctxt "[Admin panel] Plugin options section name"
+msgid "Main overview"
+msgstr "Vue d'ensemble"
+
+#: includes/admin/class-yith-ywar-admin.php:225
+#: includes/class-yith-ywar-post-types.php:73
+msgctxt "[Admin panel] Post type label"
+msgid "Reviews"
+msgstr "Avis"
+
+#: includes/admin/class-yith-ywar-admin.php:221
+msgctxt "[Admin panel] Admin widget label"
+msgid "No new replies"
+msgstr "Pas de nouvelles réponses"
+
+#: includes/admin/class-yith-ywar-admin.php:221
+msgctxt "[Admin panel] Admin widget label"
+msgid "New replies"
+msgstr "Nouvelles réponses"
+
+#: includes/admin/class-yith-ywar-admin.php:220
+msgctxt "[Admin panel] Admin widget label"
+msgid "No new reviews"
+msgstr "Pas de nouveaux avis"
+
+#: includes/admin/class-yith-ywar-admin.php:220
+msgctxt "[Admin panel] Admin widget label"
+msgid "New reviews"
+msgstr "Nouvelles critiques"
+
+#. translators: %s plugin name
+#: includes/admin/class-yith-ywar-admin.php:199
+msgctxt "[Admin] message displayed in WooCommerce/Settings/Products"
+msgid "The following options are disabled because the %s plugin is enabled."
+msgstr "Les options suivantes sont désactivées parce que le plugin %s est activé."
+
+#. translators: %1$s plugin name, %2$s opening link tag %3$s closing link tag
+#: includes/admin/class-yith-ywar-admin.php:137
+msgctxt "[Admin panel] Notice displayed in the Product/Reviews page of WooCommerce"
+msgid "%1$s is updating the statistics of product reviews. The data may not be consistent until the process is completed. You can check the update process on %2$sthis page%3$s."
+msgstr "%1$s met à jour les statistiques des avis sur les produits. Les données peuvent ne pas être cohérentes tant que le processus n'est pas terminé. Vous pouvez vérifier le processus de mise à jour sur %2$scette page%3$s."
+
+#. translators: %1$s plugin name, %2$s opening link tag %3$s closing link tag
+#: includes/admin/class-yith-ywar-admin.php:107
+msgctxt "[Admin panel] Notice displayed in the Product/Reviews page of WooCommerce"
+msgid "You are using %1$s. Manage all the options for your reviews from %2$sthis page%3$s."
+msgstr "Vous utilisez %1$s. Gérez toutes les options de vos avis à partir de %2$scette page%3$s."
+
+#. translators: %s is the post type name.
+#: includes/abstracts/class-yith-ywar-post-type-admin.php:365
+msgctxt "[Admin panel] Button label with post type name"
+msgid "Save %s"
+msgstr "Sauvegarder %s"
+
+#: includes/abstracts/class-yith-ywar-post-type-admin.php:359
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:104
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:109
+#: views/settings-tabs/html-emails.php:107
+#: views/settings-tabs/html-emails.php:112
+msgctxt "[Admin panel] Button label"
+msgid "Save"
+msgstr "Économiser"
+
+#: includes/abstracts/class-yith-ywar-post-type-admin.php:178
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:168
+#: includes/admin/class-yith-ywar-review-box-post-type-admin.php:238
+#: modules/request-review/includes/functions.php:222
+msgctxt "[Admin panel] Generic delete action label"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/abstracts/class-yith-ywar-post-type-admin.php:154
+#: includes/admin/class-yith-ywar-criteria-tax-admin.php:121
+#: includes/admin/class-yith-ywar-review-post-type-admin.php:382
+#: modules/review-for-discounts/includes/admin/class-yith-ywar-review-for-discounts-post-type-admin.php:101
+msgctxt "[Admin panel] Column name"
+msgid "Actions"
+msgstr "Actions"
+
+#. Description of the plugin
+#: init.php
+msgid "<code><strong>YITH WooCommerce Advanced Reviews</strong></code>extends the basic functionality of WooCommerce reviews and adds a histogram table to your product's reviews, as seen in most popular e-commerce sites. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>."
+msgstr "<code><strong>YITH WooCommerce Advanced Reviews</strong></code>étend la fonctionnalité de base des avis WooCommerce et ajoutez une table d'histogramme aux avis de vos produits, comme vous le voyez dans la plupart des sites de commerce électronique à la mode. <a href=\"https://yithemes.com/\" target=\"_blank\">Obtenez plus de plugins pour votre e-commerce sur <strong>YITH</strong></a>."
+
+#. Plugin URI of the plugin
+#: init.php
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-advanced-reviews/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-advanced-reviews/"

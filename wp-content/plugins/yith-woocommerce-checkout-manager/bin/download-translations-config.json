@@ -1,0 +1,42 @@
+{
+  "projectPath": "https://translate.yithemes.com/gp/projects/yith-woocommerce-checkout-manager/",
+  "textDomain": "yith-woocommerce-checkout-manager",
+  "destFolder": "languages/",
+  "languages": [
+    {
+      "id": "es",
+      "name": "Spanish",
+      "slug": "es_ES"
+    },
+    {
+      "id": "it",
+      "name": "Italian",
+      "slug": "it_IT"
+    },
+    {
+      "id": "nl",
+      "name": "Dutch",
+      "slug": "nl_NL"
+    },
+    {
+      "id": "fr",
+      "name": "French",
+      "slug": "fr_FR"
+    },
+    {
+      "id": "de",
+      "name": "German",
+      "slug": "de_DE"
+    },
+    {
+      "id": "de-formal",
+      "name": "German",
+      "slug": "de_DE_formal"
+    },
+    {
+      "id": "ru",
+      "name": "Russian",
+      "slug": "ru_RU"
+    }
+  ]
+}

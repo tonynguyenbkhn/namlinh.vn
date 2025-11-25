@@ -1,0 +1,21 @@
+div.wfb-field-div {
+  margin: 10px 0;
+  width: 100%;
+  overflow: auto;
+
+  label {
+    float: left;
+    width: 35%;
+  }
+
+  span.required {
+    color: #ff0000;
+  }
+
+  input,
+  select,
+  textarea {
+    float: left;
+    width: 50%;
+  }
+}

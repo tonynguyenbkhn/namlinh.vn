@@ -1,0 +1,13 @@
+{
+  "name": "yith/overlay-pagination-block",
+  "version": "1.0.0",
+  "title": "Overlay pagination results",
+  "description": "Show the pagination",
+  "category": "yith-blocks",
+  "parent": [
+    "yith/overlay-product-results-block"
+  ],
+  "textdomain": "yith-woocommerce-ajax-search",
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2
+}

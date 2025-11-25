@@ -1,0 +1,62 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ywar_no_reviews_text"/>
+        <key name="ywar_refuse_requests_label"/>
+        <key name="ywar_staff_badge">
+            <key name="label"/>
+        </key>
+        <key name="ywar_featured_badge">
+            <key name="label"/>
+        </key>
+        <key name="woocommerce_yith-ywar-new-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-new-reply_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-request-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+            <key name="button_label"/>
+        </key>
+        <key name="woocommerce_yith-ywar-request-review_booking_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+            <key name="button_label"/>
+        </key>
+        <key name="woocommerce_yith-ywar-coupon-single-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-coupon-multiple-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-coupon-target-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-coupon-funds-single-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+        <key name="woocommerce_yith-ywar-coupon-funds-multiple-review_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="custom_message"/>
+        </key>
+    </admin-texts>
+    <taxonomies>
+        <taxonomy translate="1">ywar_review_criteria</taxonomy>
+    </taxonomies>
+</wpml-config>

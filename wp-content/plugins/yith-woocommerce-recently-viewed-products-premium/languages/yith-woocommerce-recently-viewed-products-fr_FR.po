@@ -1,0 +1,922 @@
+# Translation of YITH WooCommerce Recently Viewed Products in French (France)
+# This file is distributed under the same license as the YITH WooCommerce Recently Viewed Products package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Recently Viewed Products\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"recently-viewed-products.premium\n"
+"POT-Creation-Date: 2024-03-12 17:14:24+00:00\n"
+"PO-Revision-Date: 2021-08-27 12:14:12+0000\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/class.yith-wrvp-admin-premium.php:141
+msgid "Create Shortcode"
+msgstr "Créer un shortcode"
+
+#: includes/class.yith-wrvp-admin-premium.php:142
+msgid "Email Settings"
+msgstr "Paramètres de messagerie"
+
+#: includes/class.yith-wrvp-admin-premium.php:207
+msgid "Hard Crop?"
+msgstr "Récolte dure?"
+
+#: includes/class.yith-wrvp-admin-premium.php:310
+msgid "Type an email address to send a test email"
+msgstr "Saisissez une adresse e-mail pour envoyer un e-mail de test"
+
+#: includes/class.yith-wrvp-admin-premium.php:311
+msgid "Send email"
+msgstr "Envoyer un e-mail"
+
+#: includes/class.yith-wrvp-admin.php:146
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class.yith-wrvp-admin.php:150
+msgid "Premium Version"
+msgstr "Version Premium"
+
+#: includes/class.yith-wrvp-frontend-premium.php:611
+msgid "Remove"
+msgstr "Retirer"
+
+#: includes/class.yith-wrvp-frontend-premium.php:888
+#: plugin-options/shortcodes-data.php:126
+msgid "Most Viewed Products"
+msgstr "Produits les plus consultés"
+
+#: includes/class.yith-wrvp-mail-handler.php:451
+msgid "You have been unsubscribed from our mailing list successfully."
+msgstr "Vous avez été désabonné de notre liste de diffusion avec succès."
+
+#: includes/class.yith-wrvp-mail.php:37
+msgid "YITH Recently Viewed Products Email"
+msgstr "YITH Recently Viewed Products Email"
+
+#: includes/class.yith-wrvp-mail.php:41
+msgid "{blogname}"
+msgstr "{blogname}"
+
+#: includes/class.yith-wrvp-mail.php:42
+msgid "You may be interested in these products."
+msgstr "Vous pourriez être intéressé par ces produits."
+
+#: includes/class.yith-wrvp-mail.php:43 plugin-options/email-options.php:241
+msgid ""
+"According to your research, you may be interested in the following products. "
+"Moreover, purchasing one of these products will entitle you to receive a "
+"discount with the following coupon {coupon_code}{products_list}"
+msgstr ""
+"Selon vos recherches, les produits suivants pourraient vous intéresser. De "
+"plus, l'achat de l'un de ces produits vous donnera droit à une réduction "
+"avec le coupon suivant {coupon_code} {products_list}"
+
+#: includes/class.yith-wrvp-mail.php:663
+msgid "Logo Image"
+msgstr "Image logo"
+
+#: includes/class.yith-wrvp-privacy-dpa.php:38
+msgid "While you visit our site, we’ll track:"
+msgstr "Pendant que vous visitez notre site, nous suivrons:"
+
+#: includes/class.yith-wrvp-privacy-dpa.php:40
+msgid "- Products viewed and store products ID as customer info."
+msgstr ""
+"- Produits consultés et identifiant des produits en tant qu'informations "
+"client."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:42
+msgid ""
+"Email address will be used to send promotional emails based on this "
+"information."
+msgstr ""
+"L'adresse e-mail sera utilisée pour envoyer des e-mails promotionnels basés "
+"sur ces informations."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:43
+msgid ""
+"If the site is visited with a guest user account, the plugin uses a cookie "
+"to store this information. No email address will be stored in this case."
+msgstr ""
+"Si le site est visité avec un compte d'utilisateur invité, le plugin utilise "
+"un cookie pour stocker ces informations. Aucune adresse e-mail ne sera "
+"stockée dans ce cas."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:44
+msgid ""
+"Note: you may want to further detail your cookie policy, and link to that "
+"section from here."
+msgstr ""
+"Remarque: vous voudrez peut-être plus de détails sur votre politique de "
+"cookies et un lien vers cette section à partir d'ici."
+
+#: includes/class.yith-wrvp.php:268
+msgid "Recently Viewed Products"
+msgstr "Derniers produits consultés"
+
+#: includes/class.yith-wrvp.php:308 includes/class.yith-wrvp.php:344
+#: includes/class.yith-wrvp.php:370
+#: includes/widgets/class.yith-wrvp-widget.php:52
+msgid "YITH Recently Viewed Products"
+msgstr "YITH Recently Viewed Products"
+
+#: includes/class.yith-wrvp.php:348
+msgid "Recently Viewed Products List"
+msgstr "Liste des produits récemment consultés"
+
+#: includes/class.yith-wrvp.php:400
+msgid "Removed recently viewed products list for customer"
+msgstr ""
+"Suppression de la liste des produits récemment consultés pour le client"
+
+#: includes/tinymce/tinymce-plugin-langs.php:20
+msgid "Customer product list"
+msgstr "Liste de produits client"
+
+#: includes/tinymce/tinymce-plugin-langs.php:21
+msgid "Custom product list"
+msgstr "Liste de produits personnalisée"
+
+#: includes/tinymce/tinymce-plugin-langs.php:22
+#: plugin-options/email-options.php:142
+msgid "Coupon code"
+msgstr "Code de coupon"
+
+#: includes/tinymce/tinymce-plugin-langs.php:23
+msgid "Coupon expire"
+msgstr "Le coupon expire"
+
+#: includes/widgets/class.yith-wrvp-widget.php:29
+msgid "The widget shows the list of products added in the compare table."
+msgstr ""
+"Le widget affiche la liste des produits ajoutés dans le tableau de "
+"comparaison."
+
+#: includes/widgets/class.yith-wrvp-widget.php:32
+msgid "YITH WooCommerce Recently Viewed Products Widget"
+msgstr "YITH WooCommerce Recently Viewed Products Widget"
+
+#: includes/widgets/class.yith-wrvp-widget.php:226
+#: plugin-options/shortcodes-data.php:23
+msgid "You may be interested in"
+msgstr "Vous êtes peut être intéressé"
+
+#: includes/widgets/class.yith-wrvp-widget.php:237
+msgid "Title"
+msgstr "Titre"
+
+#: includes/widgets/class.yith-wrvp-widget.php:244
+#: plugin-options/email-options.php:50
+msgid "Number of products"
+msgstr "Nombre de produits"
+
+#: includes/widgets/class.yith-wrvp-widget.php:251
+msgid "Order by"
+msgstr "Commandé par"
+
+#: includes/widgets/class.yith-wrvp-widget.php:253
+msgid "Viewed Order"
+msgstr "Ordre consulté"
+
+#: includes/widgets/class.yith-wrvp-widget.php:254
+#: plugin-options/email-options.php:76 plugin-options/general-options.php:97
+msgid "Random"
+msgstr "Aléatoire"
+
+#: includes/widgets/class.yith-wrvp-widget.php:255
+#: plugin-options/email-options.php:79 plugin-options/general-options.php:100
+msgid "Newest"
+msgstr "Plus récent"
+
+#: includes/widgets/class.yith-wrvp-widget.php:256
+#: plugin-options/email-options.php:78 plugin-options/general-options.php:99
+msgid "Sales"
+msgstr "Soldés"
+
+#: includes/widgets/class.yith-wrvp-widget.php:257
+#: plugin-options/email-options.php:80 plugin-options/general-options.php:101
+msgid "Price: High to Low"
+msgstr "Prix décroissant"
+
+#: includes/widgets/class.yith-wrvp-widget.php:258
+#: plugin-options/email-options.php:81 plugin-options/general-options.php:102
+msgid "Price: Low to High"
+msgstr "Prix croissant"
+
+#: includes/widgets/class.yith-wrvp-widget.php:264
+msgid "Products to show"
+msgstr "Produits à montrer"
+
+#: includes/widgets/class.yith-wrvp-widget.php:266
+#: plugin-options/email-options.php:64 plugin-options/general-options.php:32
+msgid "Only viewed products"
+msgstr "Seuls les produits consultés"
+
+#: includes/widgets/class.yith-wrvp-widget.php:267
+msgid "Include similar products"
+msgstr "Inclure des produits similaires"
+
+#: init.php:50
+msgid ""
+"YITH WooCommerce Recently Viewed Products Premium is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Recently Viewed Products Premium est activé mais pas "
+"efficace. Il nécessite WooCommerce pour fonctionner."
+
+#: plugin-options/email-options.php:26
+msgid "E-mail settings"
+msgstr "Paramètres de messagerie"
+
+#: plugin-options/email-options.php:33
+msgid "Send email notifications"
+msgstr "Envoyer des notifications par e-mail"
+
+#: plugin-options/email-options.php:34
+msgid ""
+"Select whether to send notification emails to your users about their "
+"recently viewed products."
+msgstr ""
+"Choisissez d'envoyer ou non des e-mails de notification à vos utilisateurs "
+"concernant leurs produits récemment consultés."
+
+#: plugin-options/email-options.php:41
+msgid "Schedule email"
+msgstr "Planifier un e-mail"
+
+#: plugin-options/email-options.php:42
+msgid ""
+"Set how many days after their last login the system should send the email to "
+"users."
+msgstr ""
+"Définissez combien de jours après leur dernière connexion, le système doit "
+"envoyer l'e-mail aux utilisateurs."
+
+#: plugin-options/email-options.php:51
+msgid "Choose how many of the recently viewed products to show in the email."
+msgstr ""
+"Choisissez le nombre de produits récemment consultés à afficher dans l'e-"
+"mail."
+
+#: plugin-options/email-options.php:59 plugin-options/general-options.php:27
+msgid "Select which products to show"
+msgstr "Sélectionnez les produits à afficher"
+
+#: plugin-options/email-options.php:60
+msgid "Choose whether to show only viewed products or also similar products."
+msgstr ""
+"Choisissez d'afficher uniquement les produits consultés ou également des "
+"produits similaires."
+
+#: plugin-options/email-options.php:65 plugin-options/general-options.php:33
+msgid "Viewed products and similar items"
+msgstr "Produits consultés et articles similaires"
+
+#: plugin-options/email-options.php:71 plugin-options/general-options.php:92
+msgid "Order products by"
+msgstr "Commander des produits par"
+
+#: plugin-options/email-options.php:72 plugin-options/general-options.php:93
+msgid "Choose in which order the products should be shown."
+msgstr "Choisissez dans quel ordre les produits doivent être affichés."
+
+#: plugin-options/email-options.php:77 plugin-options/general-options.php:98
+msgid "Latest viewed"
+msgstr "Dernières vues"
+
+#: plugin-options/email-options.php:87 plugin-options/general-options.php:132
+msgid "Show only products from the most viewed category"
+msgstr "Afficher uniquement les produits de la catégorie la plus vue"
+
+#: plugin-options/email-options.php:88
+msgid "Enable to only show products from the most-viewed category by the user."
+msgstr ""
+"Activer pour afficher uniquement les produits de la catégorie la plus "
+"consultée par l'utilisateur."
+
+#: plugin-options/email-options.php:95
+msgid "Add also custom products"
+msgstr "Ajouter également des produits personnalisés"
+
+#: plugin-options/email-options.php:96
+msgid "Enable to select additional products to promote in the email."
+msgstr ""
+"Activez cette option pour sélectionner des produits supplémentaires à "
+"promouvoir dans l'e-mail."
+
+#: plugin-options/email-options.php:103
+msgid "Select custom products"
+msgstr "Sélectionnez des produits personnalisés"
+
+#: plugin-options/email-options.php:104
+msgid "Choose the products to promote in the email."
+msgstr "Choisissez les produits à promouvoir dans l'e-mail."
+
+#: plugin-options/email-options.php:118
+msgid "Add a coupon"
+msgstr "Ajouter un coupon"
+
+#: plugin-options/email-options.php:119
+msgid "Enable to add a coupon in the email."
+msgstr "Activez pour ajouter un coupon dans l'e-mail."
+
+#: plugin-options/email-options.php:126
+msgid "Coupon type"
+msgstr "Type de coupon"
+
+#: plugin-options/email-options.php:127
+msgid ""
+"Choose to use an existing coupon or to create automatically a coupon for the "
+"products added in the email."
+msgstr ""
+"Choisissez d'utiliser un coupon existant ou de créer automatiquement un "
+"coupon pour les produits ajoutés dans l'e-mail."
+
+#: plugin-options/email-options.php:131
+msgid "Use an existing coupon"
+msgstr "Utilisez un coupon existant"
+
+#: plugin-options/email-options.php:132
+msgid "Create a coupon"
+msgstr "Créer un coupon"
+
+#: plugin-options/email-options.php:143
+msgid "Type the coupon code to use in the email."
+msgstr "Saisissez le code de réduction à utiliser dans l'e-mail."
+
+#: plugin-options/email-options.php:155
+msgid "Coupon amount"
+msgstr "Montant du coupon"
+
+#: plugin-options/email-options.php:156
+msgid "The coupon amount (Product % Discount)."
+msgstr "Le montant du coupon (% de réduction sur le produit)."
+
+#: plugin-options/email-options.php:170
+msgid "Coupon expiration date"
+msgstr "Date d'expiration du coupon"
+
+#: plugin-options/email-options.php:171
+msgid ""
+"Set the number of days before the coupon expires, that is sent with the "
+"email."
+msgstr ""
+"Définissez le nombre de jours avant l'expiration du coupon, qui est envoyé "
+"avec l'e-mail."
+
+#: plugin-options/email-options.php:186
+msgid "Email customization"
+msgstr "Personnalisation des e-mails"
+
+#: plugin-options/email-options.php:193
+msgid "Logo image"
+msgstr "Image logo"
+
+#: plugin-options/email-options.php:194
+msgid ""
+"Upload logo image for email header. Use <code>{logo_image}</code> "
+"placeholder in the header to show it."
+msgstr ""
+"Téléchargez l'image du logo pour l'en-tête de l'e-mail. Utilisez l'espace "
+"réservé <code>{logo_image}</code> dans l'en-tête pour l'afficher."
+
+#: plugin-options/email-options.php:201
+msgid "Email heading"
+msgstr "Titre de l'e-mail"
+
+#: plugin-options/email-options.php:202
+msgid ""
+"Enter a text for the email heading or use one of the available placeholder "
+"<code>{site_title}, {site_address}, {site_url}</code>"
+msgstr ""
+"Saisissez un texte pour l'en-tête de l'e-mail ou utilisez l'un des espaces "
+"réservés disponibles <code>{site_title}, {site_address}, {site_url}</code>"
+
+#: plugin-options/email-options.php:212
+msgid "Email subject"
+msgstr "Sujet du courriel"
+
+#: plugin-options/email-options.php:213
+msgid ""
+"Enter a text for the email subject or use one of the available placeholder "
+"<code>{site_title}, {site_address}, {site_url}</code>. <br>Use the "
+"placeholder <code>{first_product_title}</code> to show the name of the first "
+"product of the list as subject."
+msgstr ""
+"Saisissez un texte pour l'objet de l'e-mail ou utilisez l'un des espaces "
+"réservés disponibles <code>{site_title}, {site_address}, {site_url}</code>. "
+"<br>Utilisez l'espace réservé <code>{first_product_title}</code> pour "
+"afficher le nom du premier produit de la liste comme sujet."
+
+#: plugin-options/email-options.php:216 plugin-options/email-options.php:218
+msgid "Are you still looking for these products?"
+msgstr "Êtes-vous toujours à la recherche de ces produits?"
+
+#: plugin-options/email-options.php:223
+msgid "Email format"
+msgstr "Format Email"
+
+#: plugin-options/email-options.php:224
+msgid "Choose which type of email to send."
+msgstr "Choisissez le type d'e-mail à envoyer."
+
+#: plugin-options/email-options.php:230
+msgid "Plain"
+msgstr "Plaine"
+
+#: plugin-options/email-options.php:231
+msgid "HTML"
+msgstr "HTML"
+
+#: plugin-options/email-options.php:232
+msgid "Multipart"
+msgstr "Multipart"
+
+#: plugin-options/email-options.php:237
+msgid "Email content"
+msgstr "Contenu de l'e-mail"
+
+#: plugin-options/email-options.php:245
+msgid "Thumbnail Size"
+msgstr "Taille de la miniature"
+
+#. translators: %s is the string "regenerate your thumbnails", with the link to
+#. the free plugin to regenerate thumbnails.
+#: plugin-options/email-options.php:247
+msgid ""
+"Set product image size (in px). After changing this option, you may need to "
+"%s."
+msgstr ""
+"Définissez la taille de l'image du produit (en px). Après avoir modifié "
+"cette option, vous devrez peut-être %s."
+
+#: plugin-options/email-options.php:247
+msgid "regenerate your thumbnails"
+msgstr "régénérer vos vignettes"
+
+#: plugin-options/email-options.php:257
+msgid "Enable Mandrill"
+msgstr "Activer Mandrill"
+
+#: plugin-options/email-options.php:264
+msgid "Mandrill API KEY"
+msgstr "CLÉ API Mandrill"
+
+#: plugin-options/email-options.php:265
+msgid "Insert your Mandrill API KEY"
+msgstr "Insérez votre clé API Mandrill"
+
+#: plugin-options/email-options.php:277
+msgid "Add Google Analytics to email links"
+msgstr "Ajouter Google Analytics aux liens de messagerie"
+
+#: plugin-options/email-options.php:285
+msgid "Campaign Source"
+msgstr "Source de la campagne"
+
+#: plugin-options/email-options.php:288
+msgid "Referrer: google, citysearch, newsletter4"
+msgstr "Référent: google, citysearch, newsletter4"
+
+#: plugin-options/email-options.php:298
+msgid "Campaign Medium"
+msgstr "Support de la campagne"
+
+#: plugin-options/email-options.php:301
+msgid "Marketing medium: cpc, banner, email"
+msgstr "Support marketing: CPC, bannière, e-mail"
+
+#: plugin-options/email-options.php:311
+msgid "Campaign Term"
+msgstr "Durée de la campagne"
+
+#: plugin-options/email-options.php:313
+msgid ""
+"Identify the paid keywords. Enter values separated by commas, for example: "
+"term1, term2"
+msgstr ""
+"Identifiez les mots clés payants. Entrez des valeurs séparées par des "
+"virgules, par exemple: terme1, terme2"
+
+#: plugin-options/email-options.php:315
+msgid "Insert a term&hellip;"
+msgstr "Insérez un terme&hellip;"
+
+#: plugin-options/email-options.php:324
+msgid "Campaign Content"
+msgstr "Contenu de la campagne"
+
+#: plugin-options/email-options.php:327
+msgid "Use to differentiate ads"
+msgstr "Utilisez pour différencier les annonces"
+
+#: plugin-options/email-options.php:337
+msgid "Campaign Name"
+msgstr "Nom de la campagne"
+
+#: plugin-options/email-options.php:340
+msgid "Product, promo code, or slogan"
+msgstr "Produit, code promotionnel ou slogan"
+
+#: plugin-options/email-options.php:350
+msgid "Send a test email to:"
+msgstr "Envoyez un e-mail de test à:"
+
+#: plugin-options/email-options.php:352
+msgid ""
+"Use this option to send a test of this email and check if everything is okay."
+msgstr ""
+"Utilisez cette option pour envoyer un test de cet e-mail et vérifier si tout "
+"va bien."
+
+#: plugin-options/general-options.php:18
+msgid "Set cookie time"
+msgstr "Définir l'heure du cookie"
+
+#: plugin-options/general-options.php:19
+msgid ""
+"Set the duration (days) of the cookie that tracks the user's viewed products."
+msgstr ""
+"Définissez la durée (jours) du cookie qui suit les produits consultés par "
+"l'utilisateur."
+
+#: plugin-options/general-options.php:28
+msgid "Choose whether to only show viewed products or also similar items."
+msgstr ""
+"Choisissez d'afficher uniquement les produits consultés ou des articles "
+"similaires."
+
+#: plugin-options/general-options.php:39
+msgid "Get similar products by"
+msgstr "Obtenez des produits similaires en"
+
+#: plugin-options/general-options.php:40
+msgid "Choose to get similar products by categories, tags or both"
+msgstr ""
+"Choisissez d'obtenir des produits similaires par catégories, tags ou les deux"
+
+#: plugin-options/general-options.php:44
+msgid "Categories"
+msgstr "Catégories"
+
+#: plugin-options/general-options.php:45
+msgid "Tags"
+msgstr "Mots clés"
+
+#: plugin-options/general-options.php:46
+msgid "Both"
+msgstr "Tous les deux"
+
+#: plugin-options/general-options.php:57
+msgid "Set how many products to show"
+msgstr "Définir le nombre de produits à afficher"
+
+#: plugin-options/general-options.php:58
+msgid ""
+"Choose how many products to show and how many of them to show in each row."
+msgstr ""
+"Choisissez le nombre de produits à afficher et le nombre d’entre eux à "
+"afficher dans chaque ligne."
+
+#: plugin-options/general-options.php:64
+msgid "Show"
+msgstr "Montrer"
+
+#: plugin-options/general-options.php:73
+msgid "products and show"
+msgstr "produits et montrer"
+
+#: plugin-options/general-options.php:82
+msgid "products for each row"
+msgstr "produits pour chaque ligne"
+
+#: plugin-options/general-options.php:107
+msgid "Set which products to hide"
+msgstr "Définir les produits à masquer"
+
+#: plugin-options/general-options.php:108
+msgid "Hide out-of-stock products"
+msgstr "Masquer les produits en rupture de stock"
+
+#: plugin-options/general-options.php:117
+msgid "Hide free products"
+msgstr "Cacher les produits gratuits"
+
+#: plugin-options/general-options.php:125
+msgid "Hide products already bought by the customer"
+msgstr "Masquer les produits déjà achetés par le client"
+
+#: plugin-options/general-options.php:133
+msgid "Enable to show only products of the most viewed category by the user."
+msgstr ""
+"Activer pour afficher uniquement les produits de la catégorie la plus "
+"consultée par l'utilisateur."
+
+#: plugin-options/general-options.php:140
+msgid "Enable products slider"
+msgstr "Activer le curseur des produits"
+
+#: plugin-options/general-options.php:141
+msgid "Choose if you want to show a slider of products."
+msgstr "Choisissez si vous souhaitez afficher un curseur de produits."
+
+#: plugin-options/general-options.php:148
+msgid "Enable products slider autoplay"
+msgstr "Activer la lecture automatique du curseur de produits"
+
+#: plugin-options/general-options.php:149
+msgid "Choose whether to enable autoplay for sliders."
+msgstr "Choisissez d'activer la lecture automatique pour les curseurs."
+
+#: plugin-options/general-options.php:161
+msgid "Show dot indicators"
+msgstr "Afficher les indicateurs de points"
+
+#: plugin-options/general-options.php:162
+msgid "Choose whether to show dot indicators for sliders."
+msgstr ""
+"Choisissez d'afficher ou non les indicateurs de points pour les curseurs."
+
+#: plugin-options/general-options.php:174
+msgid "Show shortcode in all product pages"
+msgstr "Afficher le shortcode dans toutes les pages produits"
+
+#: plugin-options/general-options.php:175
+msgid "Enable to automatically show the shortcode in all product pages"
+msgstr ""
+"Activer pour afficher automatiquement le shortcode dans toutes les pages "
+"produits"
+
+#: plugin-options/general-options.php:192
+msgid "Text for no product found"
+msgstr "Texte pour aucun produit trouvé"
+
+#: plugin-options/general-options.php:195
+msgid ""
+"Set which text to show in the Recently Viewed Products page when no product "
+"has been found."
+msgstr ""
+"Définissez le texte à afficher sur la page Produits récemment consultés "
+"lorsqu'aucun produit n'a été trouvé."
+
+#: plugin-options/general-options.php:196
+msgid "You have not viewed any product yet."
+msgstr "Vous n'avez encore vu aucun produit."
+
+#: plugin-options/general-options.php:200
+msgid "Section title"
+msgstr "Section titre"
+
+#: plugin-options/general-options.php:201
+msgid "Enter a title for the viewed product section"
+msgstr "Saisissez un titre pour la section des produits consultés"
+
+#: plugin-options/general-options.php:204
+msgid "Recently viewed products"
+msgstr "Derniers produits consultés"
+
+#: plugin-options/general-options.php:208
+msgid "Text for \"View All\" link"
+msgstr "Texte pour le lien \"Afficher tout\""
+
+#: plugin-options/general-options.php:209
+msgid "Enter a custom text for the \"View all\" link."
+msgstr "Saisissez un texte personnalisé pour le lien \"Afficher tout\"."
+
+#: plugin-options/general-options.php:212
+msgid "View all >"
+msgstr "Tout voir >"
+
+#: plugin-options/shortcodes-data.php:28
+msgid "View All"
+msgstr "Voir tout"
+
+#: templates/admin/email-tab.php:21
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: templates/admin/shortcode-tab.php:18
+msgid "Build your own shortcode"
+msgstr "Créez votre propre shortcode"
+
+#: templates/admin/shortcode-tab.php:35
+msgid "Copy and paste this shortcode in your page"
+msgstr "Copiez et collez ce shortcode dans votre page"
+
+#: templates/email/ywrvp-mail-custom-products-list.php:58
+#: templates/email/ywrvp-mail-products-list.php:57
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: templates/email/ywrvp-mail-custom-products-list.php:62
+#: templates/email/ywrvp-mail-products-list.php:61
+msgid "Add to wishlist"
+msgstr "Ajouter à la liste de souhaits"
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Recently Viewed Products</strong></code> "
+"lets you offer a quick summary to your users about what they have recently "
+"seen and what they could be interested in. It helps your customers find "
+"products of interest and turn them into sales. <a href=\"https://yithemes."
+"com/\" target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""
+"Le <code><strong>YITH WooCommerce Produits récemment consultés</strong></"
+"code> vous permet d'offrir un résumé rapide à vos utilisateurs de ce qu'ils "
+"ont vu récemment et de ce qui pourrait les intéresser. Il aide vos clients à "
+"trouver des produits de l'intérêt et les transformer en ventes. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Obtenez plus de plug-ins "
+"pour votre boutique en ligne sur <strong>YITH</strong></a>."
+
+#: includes/class.yith-wrvp-privacy-dpa.php:23
+msgctxt "Privacy Policy Content"
+msgid "YITH Woocommerce Recently Viewed Products Premium"
+msgstr "YITH Woocommerce Recently Viewed Products Premium"
+
+#: includes/class.yith-wrvp.php:267
+msgctxt "page_slug"
+msgid "recently-viewed-products"
+msgstr "recently-viewed-products"
+
+#: plugin-options/general-options.php:11
+msgctxt "Admin section title"
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: plugin-options/general-options.php:185
+msgctxt "Admin section title"
+msgid "Texts and Labels"
+msgstr "Textes et étiquettes"
+
+#: plugin-options/shortcode-options.php:20
+msgctxt "Shortcode section title"
+msgid "Recently Viewed Products"
+msgstr "Derniers produits consultés"
+
+#: plugin-options/shortcode-options.php:23
+msgctxt "Shortcode section title"
+msgid "Most Viewed Products"
+msgstr "Produits les plus consultés"
+
+#: plugin-options/shortcodes-data.php:16
+msgctxt "[gutenberg]: block name"
+msgid "Recently Viewed Products"
+msgstr "Derniers produits consultés"
+
+#: plugin-options/shortcodes-data.php:119
+msgctxt "[gutenberg]: block name"
+msgid "Most Viewed Products"
+msgstr "Produits les plus consultés"
+
+#: plugin-options/shortcodes-data.php:17 plugin-options/shortcodes-data.php:120
+msgctxt "[gutenberg]: block description"
+msgid "With this block you can do something...."
+msgstr "Avec ce bloc, vous pouvez faire quelque chose ..."
+
+#: plugin-options/shortcodes-data.php:51 plugin-options/shortcodes-data.php:130
+msgctxt "[gutenberg]: block description"
+msgid "Set how many products to show in plugin section (set -1 to display all)"
+msgstr ""
+"Définissez le nombre de produits à afficher dans la section du plugin "
+"(définissez -1 pour tout afficher)"
+
+#: plugin-options/shortcodes-data.php:57 plugin-options/shortcodes-data.php:136
+msgctxt "[gutenberg]: block description"
+msgid "Set how many products to show per row"
+msgstr "Définir le nombre de produits à afficher par ligne"
+
+#: plugin-options/shortcodes-data.php:22 plugin-options/shortcodes-data.php:125
+msgctxt "[gutenberg]: attributes description"
+msgid "The section title"
+msgstr "Le titre de la section"
+
+#: plugin-options/shortcodes-data.php:27
+msgctxt "[gutenberg]: attribute description"
+msgid "The \"View All\" link text"
+msgstr "Le texte du lien \"Afficher tout\""
+
+#: plugin-options/shortcodes-data.php:32
+msgctxt "[gutenberg]: attribute description"
+msgid "Select which products to show"
+msgstr "Sélectionnez les produits à afficher"
+
+#: plugin-options/shortcodes-data.php:41
+msgctxt "[gutenberg]: attribute description"
+msgid "If you choose to show similar products select how to get them"
+msgstr ""
+"Si vous choisissez d'afficher des produits similaires, sélectionnez comment "
+"les obtenir"
+
+#: plugin-options/shortcodes-data.php:63
+msgctxt "[gutenberg]: attribute description"
+msgid "Choose in which order the products should be shown"
+msgstr "Choisissez dans quel ordre les produits doivent être affichés"
+
+#: plugin-options/shortcodes-data.php:34
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Only viewed products"
+msgstr "Seuls les produits consultés"
+
+#: plugin-options/shortcodes-data.php:35
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Viewed products and similar items"
+msgstr "Produits consultés et articles similaires"
+
+#: plugin-options/shortcodes-data.php:43
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By categories"
+msgstr "Par catégories"
+
+#: plugin-options/shortcodes-data.php:44
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By tags"
+msgstr "Par balises"
+
+#: plugin-options/shortcodes-data.php:45
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "By both categories and tags"
+msgstr "Par catégories et balises"
+
+#: plugin-options/shortcodes-data.php:65
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Random"
+msgstr "Aléatoire"
+
+#: plugin-options/shortcodes-data.php:66
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Latest viewed"
+msgstr "Vu récemment"
+
+#: plugin-options/shortcodes-data.php:67
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Sales"
+msgstr "Soldés"
+
+#: plugin-options/shortcodes-data.php:68
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Newest"
+msgstr "Plus récent"
+
+#: plugin-options/shortcodes-data.php:69
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Price: High to Low"
+msgstr "Prix décroissant"
+
+#: plugin-options/shortcodes-data.php:70
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Price: Low to High"
+msgstr "Prix croissant"
+
+#: plugin-options/shortcodes-data.php:78 plugin-options/shortcodes-data.php:93
+#: plugin-options/shortcodes-data.php:102
+#: plugin-options/shortcodes-data.php:111
+#: plugin-options/shortcodes-data.php:150
+#: plugin-options/shortcodes-data.php:159
+#: plugin-options/shortcodes-data.php:168
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "Yes"
+msgstr "Oui"
+
+#: plugin-options/shortcodes-data.php:79 plugin-options/shortcodes-data.php:94
+#: plugin-options/shortcodes-data.php:103
+#: plugin-options/shortcodes-data.php:112
+#: plugin-options/shortcodes-data.php:151
+#: plugin-options/shortcodes-data.php:160
+#: plugin-options/shortcodes-data.php:169
+msgctxt "[gutenberg]: shortcode attribute option"
+msgid "No"
+msgstr "Non"
+
+#: plugin-options/shortcodes-data.php:76
+msgctxt "[gutenberg]: Option title"
+msgid "Show only the most viewed category"
+msgstr "Afficher uniquement la catégorie la plus vue"
+
+#: plugin-options/shortcodes-data.php:85 plugin-options/shortcodes-data.php:142
+msgctxt "[gutenberg]: Option title"
+msgid "Select the categories to show"
+msgstr "Sélectionnez les catégories à afficher"
+
+#: plugin-options/shortcodes-data.php:91 plugin-options/shortcodes-data.php:148
+msgctxt "[gutenberg]: Option title"
+msgid "Enable slider"
+msgstr "Activer le curseur"
+
+#: plugin-options/shortcodes-data.php:100
+#: plugin-options/shortcodes-data.php:157
+msgctxt "[gutenberg]: Option title"
+msgid "Enable slider autoplay"
+msgstr "Activer la lecture automatique du curseur"
+
+#: plugin-options/shortcodes-data.php:109
+#: plugin-options/shortcodes-data.php:166
+msgctxt "[gutenberg]: Option title"
+msgid "Show dot indicators"
+msgstr "Afficher les indicateurs de points"

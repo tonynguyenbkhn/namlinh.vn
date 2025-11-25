@@ -1,0 +1,100 @@
+<li class="sl-item pol-md-12 pol-lg-6 pol-xl-4" data-id="{{:id}}" tabindex="0" accesskey="{{:id}}">
+  <div class="sl-card p-3">
+    <div style="align-content: space-between;" class="sl-row h-100">
+      {{if path}}
+      <div class="pol-12 text-center mb-3">
+        <img src="{{:URL}}Logo/{{:path}}" alt="store-logo" class="sl-logo-img" />
+      </div>
+      {{/if}}
+      <div class="pol-12">
+        <h4 class="sl-title pl-0 m-0 pr-0">{{:title}}</h4>
+        <div class="addr-loc">
+          <p class="">{{if postal_code}}{{:postal_code}}, {{/if}}{{:city}}, {{:state}}</p>
+        </div>
+        {{if dist_str}}
+        <div class="sl-miles mt-1 ml-n1">
+          <p class="s-distance"><i class="icon-location"></i> {{:dist_str}}</p>
+        </div>
+        {{/if}}
+      </div>
+      <div class="pol-12">
+        <div class="asl-item-box my-3">
+          <div class="addr-loc">
+            <ul>
+              {{if phone}}
+              <li class="sl-phone mb-2 ml-n1">
+                <p>
+                  <a href="tel:{{:phone}}" class=""><i class="icon-mobile-1"></i> {{:phone}}</a>
+                </p>
+              </li>
+              {{/if}}
+              {{if email}}
+              <li class="sl-email mb-2 ml-n1">
+                <p>
+                  <a href="tel:{{:email}}" class=""><i class="icon-mail"></i> {{:email}}</a>
+                </p>
+              </li>
+              {{/if}}
+              {{if open_hours}}
+              <li class="sl-hours mb-2 ml-n1">
+                <p class="txt-hours"><i class="icon-clock"></i></p>
+                <p class="txt-hours">{{:open_hours}}</p>
+              </li>
+              {{/if}}
+              {{if days_str}}
+              <li class="sl-days mb-2 ml-n1">
+                <p class="txt-hours"><i class="icon-calendar"></i> {{:days_str}}</p>
+              </li>
+              {{/if}}
+              {{if c_names}}
+              <li class="mb-2 ml-n1">
+                <div class="d-flex ">
+                  {{for categories}}
+                  <div class="w-25">
+                    <a href="#" rel="noreferrer noopener" target="new_tab">
+                      <img src="{{:URL}}svg/{{:icon}}" alt="{{:name}}" class="w-100">
+                    </a>
+                  </div>
+                  {{/for}}
+                </div>
+              </li>
+              {{/if}}
+              {{if social_icons}}
+              <li class="mb-2">
+                {{:social_icons}}
+              </li>
+              {{/if}}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="pol-12">
+        {{if description}}
+        <div class="">
+          {{if desc_link}}
+          <div class="sl-item-desc mb-3"><a class="sl-link mt-2">[View Description]</a></div>
+          {{else}}
+          <div class="sl-item-desc mb-3">
+            <p class="">{{:description}}</p>
+          </div>
+          {{/if}}
+        </div>
+        {{/if}}
+      </div>
+      <div class="pol-12 sl-act-btns">
+        <div class="sl-row">
+          <p></p>
+          <div class="pol-md-12 pol-lg-6 pr-lg-0">
+            <a class="btn btn-asl w-100 s-direction"><i class="icon-direction-outline"></i> [Directions]</a>
+          </div>
+          {{if link}}
+          <div class="pol-md-12 pol-lg-6">
+            <a target="{{:target}}" class="btn btn-asl-outline w-100 mr-0 s-visit-website"
+              href="{{:link}}">[Website]</a>
+          </div>
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  </div>
+</li>

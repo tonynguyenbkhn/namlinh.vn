@@ -1,0 +1,18 @@
+{
+  "name": "yith/overlay-related-posts-block",
+  "version": "1.0.0",
+  "title": "Related Posts Block",
+  "description": "Contains the block that shows the related posts.",
+  "category": "yith-blocks",
+  "supports": {
+    "align": [
+      "wide"
+    ]
+  },
+  "parent": [
+    "yith/overlay-filled-block"
+  ],
+  "textdomain": "yith-woocommerce-ajax-search",
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2
+}

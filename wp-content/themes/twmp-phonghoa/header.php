@@ -10,11 +10,22 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-W885V6JK');</script>
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-W885V6JK');
+	</script>
 	<!-- End Google Tag Manager -->
 	<?php wp_head(); ?>
 </head>
@@ -22,8 +33,8 @@
 <body <?php body_class(); ?>>
 	<!-- Google Tag Manager (noscript) -->
 	<noscript>
-	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W885V6JK"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W885V6JK"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	</noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<?php wp_body_open(); ?>
@@ -57,30 +68,20 @@
 						<?php get_template_part('template-parts/headers/logo', null, []); ?>
 					</div>
 					<div class="flex-auto header__col header__nav">
-						<?php echo do_shortcode("[yith_woocommerce_ajax_search preset='default']"); ?>
-                        <div class="ywcas-popular-searches-wrapper">
-                            <div class="ywcas-popular-searches-items d-flex align-content-center justify-content-start">
-                                <?php
-                                $trending = get_option('yith_wcas_trending_searches_keywords');
-                                $trending = explode(', ', $trending);
-                                if (!empty($trending)):
-                                    echo '<button type="button" class="ywcas-popular-searches-label text-white" data-keyword="">'
-                                        . esc_html__('Most searched:', 'twmp-phonghoa') .
-                                        '</button>';
-
-                                    $last_index = count($trending) - 1;
-
-                                    foreach ($trending as $index => $item) {
-                                        $text = ($index !== $last_index) ? esc_html($item) . ',' : esc_html($item);
-
-                                        echo '<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="' . esc_attr($item) . '">'
-                                            . $text .
-                                            '</button>';
-                                    }
-                                endif;
-                                ?>
-                            </div>
-                        </div>
+						<?php // echo do_shortcode("[yith_woocommerce_ajax_search preset='default']"); 
+						?>
+						<?php echo do_shortcode("[twmp_woocommerce_search]"); ?>
+						<div class="ywcas-popular-searches-wrapper">
+							<div class="ywcas-popular-searches-items d-flex align-content-center justify-content-start">
+								<button type="button" class="ywcas-popular-searches-label text-white" data-keyword="">Tìm kiếm nhiều nhất</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Tivi">Tivi,</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Điều hòa">Điều hòa,</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Ghế ngồi">Ghế ngồi,</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Hút bụi">Hút bụi,</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Lọc khí">Lọc khí,</button>
+								<button type="button" class="ywcas-popular-searches-item text-white" data-keyword="Lọc nước">Lọc nước</button>
+							</div>
+						</div>
 					</div>
 					<div class="flex-auto header__col header__actions">
 						<div class="header__menu-icons">
@@ -98,11 +99,11 @@
 		</div>
 
 		<div class="header__bottom">
-            <div class="container">
-                <?php get_template_part('template-parts/headers/main-nav', null, []); ?>
-            </div>
+			<div class="container">
+				<?php get_template_part('template-parts/headers/main-nav', null, []); ?>
+			</div>
 
-            <?php /* get_template_part('templates/blocks/category-grid', null, [
+			<?php /* get_template_part('templates/blocks/category-grid', null, [
                 'class' => 'category-grid',
                 'enable_container' => true,
                 'grid_css_class' => 'col',

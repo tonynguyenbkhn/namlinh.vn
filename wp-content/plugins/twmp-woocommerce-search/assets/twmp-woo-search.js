@@ -124,7 +124,7 @@
             }
             debounceTimeout = setTimeout(function () {
                 fetch(val);
-            }, 1500);
+            }, 1000);
         });
 
         // When focusing the input, if it contains a value >= min_chars, re-run search (or show cached results)

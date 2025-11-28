@@ -470,3 +470,10 @@ function redirect_old_product_category_url() {
         exit;
     }
 }
+
+add_filter( 'pre_http_request', function( $pre, $parsed_args, $url ) {
+    if ( strpos( $url, 'yithemes.com' ) !== false ) {
+        return new WP_Error('blocked', 'YITH Remote Feed Disabled');
+    }
+    return $pre;
+}, 10, 3 );

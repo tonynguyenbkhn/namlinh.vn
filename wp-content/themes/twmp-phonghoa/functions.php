@@ -387,7 +387,7 @@ add_action('twmp_before_content_page', function () {
     }
 }, 10);
 
-add_filter('pre_site_transient_update_plugins', '__return_null');
+// add_filter('pre_site_transient_update_plugins', '__return_null');
 
 add_filter( 'term_link', 'devvn_product_cat_permalink', 10, 3 );
 function devvn_product_cat_permalink( $url, $term, $taxonomy ){

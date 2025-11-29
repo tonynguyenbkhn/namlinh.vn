@@ -1,5 +1,17 @@
 *** Warranty Requests Changelog ***
 
+2025-10-21 - version 2.7.0
+* Tweak - WooCommerce 10.3 compatibility.
+
+2025-09-15 - version 2.6.9
+* Tweak - WooCommerce 10.2 compatibility.
+
+2025-08-11 - version 2.6.8
+* Tweak - WooCommerce 10.1 compatibility.
+
+2025-07-07 - version 2.6.7
+* Tweak - WooCommerce 10.0 compatibility.
+
 2025-06-09 - version 2.6.6
 * Tweak - WooCommerce 9.9 compatibility.
 

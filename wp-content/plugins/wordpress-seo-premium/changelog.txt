@@ -1,6 +1,7 @@
 *** Yoast SEO premium Changelog ***
 
 
-2025-07-15 - version 25.5
-* update -  Bumps the minimum required version of Yoast SEO to 25.4.
+2025-11-18 - version 26.4
+* add -  Adds a warning when a user redirects a URL that includes `wp-json/`.
+* update -  Bumps the minimum required version of Yoast SEO to 26.4.
 

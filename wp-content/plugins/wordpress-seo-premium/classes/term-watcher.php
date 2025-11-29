@@ -116,13 +116,13 @@ class WPSEO_Term_Watcher extends WPSEO_Watcher implements WPSEO_WordPress_Integr
 	}
 
 	/**
-	 * Detect if the slug changed, hooked into 'post_updated'.
+	 * Detect if the slug changed, hooked into 'edited_term'.
 	 *
 	 * @param int      $term_id  The term id.
 	 * @param int      $tt_id    The term taxonomy id.
 	 * @param stdClass $taxonomy Object with the values of the taxonomy.
 	 *
-	 * @return bool
+	 * @return bool|null Null if a redirect should be created, false if not.
 	 */
 	public function detect_slug_change( $term_id, $tt_id, $taxonomy ) {
 		/**
@@ -150,6 +150,16 @@ class WPSEO_Term_Watcher extends WPSEO_Watcher implements WPSEO_WordPress_Integr
 		}
 
 		$old_url = $this->get_old_url();
+
+		$term = get_term( $term_id, $taxonomy );
+
+		if ( is_wp_error( $term ) || ! $term ) {
+			return false;
+		}
+
+		if ( ! $this->is_redirect_needed( $term, $old_url ) ) {
+			return false;
+		}
 
 		if ( ! $old_url ) {
 			return false;
@@ -203,7 +213,7 @@ class WPSEO_Term_Watcher extends WPSEO_Watcher implements WPSEO_WordPress_Integr
 	protected function is_redirect_needed( $term, $url ) {
 		$redirect_manager = new WPSEO_Redirect_Manager( 'plain' );
 		$redirect         = $redirect_manager->get_redirect( $url );
-		return ! $redirect || ( ! is_nav_menu( $term->term_id ) && is_taxonomy_viewable( $term->taxonomy ) );
+		return ! $redirect && ! is_nav_menu( $term->term_id ) && is_taxonomy_viewable( $term->taxonomy );
 	}
 
 	/**
@@ -237,17 +247,11 @@ class WPSEO_Term_Watcher extends WPSEO_Watcher implements WPSEO_WordPress_Integr
 			return '';
 		}
 
-		// Use the correct URL path.
-		$url = wp_parse_url( $term_link );
-		if ( is_array( $url ) && isset( $url['path'] ) ) {
-			return $url['path'];
-		}
-
-		return '';
+		return str_replace( home_url(), '', $term_link );
 	}
 
 	/**
-	 * Get permalink for taxonomy.
+	 * Get permalink for taxonomy for quick edit.
 	 *
 	 * @return string|WP_Error
 	 */

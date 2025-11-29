@@ -102,7 +102,7 @@ var berocket_apply_styles_for_button, berocket_apply_styles_for_button_free, ber
             $button.css('color', $(this).parents('.framework-form-table').first().find('.txt_btn_color').val());
             $button.trigger('lmp_button_changed');
         });
-        $(window).on('scroll', function () {
+        $(window).on('scroll brtab_opened', function () {
             if( $(window).height() > 600 && $(window).width() > 900 && $(window).scrollTop() > $('.btn-preview-td').offset().top + 10 ) {
                 if( ! $('.btn-preview-td .btn-preview-block').is('.btn-fixed-position') ) {
                     var width = $('.btn-preview-td .btn-preview-block').outerWidth(true);

@@ -3,7 +3,7 @@
 Plugin Name: WPC Linked Variation for WooCommerce
 Plugin URI: https://wpclever.net/
 Description: WPC Linked Variation built to link separate products together by attributes.
-Version: 4.3.7
+Version: 4.3.8
 Author: WPClever
 Author URI: https://wpclever.net
 Text Domain: wpc-linked-variation
@@ -12,20 +12,20 @@ Requires Plugins: woocommerce
 Requires at least: 4.0
 Tested up to: 6.8
 WC requires at least: 3.0
-WC tested up to: 10.2
+WC tested up to: 10.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 defined( 'ABSPATH' ) || exit;
 
-! defined( 'WPCLV_VERSION' ) && define( 'WPCLV_VERSION', '4.3.7' );
+! defined( 'WPCLV_VERSION' ) && define( 'WPCLV_VERSION', '4.3.8' );
 ! defined( 'WPCLV_LITE' ) && define( 'WPCLV_LITE', __FILE__ );
 ! defined( 'WPCLV_FILE' ) && define( 'WPCLV_FILE', __FILE__ );
 ! defined( 'WPCLV_URI' ) && define( 'WPCLV_URI', plugin_dir_url( __FILE__ ) );
 ! defined( 'WPCLV_DIR' ) && define( 'WPCLV_DIR', plugin_dir_path( __FILE__ ) );
 ! defined( 'WPCLV_SUPPORT' ) && define( 'WPCLV_SUPPORT', 'https://wpclever.net/support?utm_source=support&utm_medium=wpclv&utm_campaign=wporg' );
-! defined( 'WPCLV_REVIEWS' ) && define( 'WPCLV_REVIEWS', 'https://wordpress.org/support/plugin/wpc-linked-variation/reviews/?filter=5' );
+! defined( 'WPCLV_REVIEWS' ) && define( 'WPCLV_REVIEWS', 'https://wordpress.org/support/plugin/wpc-linked-variation/reviews/' );
 ! defined( 'WPCLV_CHANGELOG' ) && define( 'WPCLV_CHANGELOG', 'https://wordpress.org/plugins/wpc-linked-variation/#developers' );
 ! defined( 'WPCLV_DISCUSSION' ) && define( 'WPCLV_DISCUSSION', 'https://wordpress.org/support/plugin/wpc-linked-variation' );
 ! defined( 'WPC_URI' ) && define( 'WPC_URI', WPCLV_URI );
@@ -426,7 +426,7 @@ if ( ! function_exists( 'wpclv_init' ) ) {
                         if ( is_array( $v ) ) {
                             $arr[ $k ] = self::sanitize_array( $v );
                         } else {
-                            $arr[ $k ] = sanitize_text_field( $v );
+                            $arr[ $k ] = sanitize_post_field( 'post_content', $v, 0, 'db' );
                         }
                     }
 
@@ -542,9 +542,15 @@ if ( ! function_exists( 'wpclv_init' ) ) {
 
                 function register_settings() {
                     // settings
-                    register_setting( 'wpclv_settings', 'wpclv_settings' );
+                    register_setting( 'wpclv_settings', 'wpclv_settings', [
+                            'type'              => 'array',
+                            'sanitize_callback' => [ $this, 'sanitize_array' ],
+                    ] );
                     // localization
-                    register_setting( 'wpclv_localization', 'wpclv_localization' );
+                    register_setting( 'wpclv_localization', 'wpclv_localization', [
+                            'type'              => 'array',
+                            'sanitize_callback' => [ $this, 'sanitize_array' ],
+                    ] );
                 }
 
                 function admin_menu() {
@@ -755,6 +761,10 @@ if ( ! function_exists( 'wpclv_init' ) ) {
                                         <tr class="submit">
                                             <th colspan="2">
                                                 <?php settings_fields( 'wpclv_settings' ); ?><?php submit_button(); ?>
+                                                <a style="display: none;" class="wpclever_export"
+                                                   data-key="wpclv_settings"
+                                                   data-name="settings"
+                                                   href="#"><?php esc_html_e( 'import / export', 'wpc-linked-variation' ); ?></a>
                                             </th>
                                         </tr>
                                     </table>

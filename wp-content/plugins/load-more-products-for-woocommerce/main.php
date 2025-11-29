@@ -240,6 +240,7 @@ class BeRocket_LMP extends BeRocket_Framework {
                 //AJAX Compatibility
                 add_filter('brfr_get_option_ajax_filters', array($this, 'remove_product_per_page'));
             }
+            include_once('includes/admin/admin_bar.php');
         }
     }
 

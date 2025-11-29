@@ -5,7 +5,7 @@ Tags: seo, WordPress SEO, google search console, schema, redirection,
 Tested up to: 6.8
 Requires at least: 6.3
 Requires PHP: 7.4
-Stable tag: 1.0.254
+Stable tag: 1.0.258
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -339,11 +339,11 @@ Please drop us an email at support@rankmath.com, and we will be more than happy 
 
 == Changelog ==
 
-= 1.0.254 [Sept 26, 2025] =
-- Fixed: [Update SEO Score tool](https://rankmath.com/kb/seo-score-not-available/#update-seo-scores) was not considering the Product's short description when calculating the SEO score
-- Fixed: PHP warning when using [Focus Keyword variable](https://rankmath.com/kb/variables-in-seo-title-description/#focus-keyword) with keywords containing special characters
-- Fixed: Deprecated capability used in the plugin to access Rank Math Dashboard
-- Fixed: [Fallback behaviour](https://rankmath.com/kb/general-settings/#fallback-behaviour) was not working when URL contained query parameters of page IDs
-- Fixed: Updating the [Sitemap settings](https://rankmath.com/kb/configure-sitemaps/) was not clearing the Sitemap cache
+= 1.0.258 [Nov 19, 2025] =
+- Improved: [Filter to remove global Schema entities](https://rankmath.com/kb/filters-hooks-api-developer/#remove-global-schema-entities) will now work on the taxonomy pages as well
+- Fixed: PHP error on Site editor page
+- Fixed: The [Fix with AI tool](https://rankmath.com/kb/fix-seo-tests-with-content-ai/) for the content tests was not highlighting all the changes
+- Fixed: The Fix with AI tool was not working on non-content tests when the post content is empty
+- Fixed: Missing [Business type option in the Setup wizard](https://rankmath.com/kb/how-to-setup/#business-type) when Small Business type is selected in the Site type
 
 Full changelog can be found here - **[Rank Math changelog](https://rankmath.com/changelog/?utm_source=Plugin&utm_medium=Changelog&utm_campaign=WP)**

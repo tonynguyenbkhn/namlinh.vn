@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'awesomemotive/wpforms',
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
-        'reference' => '8f98661243102181a838961e288da4ae6f310ef0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '5223defa36fed644c9bb19f9b2107057f647d5f1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'awesomemotive/wpforms' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
-            'reference' => '8f98661243102181a838961e288da4ae6f310ef0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '5223defa36fed644c9bb19f9b2107057f647d5f1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -65,9 +65,9 @@
             'dev_requirement' => false,
         ),
         'ezyang/htmlpurifier' => array(
-            'pretty_version' => 'v4.18.0',
-            'version' => '4.18.0.0',
-            'reference' => 'cb56001e54359df7ae76dc522d08845dc741621b',
+            'pretty_version' => 'v4.19.0',
+            'version' => '4.19.0.0',
+            'reference' => 'b287d2a16aceffbf6e0295559b39662612b77fcf',
             'type' => 'library',
             'install_path' => __DIR__ . '/../ezyang/htmlpurifier',
             'aliases' => array(),
@@ -103,7 +103,7 @@
         'roave/security-advisories' => array(
             'pretty_version' => 'dev-latest',
             'version' => 'dev-latest',
-            'reference' => '684ef27cdce62b6562f77a92dc76bdfb46542a2d',
+            'reference' => '19966d2f97bbc444bb176432754e33256a7d45bf',
             'type' => 'metapackage',
             'install_path' => null,
             'aliases' => array(

@@ -1,6 +1,0 @@
-<wpml-config>
-  <custom-fields>
-    <custom-field action="translate">twist_video_url</custom-field>
-    <custom-field action="translate">wavi_value</custom-field>
-  </custom-fields>
-</wpml-config>

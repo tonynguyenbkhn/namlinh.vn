@@ -169,7 +169,7 @@ class Warranty_Admin {
 			wp_enqueue_media();
 
 			$suffix = defined( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ? '' : '.min';
-			wp_register_script( 'jquery-tiptip', WC()->plugin_url() . '/assets/js/jquery-tiptip/jquery.tipTip' . $suffix . '.js', array( 'jquery' ), WC()->version, true );
+			wp_register_script( 'wc-jquery-tiptip', WC()->plugin_url() . '/assets/js/jquery-tiptip/jquery.tipTip' . $suffix . '.js', array( 'jquery' ), WC()->version, true );
 			wp_register_script( 'wc-warranty-admin-settings-general', WooCommerce_Warranty::get_plugin_url() . 'assets/js/admin/settings-general.js', array( 'jquery' ), WOOCOMMERCE_WARRANTY_VERSION, true );
 			wp_register_script( 'wc-warranty-admin-settings-default', WooCommerce_Warranty::get_plugin_url() . 'assets/js/admin/settings-default.js', array( 'jquery' ), WOOCOMMERCE_WARRANTY_VERSION, true );
 
@@ -177,8 +177,8 @@ class Warranty_Admin {
 
 			wp_enqueue_style( 'woocommerce_admin_styles', $woocommerce->plugin_url() . '/assets/css/admin.css', array(), WOOCOMMERCE_WARRANTY_VERSION );
 
-			wp_enqueue_script( 'jquery-blockui', WC()->plugin_url() . '/assets/js/jquery-blockui/jquery.blockUI.min.js', array( 'jquery' ), '2.70', true );
-			wp_enqueue_script( 'jquery-tiptip' );
+			wp_enqueue_script( 'wc-jquery-blockui', WC()->plugin_url() . '/assets/js/jquery-blockui/jquery.blockUI.min.js', array( 'jquery' ), '2.70', true );
+			wp_enqueue_script( 'wc-jquery-tiptip' );
 			wp_enqueue_script( 'jquery-ui-sortable' );
 			wp_enqueue_script( 'jquery-ui-core' );
 

@@ -294,6 +294,10 @@ class Redirect_Handler implements Initializer_Interface {
 			return;
 		}
 
+		if ( $this->is_yoast_wp_json_request() ) {
+			return;
+		}
+
 		$this->redirect( $redirect_url, $redirect_type );
 	}
 
@@ -629,6 +633,7 @@ class Redirect_Handler implements Initializer_Interface {
 			require_once \ABSPATH . 'wp-includes/pluggable.php';
 		}
 
+		// phpcs:ignore WordPress.Security.SafeRedirect.wp_redirect_wp_redirect -- Location is validated by redirect logic before calling this method.
 		\wp_redirect( $location, $status, 'Yoast SEO Premium' );
 		exit;
 	}
@@ -671,5 +676,19 @@ class Redirect_Handler implements Initializer_Interface {
 		if ( $this->is_redirected() === false ) {
 			$this->handle_regex_redirects();
 		}
+	}
+
+	/**
+	 * Checks if the current request is a Yoast WP JSON request.
+	 *
+	 * @return bool True when it is a Yoast WP JSON request.
+	 */
+	private function is_yoast_wp_json_request(): bool {
+		if ( empty( $_SERVER['REQUEST_URI'] ) ) {
+			return false;
+		}
+		$path = \sanitize_text_field( \wp_unslash( $_SERVER['REQUEST_URI'] ) );
+
+		return ( \strpos( $path, 'yoast/v1/redirects/' ) !== false );
 	}
 }

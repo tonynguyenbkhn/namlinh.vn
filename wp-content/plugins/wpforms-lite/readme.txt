@@ -3,7 +3,7 @@ Contributors: wpforms, jaredatch, smub, slaFFik
 Tags: contact form, contact form plugin, forms, form builder, custom form
 Requires at least: 5.5
 Tested up to: 6.8
-Stable tag: 1.9.8.1
+Stable tag: 1.9.8.4
 Requires PHP: 7.2
 License: GNU General Public License v2.0 or later
 
@@ -139,6 +139,7 @@ We also know that our developer friends may want more control, so we added tons 
 * [Campaign Monitor](https://wpforms.com/features/campaign-monitor-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
 * [GetResponse](https://wpforms.com/features/getresponse-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
 * [Constant Contact](https://wpforms.com/features/constant-contact/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
+* [Airtable](https://wpforms.com/features/airtable-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
 * [Drip](https://wpforms.com/features/drip-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
 * [ActiveCampaign](https://wpforms.com/features/activecampaign-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
 * [HubSpot](https://wpforms.com/features/hubspot-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin)
@@ -387,6 +388,20 @@ Thank you,
 Syed Balkhi
 
 == Changelog ==
+
+= 1.9.8.4 =
+- Added: Ability to hide choice images notifications.
+- Added: Ability to set a user-defined choice for the Multiple Choice field.
+- Changed: Updated DOMPurify library to 3.2.7.
+- Changed: Updated Font Awesome library to 7.0.1.
+- Changed: Validation of Custom Meta Keys on the Form Builder > Payments > Stripe screen.
+- Fixed: Form Builder preview container height in empty state.
+- Fixed: A conflict occurred when a non-Google captcha was used in the form and the Google reCAPTCHA API was loaded on the same page.
+- Fixed: A fatal error in `wpforms_is_admin_page()` that occurred when the page request parameter was passed as an array instead of a string.
+- Fixed: Console error when installing WPForms via a Block in the Block Editor.
+
+= 1.9.8.2 =
+- Fixed: Form Builder preview container height with empty state.
 
 = 1.9.8.1 =
 - Added: Ability to disconnect Stripe accounts through the Settings > Payments admin page.

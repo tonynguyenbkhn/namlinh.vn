@@ -472,7 +472,7 @@ function redirect_old_product_category_url() {
 }
 
 add_filter( 'pre_http_request', function( $pre, $parsed_args, $url ) {
-    if ( strpos( $url, 'yithemes.com' ) !== false ) {
+    if ( strpos( $url, 'yithemes.com' ) !== false || strpos( $url, 'connect.advancedcustomfields.com' ) !== false ) {
         return new WP_Error('blocked', 'YITH Remote Feed Disabled');
     }
     return $pre;

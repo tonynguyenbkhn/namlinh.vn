@@ -15,15 +15,35 @@
 			@include col(5, 10px);
 		}
 
-		.wpgs-thumb .slick-prev:before, .wpgs-thumb .slick-next:before {
+		.wpgs-thumb .slick-prev:before,
+		.wpgs-thumb .slick-next:before {
 			transform: translate(-50%, -50%);
 			left: 50%;
 			margin: 0;
 		}
 
-		.wpgs-thumb .slick-prev, .wpgs-thumb .slick-next {
+		.wpgs-thumb .slick-prev,
+		.wpgs-thumb .slick-next {
 			width: 30px;
 			height: 30px;
+		}
+
+		.slick-slide img {
+			display: block;
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+		}
+	}
+
+	.images {
+		@include col(12, 10px);
+		order: 1;
+		position: relative;
+
+		@media (min-width: 1024px) {
+			order: 1;
+			@include col(5, 10px);
 		}
 
 		.slick-slide img {
@@ -688,6 +708,7 @@
 
 		.woocommerce_single_product_summary__gift {
 			order: 6;
+
 			li {
 				padding: 6px 12px;
 				margin-bottom: 10px;
@@ -1418,8 +1439,10 @@
 	margin-bottom: 0;
 }
 
-.box-sale-mifan span,.box-sale-mifan a {
+.box-sale-mifan span,
+.box-sale-mifan a {
 	font-weight: 600;
+
 	&:hover {
 		color: var(--black);
 	}

@@ -28,7 +28,7 @@ class WPSEO_Premium {
 	 *
 	 * @var string
 	 */
-	public const PLUGIN_VERSION_NAME = '25.5';
+	public const PLUGIN_VERSION_NAME = '26.4';
 
 	/**
 	 * Machine readable version for determining whether an upgrade is needed.
@@ -241,6 +241,7 @@ class WPSEO_Premium {
 			$redirect_url = home_url( $redirect_url );
 		}
 
+		// phpcs:ignore WordPress.Security.SafeRedirect.wp_redirect_wp_redirect -- Redirect URL is validated and sanitized by redirect object.
 		wp_redirect( $redirect_url, $redirect->get_type(), 'Yoast SEO Premium' );
 		exit;
 	}
@@ -409,16 +410,8 @@ class WPSEO_Premium {
 	 * @return array The HelpScout beacon settings array.
 	 */
 	public function filter_helpscout_beacon( $helpscout_settings ) {
-		$beacon_id = '1ae02e91-5865-4f13-b220-7daed946ba25';
-
-		$helpscout_settings['products'][] = WPSEO_Addon_Manager::PREMIUM_SLUG;
-
-		// Set the beacon to the premium beacon for all pages.
-		foreach ( $helpscout_settings['pages_ids'] as $page => $beacon ) {
-			$helpscout_settings['pages_ids'][ $page ] = $beacon_id;
-		}
-		// Add the redirects page.
-		$helpscout_settings['pages_ids']['wpseo_redirects'] = $beacon_id;
+		$helpscout_settings['products'][]                   = WPSEO_Addon_Manager::PREMIUM_SLUG;
+		$helpscout_settings['pages_ids']['wpseo_redirects'] = '1ae02e91-5865-4f13-b220-7daed946ba25';
 
 		return $helpscout_settings;
 	}
